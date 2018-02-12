@@ -1,0 +1,3 @@
+[submodule "themes/xmin_kevcaz"]
+	path = themes/xmin_kevcaz
+	url = https://github.com/KevCaz/hugo-xmin.git
