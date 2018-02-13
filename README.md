@@ -1,3 +1,3 @@
 # AquaticGuelph website
 
-This website is built using [Hugo](https://gohugo.io/).
+Website for the CFREF auqtaic group built using [Hugo](https://gohugo.io/)
