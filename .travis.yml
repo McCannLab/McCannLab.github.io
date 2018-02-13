@@ -7,7 +7,7 @@ python:
 
 branches:
   only:
-    - dev
+    - devel
     - master
 
 # Clean and don't fail
@@ -30,4 +30,4 @@ deploy:
   target-branch: master
   github_token: $GH_TOKEN # must be set in travis-ci.org dashboard and in GH repo.
   on:
-    branch: dev
+    branch: devel
