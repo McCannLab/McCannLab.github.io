@@ -1,7 +1,10 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "CFREF aquatics"
 theme = "xmin_kevcaz"
+twitterUsername = "mccannlab"
+github = "AquaticGuelph"
+googlefont = "Lato"
 googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
@@ -25,13 +28,13 @@ footnotereturnlinkcontents = "↩"
     url = "/members/"
     weight = 3
 [[menu.main]]
-    name = "Tags"
-    url = "/tags/"
+    name = "Projects"
+    url = "/projects/"
     weight = 4
 [[menu.main]]
     name = "Subscribe"
     url = "/index.xml"
 
 [params]
-    description = "A website built through Hugo and blogdown."
-    footer = "&copy; [Kevin Cazelles](https://yihui.name) 2017 -- 2018 | [Github](https://github.com/KevCax) | [Twitter](https://twitter.com/KCazelles)"
+    description = "Hugo website CFREF Aquatics"
+    footer = "&copy; [Kevin Cazelles](http://kevincazelles.fr/) 2018"
