@@ -13,27 +13,38 @@ footnotereturnlinkcontents = "↩"
 
 [permalinks]
     post = "/post/:year/:month/:day/:slug/"
-    note = "/note/:year/:month/:day/:slug/"
+    projects = "/projects/:year/:slug/"
 
 [[menu.main]]
     name = "Home"
     url = "/"
     weight = 1
 [[menu.main]]
-    name = "About"
-    url = "/about/"
-    weight = 2
-[[menu.main]]
     name = "Members"
     url = "/members/"
-    weight = 3
+    weight = 2
 [[menu.main]]
     name = "Projects"
-    url = "/projects/"
+    url = "/project/"
+    weight = 3
+[[menu.main]]
+    name = "Publications"
+    url = "/publications/"
     weight = 4
 [[menu.main]]
-    name = "Subscribe"
-    url = "/index.xml"
+    name = "Blog"
+    url = "/post/"
+    weight = 5
+
+[[menu.icon]]
+    url = "https://github.com/AquaticGuelph"
+    name = "github"
+    weight = 1
+
+[[menu.icon]]
+    url = "https://twitter.com/mccannlab"
+    name = "twitter"
+    weight = 2
 
 [params]
     description = "Hugo website CFREF Aquatics"

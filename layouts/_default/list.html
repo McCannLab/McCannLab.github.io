@@ -1,0 +1,27 @@
+{{ partial "header.html" . }}
+
+<img class="full-width" width="100%" src="/img/banner.jpg"></img>
+
+
+
+<div class="container">
+
+
+  <h1>{{ .Title }}</h1>
+
+  {{ .Content }}
+
+
+<ul>
+  {{ range .Pages }}
+  <li>
+    <span class="date">{{ .Date.Format "2006/01/02" }}</span>
+    <a href="{{ .URL }}">{{ .Title }}</a>
+  </li>
+    {{ end }}
+</ul>
+
+
+</div>
+
+{{ partial "footer.html" . }}

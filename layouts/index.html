@@ -1,24 +1,26 @@
 {{ partial "header" . }}
 
-<img class="full-width" width="100%" src="img/banner.png"></img>
+<img class="full-width" width="100%" src="img/banner.jpg"></img>
 
   <div class="container">
   <div class="row">
   <div class="col-sm-4">
     <h3>Latest posts</h3>
     <h5><a href="/post/">View all</a></h5>
-    <hr> {{ range first 5 .Site.Pages }} {{if eq .Type "post" }}
+    {{/* <hr> {{ range first 5 .Site.Pages }} {{if eq .Type "post" }}
     <h4 style="font-weight:bolder;"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h4>
     <p>{{ .Date.Format "02 Jan, 2006" }}</p>
     <p style="font-size:small;"><i>{{ slicestr .Summary 0 200 }}...</i> <a href="{{ .Permalink }}">Read More</a></p>
     <hr>
-    {{ end }} {{ end }}
+    {{ end }} {{ end }} */}}
   </div>
   <div class="col-sm-4">
     <div class="text-justify">{{ .Content }}</div>
   </div>
   <div class="col-sm-4">
-    <a class="twitter-timeline" href="https://twitter.com/{{ .Site.Params.twitterUsername }}" data-chrome="nofooter noborders hoheader"></a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+    <a class="twitter-timeline"  href="https://twitter.com/mccannlab" data-width="300" data-height="400" data-chrome="nofooter noborders hoheader"> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+Tweets by @mccannlab
+</a>
   </div>
   </div>
   </div>

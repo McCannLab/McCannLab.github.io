@@ -1,0 +1,20 @@
+{{ partial "header.html" . }}
+
+<img class="full-width" width="100%" src="/img/banner.jpg"></img>
+
+<div class="container">
+
+<h1><span class="title">{{ .Title }}</span></h1>
+{{ with .Params.author }}<h2 class="author">{{ . }}</h2>{{ end }}
+{{ if .Params.date }}<h2 class="date">{{ .Date.Format "2006/01/02" }}</h2>{{ end }}
+
+
+<br><br>
+
+<main>
+{{ .Content }}
+</main>
+</div>
+
+
+{{ partial "footer.html" . }}
