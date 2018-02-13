@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://aquaticguelph.github.io/HugoWoolner/"
 languageCode = "en-us"
 title = "CFREF aquatics"
 theme = "xmin_kevcaz"
