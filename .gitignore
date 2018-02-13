@@ -1,5 +1,6 @@
 #
 static/img_hidden/
+public/
 
 # Prerequisites
 *.d
