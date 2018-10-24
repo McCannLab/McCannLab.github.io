@@ -1,5 +1,5 @@
-# AquaticGuelph website
+# McCann Lab
 
-[![Build Status](https://travis-ci.org/AquaticGuelph/HugoWoolner.svg?branch=devel)](https://travis-ci.org/AquaticGuelph/HugoWoolner)
+[![Build Status](https://travis-ci.org/McCannLab/McCannLab.github.io.svg?branch=devel)](https://travis-ci.org/McCannLab/McCannLab.github.io)
 
-Website for the CFREF aquatic group built using [Hugo](https://gohugo.io/)
+McCann Lab webpages built using [Hugo](https://gohugo.io/)
