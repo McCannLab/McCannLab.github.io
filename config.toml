@@ -1,13 +1,14 @@
-baseURL = "https://AquaticGuelph.github.io/"
+baseURL = "https://mccannlab.github.io/"
 languageCode = "en-us"
-title = "CFREF aquatics"
+title = "The McCann Lab"
 theme = "xmin_kevcaz"
 twitterUsername = "mccannlab"
-github = "AquaticGuelph"
+github = "McCannLab"
 googlefont = "Lato"
 googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+enableEmoji = true
 preserveTaxonomyNames = true
 footnotereturnlinkcontents = "↩"
 
@@ -25,7 +26,7 @@ footnotereturnlinkcontents = "↩"
     weight = 2
 [[menu.main]]
     name = "Projects"
-    url = "/project/"
+    url = "/projects/"
     weight = 3
 [[menu.main]]
     name = "Publications"
@@ -37,7 +38,7 @@ footnotereturnlinkcontents = "↩"
     weight = 5
 
 [[menu.icon]]
-    url = "https://github.com/AquaticGuelph"
+    url = "https://github.com/McCannLab"
     name = "github"
     weight = 1
 
@@ -47,5 +48,5 @@ footnotereturnlinkcontents = "↩"
     weight = 2
 
 [params]
-    description = "Hugo website CFREF Aquatics"
-    footer = "&copy; [Kevin Cazelles](http://kevincazelles.fr/) 2018"
+    description = "McCannLab website"
+    footer = "&copy; McCannLab 2018"
