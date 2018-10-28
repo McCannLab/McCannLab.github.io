@@ -1,7 +1,7 @@
 baseURL = "https://mccannlab.github.io/"
 languageCode = "en-us"
 title = "The McCann Lab"
-theme = "xmin_kevcaz"
+theme = "hugo-KevCaz"
 twitterUsername = "mccannlab"
 github = "McCannLab"
 googlefont = "Lato"
@@ -12,6 +12,22 @@ enableEmoji = true
 preserveTaxonomyNames = true
 footnotereturnlinkcontents = "↩"
 
+
+[params]
+    description = "McCannLab website"
+    footer = "&copy; McCannLab 2018"
+    #  For more info on the highlighting options, see:   # https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/#highlighting-options
+    highlight = false
+    # highlight_languages = ["bash", "html", "julia", "python", "r", "rust", "yaml"]
+    # highlight_style = "github"
+    # highlight_version = "9.12.0"
+    # I follow the example given with highlightjs in academic theme to add mathjax and lealfet
+    mathjax = false
+    leaflet = true
+    phone = "(519)-824-4120 ext 56861"
+    fax = "(519)-767-1656"
+    email = "ksmccann@uoguelph.ca"
+
 [permalinks]
     post = "/post/:year/:month/:day/:slug/"
     projects = "/projects/:year/:slug/"
@@ -21,21 +37,25 @@ footnotereturnlinkcontents = "↩"
     url = "/"
     weight = 1
 [[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 2
+[[menu.main]]
     name = "Members"
     url = "/members/"
-    weight = 2
+    weight = 3
 [[menu.main]]
     name = "Projects"
     url = "/projects/"
-    weight = 3
+    weight = 4
 [[menu.main]]
     name = "Publications"
     url = "/publications/"
-    weight = 4
+    weight = 5
 [[menu.main]]
     name = "Blog"
     url = "/post/"
-    weight = 5
+    weight = 6
 
 [[menu.icon]]
     url = "https://github.com/McCannLab"
@@ -47,6 +67,6 @@ footnotereturnlinkcontents = "↩"
     name = "twitter"
     weight = 2
 
-[params]
-    description = "McCannLab website"
-    footer = "&copy; McCannLab 2018"
+# Taxonomies.
+  [taxonomies]
+  tag = "tags"

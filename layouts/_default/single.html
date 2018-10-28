@@ -1,20 +1,8 @@
-{{ partial "header.html" . }}
+{{ define "main" }}
 
-<img class="full-width" width="100%" src="/img/banner.jpg"></img>
+<h1><i class="fa fa-{{ .Params.icon }}" aria-hidden="true"></i> {{ .Title }}</h1>
+<hr>
 
-<div class="container">
-
-<h1><span class="title">{{ .Title }}</span></h1>
-{{ with .Params.author }}<h2 class="author">{{ . }}</h2>{{ end }}
-{{ if .Params.date }}<h2 class="date">{{ .Date.Format "2006/01/02" }}</h2>{{ end }}
-
-
-<br><br>
-
-<main>
 {{ .Content }}
-</main>
-</div>
 
-
-{{ partial "footer.html" . }}
+{{ end }}
