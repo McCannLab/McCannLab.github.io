@@ -1,27 +1,24 @@
-{{ partial "header.html" . }}
-
-<img class="full-width" width="100%" src="/img/banner.jpg"></img>
+{{ define "main" }}
 
 
-
-<div class="container">
-
-
-  <h1>{{ .Title }}</h1>
+  {{if not .IsHome }}
+  <h1><i class="fa fa-{{ .Params.icon }}" aria-hidden="true"></i> {{ .Title }}</h1>
+  {{ end }}
+  <hr>
 
   {{ .Content }}
 
+  <br>
 
-<ul>
-  {{ range .Pages }}
-  <li>
-    <span class="date">{{ .Date.Format "2006/01/02" }}</span>
-    <a href="{{ .URL }}">{{ .Title }}</a>
-  </li>
-    {{ end }}
-</ul>
+  <ul>
+    {{ range (where .Data.Pages "Section" "!=" "") }}
+    <li>
+      <span class="date">{{ .Date.Format "2006/01/02" }}</span>
+      <a href="{{ .URL }}">{{ .Title }}</a>
+    </li>
+      {{ end }}
+
+  </ul>
 
 
-</div>
-
-{{ partial "footer.html" . }}
+{{ end }}

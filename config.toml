@@ -13,6 +13,7 @@ preserveTaxonomyNames = true
 footnotereturnlinkcontents = "↩"
 
 
+
 [params]
     description = "McCannLab website"
     footer = "&copy; McCannLab 2018"
@@ -27,6 +28,9 @@ footnotereturnlinkcontents = "↩"
     phone = "(519)-824-4120 ext 56861"
     fax = "(519)-767-1656"
     email = "ksmccann@uoguelph.ca"
+    custom_css = [
+      "/css/custom.css"
+    ]
 
 [permalinks]
     post = "/post/:year/:month/:day/:slug/"
@@ -68,5 +72,5 @@ footnotereturnlinkcontents = "↩"
     weight = 2
 
 # Taxonomies.
-  [taxonomies]
+[taxonomies]
   tag = "tags"

@@ -1,0 +1,105 @@
+video {
+  padding-top: 5px;
+  padding-bottom: 10px;
+}
+
+.tags {
+  font-weight: 600;
+}
+.tags a:hover {
+    color: white;
+}
+
+.role {
+  text-align: center;
+  color: #444;
+}
+
+.title{
+  font-size: .9em !important;
+}
+
+.date {
+  color: #444;
+  font-size: 1.1em;
+}
+
+.pubs_li {
+  font-size: 1.05em;
+  padding-top: 10px;
+}
+
+.anchor {
+   position: relative;
+}
+
+.anchor span {
+   position: absolute;
+   top: -64px;
+}
+
+.mysticky {
+  display: block;
+  position: fixed;
+  top: 48px;
+}
+
+video {
+  padding-top: 5px;
+  padding-bottom: 10px;
+}
+
+.tags {
+  font-weight: 600;
+}
+.tags a:hover {
+    color: white;
+}
+
+.role {
+  text-align: center;
+  color: #444;
+}
+
+.title{
+  font-size: .9em !important;
+}
+
+.date {
+  color: #444;
+  font-size: 1.1em;
+}
+
+.pubs_li {
+  font-size: 1.05em;
+  padding-top: 10px;
+}
+
+.anchor {
+   position: relative;
+}
+
+.anchor span {
+   position: absolute;
+   top: -64px;
+}
+
+.mysticky {
+  display: block;
+  position: fixed;
+  top: 48px;
+}
+
+
+#map {
+  height: 350px;
+  width: 90%;
+  float: center;
+  display: inline-block;
+  background-color:black;
+  margin: 10px 10px 10px 10px;
+ }
+
+blockquote {
+  font-size: 1.05em !important;
+}
