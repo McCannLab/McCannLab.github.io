@@ -12,7 +12,7 @@ L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
 L.marker(latlngu).addTo(map)
     .bindPopup('<a href="https://www.uoguelph.ca/"><i class="fa fa-university" aria-hidden="true"></i> <b>University of Guelph</b></a> <br/>'+
     '<a href="https://www.uoguelph.ca/ib/"> Department of Integrative Biology</a><br/>'+
-    '50 Stone Road W, <br/>'
+    '50 Stone Road W, <br/>' +
     'Summerlee Science Complex, <br/> Office SSC 2472, <br/> Guelph, ON N1G 2W1')
     .openPopup();
 
