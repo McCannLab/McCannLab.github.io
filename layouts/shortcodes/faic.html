@@ -1,1 +1,5 @@
-<i class="fa {{ .Get 0 }}" aria-hidden="true"></i>
+{{ if .Get 1 }}
+  <i class="fa {{ .Get 0 }} fa-{{ .Get 1 }}x" aria-hidden="true"></i>
+{{ else }}
+  <i class="fa {{ .Get 0 }}" aria-hidden="true"></i>
+{{ end }}

@@ -1,14 +1,16 @@
-{{ partial "header" . }}
-
-<img class="full-width" width="100%" src="/img/banner.jpg"></img>
+{{ define "leftside"}}
 
 
-<div class="container">
+{{ end }}
 
-  <h1>{{ .Title}}</h1>
 
-  {{ .Content }}
+{{ define "main" }}
 
-</div>
+    <h1> {{ .Title }}</h1>
+    <hr>
 
-{{ partial "footer.html" . }}
+    {{ .Content }}
+
+    {{ partial "publications" . }}
+
+{{ end }}

@@ -1,0 +1,148 @@
+<h2>Book</h2>
+
+
+<div class="row">
+
+  <div class="col-sm-3">
+
+    <a href = "https://www.amazon.ca/Food-Webs-MPB-50-Kevin-McCann/dp/0691134189">
+    <img src="https://images-na.ssl-images-amazon.com/images/I/21p7l-naqfL._SX327_BO1,204,203,200_.jpg" alt="">
+    </a>
+
+  </div>
+
+  <div class="col-sm-19">
+
+    <h3>
+      Food Webs - Monographs in Population Biology (2012)
+    </h3>
+
+  Human impacts are dramatically altering our natural ecosystems but the exact repercussions on ecological sustainability and function remain unclear. As a result, food web theory has experienced a proliferation of research seeking to address these critical areas. Arguing that the various recent and classical food web theories can be looked at collectively and in a highly consistent and testable way, Food Webs synthesizes and reconciles modern and classical perspectives into a general unified theory.
+
+  <br><br>
+
+  <a href = "https://www.amazon.ca/Food-Webs-MPB-50-Kevin-McCann/dp/0691134189"><i class="fa fa-amazon fa-2x" aria-hidden="true"></i></a>
+
+  </div>
+
+</div>
+
+
+
+
+
+<br>
+
+<h2>Articles</h2>
+
+
+  {{ $letk := "Kevin" | truncate 1 "." }}
+
+  <ol>
+
+  {{ range $index := (seq 2018 2010) }}
+
+    <h3> {{ $index }} </h3>
+
+    {{ range $.Site.Data.biblio }}
+
+      {{ if eq (index .issued 0).year $index }}
+
+        <li class="pubs_li">
+          {{ $len := len .author }}
+          {{ $len2 := sub $len 1 }}
+          {{ range $i, $e := .author}}
+              {{ $let := .given | truncate 1 "." }}
+              {{ if (and (eq .family "McCann") (eq $let $letk)) }}
+                <b><span style="color: #337ab7">
+                {{ .family }} {{ $let }}</span></b>{{ if eq $len2 $i }}.{{ else }},{{ end }}
+              {{ else }}
+                {{ .family }} {{ $let }}{{ if eq $len2 $i }}{{ else }},{{ end }}
+              {{ end }}
+            {{ end }}
+
+            {{ range .issued }}
+              ({{ .year }}).
+            {{ end }}
+
+            <b>{{ .title }}</b>
+
+            {{ if .container }}
+              {{ .container }}.
+            {{ end }}
+
+            {{ if .volume }}
+              <em>{{ .volume }}</em>{{ if .issue }}({{ .issue }}){{ end }}
+            {{ end }}
+
+            {{ if .DOI }}
+              DOI: <a href="{{ .URL }}">{{ .DOI }}</a>
+            {{ end }}
+
+          </li>
+
+        {{ end }}
+
+      {{ end }}
+
+  {{ end }}
+
+
+  <br><br>
+
+
+  <!-- details -->
+
+  <details>
+    <summary> <h3><i class="fa fa-chevron-circle-right" aria-hidden="true"></i>Published in 2009 and before</h3></summary>
+
+  {{ range $index := (seq 2009 1994 ) }}
+
+    <h3> {{ $index }} </h3>
+
+    {{ range $.Site.Data.biblio }}
+
+      {{ if eq (index .issued 0).year $index }}
+
+        <li class="pubs_li">
+          {{ $len := len .author }}
+          {{ $len2 := sub $len 1 }}
+          {{ range $i, $e := .author}}
+              {{ $let := .given | truncate 1 "." }}
+              {{ if (and (eq .family "McCann") (eq $let $letk)) }}
+                <b><span style="color: #337ab7">
+                {{ .family }} {{ $let }}</span></b>{{ if eq $len2 $i }}.{{ else }},{{ end }}
+              {{ else }}
+                {{ .family }} {{ $let }}{{ if eq $len2 $i }}{{ else }},{{ end }}
+              {{ end }}
+            {{ end }}
+
+            {{ range .issued }}
+              ({{ .year }}).
+            {{ end }}
+
+            <b>{{ .title }}</b>
+
+            {{ if .container }}
+              {{ .container }}.
+            {{ end }}
+
+            {{ if .volume }}
+              <em>{{ .volume }}</em>{{ if .issue }}({{ .issue }}){{ end }}
+            {{ end }}
+
+            {{ if .DOI }}
+              DOI: <a href="{{ .URL }}">{{ .DOI }}</a>
+            {{ end }}
+
+          </li>
+
+        {{ end }}
+
+      {{ end }}
+
+  {{ end }}
+
+</details>
+
+</ol>
