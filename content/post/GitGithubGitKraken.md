@@ -65,7 +65,7 @@ lab meeting (24/10/2018) by Gabe:
 Comments:
 
 - As academics you can get [an unlimited private repos](https://help.github.com/articles/applying-for-a-student-developer-pack/) as opposed to three by default,
-- If you are a student an interested in imporving you coding skill, [checkout the GitHub Student Developer Pack](https://education.github.com/pack)
+- If you are a student an interested in improving you coding skill, [checkout the GitHub Student Developer Pack](https://education.github.com/pack)
 - how to sync your git?
 <!-- @Gabe, may be a word about this? -->
 - avoid versioning [large files](https://help.github.com/articles/working-with-large-files/)
