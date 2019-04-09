@@ -1,0 +1,13 @@
+---
+title: "Smart Food Webs"
+author: [kevin_mccann]
+date: 2017-04-11
+tags: [food webs, brain size]
+---
+
+> Smart Fish, as measured by relative brain size, are found in the food web in positions that are expected to maximize the stability of ecosystems
+
+A food web is a map of species interactions describing who eats whom. The network of species interactions that comprise a food web are now known to be incredibly baroque entities that extend across a mosaic of habitat divisions and ecosystems. As an example, bears forage in oceans, rivers and terrestrial habitats blurring the lines between ecosystems. Similarly, in lakes, big mobile fish like lake trout feed in the deep cold water they are adapted too but also are willing to make long excursions into the warmer near shore shallow areas of the lake, where different warm water adapted prey species tend to reside, to feed as well. Biologists, though, argue that this “coupling” across different habitats, or “switching”, will only increase the fitness of an individual in a Darwinian sense if organisms switch habitats at the right time (e.g, lots of prey), otherwise, such movements across habitat divisions will be too costly. Further, and importantly, ecological theory also suggests such smart foragers should help sustain webs (smart predators prevent prey species from monopolizing the environment). Ecosystems appear replete with such mobile organisms but until now it has been tricky to determine if such key species are capable of making smart decisions. A recent study by neurobiologists and ecologists finds evidence for these “couplers” to, in deed, be smart as required. Using relative brain size (brain weight/body weight) as a proxy for intelligence, the researchers found that degree of coupling across different habitat divisions in lakes actually correlated significantly with brain size suggesting the smart fish were the ones coupling across habitats as expected. Further, their statistical analysis found that even individuals from the same species and of the same weight showed this pattern – individual fish who coupled more equally across habitats also tended to have bigger relative brains then other similar fish foraging only in one habitat. This repeated pattern, both within and across species, amazingly suggests that fish species, and individuals, are smart precisely where they need to be in the food web. their novel and evolutionary advantageous approach to hunting, the startling discovery is made that fish may actually be intelligent.
+
+
+Edmunds, N. B., Laberge, F. and McCann, K. S. (2016), A role for brain size and cognition in food webs. Ecol Lett. [doi:10.1111/ele.12633](https://doi.org/10.1111/ele.12633)
