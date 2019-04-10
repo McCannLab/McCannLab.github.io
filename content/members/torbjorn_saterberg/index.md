@@ -1,12 +1,15 @@
 ---
 member: torbjorn_saterberg
 layout: members
+email: torbjorn.saterberg@slu.se
+phone: "+46 76 140 32 50"
 ---
-# Torbjörn Säterberg
+
+# Torbjï¿½rn Sï¿½terberg
 
 #### Research interests
 
-I am a visiting postdoctoral researcher from the [Swedish University of Agricultural Sciences](https://www.slu.se/cv/torbjorn-saterberg/). My research addresses both fundamental questions and more applied questions within the field of food web ecology. To this end, I combine theoretical analyses with data driven approaches, such as time series analyses. My major areas of research include: 
+I am a visiting postdoctoral researcher from the [Swedish University of Agricultural Sciences](https://www.slu.se/cv/torbjorn-saterberg/). My research addresses both fundamental questions and more applied questions within the field of food web ecology. To this end, I combine theoretical analyses with data driven approaches, such as time series analyses. My major areas of research include:
 * Regime shifts and early warning signals
 * Development of novel tools for sustainable exploitation of interacting fish stocks
 * Ecological networks
@@ -16,40 +19,33 @@ As of 2018 I am a funded through a mobility grant from the Swedish Research Coun
 
 
 #### Previous positions
-* 2017, Postdoctoral Researcher. Department of Aquatic Resources. Swedish University of Agricultural Sciences (with [Anna Gårdmark]( https://www.instagram.com/fishinfoodwebs/))   
+* 2017, Postdoctoral Researcher. Department of Aquatic Resources. Swedish University of Agricultural Sciences (with [Anna Gï¿½rdmark]( https://www.instagram.com/fishinfoodwebs/))   
 
-* 2016 PhD, Theoretical Biology, Linköping University, Thesis titel: Functional Extinctions of Species in Ecological Networks, Advisor: Prof. Bo Ebenman. 
+* 2016 PhD, Theoretical Biology, Linkï¿½ping University, Thesis titel: Functional Extinctions of Species in Ecological Networks, Advisor: Prof. Bo Ebenman.
 
-* 2009 MSc, Ecology and the Environment, Linköping University, Sweden. 
+* 2009 MSc, Ecology and the Environment, Linkï¿½ping University, Sweden.
 
-* 2007 BSc, Biology and Mathematics, Linköping University, Sweden. 
+* 2007 BSc, Biology and Mathematics, Linkï¿½ping University, Sweden.
 
 #### Publications
-###### Peer-review 
+###### Peer-review
 
-Sellman S, **Säterberg T**, Ebenman B. 2016. Pattern of functional extinctions in ecological networks with a variety of interaction types. Theor Ecol. 9, 83-94
+Sellman S, **Sï¿½terberg T**, Ebenman B. 2016. Pattern of functional extinctions in ecological networks with a variety of interaction types. Theor Ecol. 9, 83-94
 
-**Säterberg T**. 2016. Functional Extinctions of Species in Ecological Networks. Linköping Studies in Science and Technology. Dissertations, No. 1757 
+**Sï¿½terberg T**. 2016. Functional Extinctions of Species in Ecological Networks. Linkï¿½ping Studies in Science and Technology. Dissertations, No. 1757
 
-**Säterberg T**, Sellman S, Ebenman B. 2013. High frequency of functional extinctions in ecological networks. *NATURE*. 499, 468-470
+**Sï¿½terberg T**, Sellman S, Ebenman B. 2013. High frequency of functional extinctions in ecological networks. *NATURE*. 499, 468-470
 
-Kaneryd L, Borrvall C, Berg S, Curtsdotter A, Eklöf A, Hauzy C, Jonsson T, Münger P, Setzer M, **Säterberg T**, Ebenman B. 2012. Species-rich ecosystems are vulnerable to cascading extinctions in an increasingly variable world. *Ecol Evo*. 2, 858-874
+Kaneryd L, Borrvall C, Berg S, Curtsdotter A, Eklï¿½f A, Hauzy C, Jonsson T, Mï¿½nger P, Setzer M, **Sï¿½terberg T**, Ebenman B. 2012. Species-rich ecosystems are vulnerable to cascading extinctions in an increasingly variable world. *Ecol Evo*. 2, 858-874
 
 ###### Book chapters
-Ebenman B, **Säterberg T**, Sellman S. 2017. Ecologically effective population sizes and functional extinctions of species in ecosystems. *Adaptive Food Webs Stability and Transitions of Real and Model Ecosystems*, eds Moore J, de Ruiter P, McCann K, Wolters V (Cambridge Univ Press).
 
-Jonsson T, Berg S, **Säterberg T**, Hauzy C, Ebenman B. 2017. Rare but important: perturbations to uncommon species can have large impact on the structure of ecological communities. *Adaptive Food Webs Stability and Transitions of Real and Model Ecosystems*, eds Moore J, de Ruiter P, McCann K, Wolters V (Cambridge Univ Press).
+Ebenman B, **Sï¿½terberg T**, Sellman S. 2017. Ecologically effective population sizes and functional extinctions of species in ecosystems. *Adaptive Food Webs Stability and Transitions of Real and Model Ecosystems*, eds Moore J, de Ruiter P, McCann K, Wolters V (Cambridge Univ Press).
+
+Jonsson T, Berg S, **Sï¿½terberg T**, Hauzy C, Ebenman B. 2017. Rare but important: perturbations to uncommon species can have large impact on the structure of ecological communities. *Adaptive Food Webs Stability and Transitions of Real and Model Ecosystems*, eds Moore J, de Ruiter P, McCann K, Wolters V (Cambridge Univ Press).
 
 ###### Under review
-**Säterberg T**, Casini M, Gårdmark A. 2019. Ecologically Sustainable Exploitation – a multispecies approach for fisheries management. *Fish Fish*.
 
-**Säterberg T**, Jonsson T, Yearsley J, Berg S, Ebenman B. 2019. The ecological significance of rare species. *Sci Rep*.  
+**Sï¿½terberg T**, Casini M, Gï¿½rdmark A. 2019. Ecologically Sustainable Exploitation ï¿½ a multispecies approach for fisheries management. *Fish Fish*.
 
-#### Contact
-
-
-[torbjorn.saterberg@slu.se](torbjorn.saterberg@slu.se)
-
-+46 76 140 32 50
-
-[github](https://github.com/torbjornsaterberg)
+**Sï¿½terberg T**, Jonsson T, Yearsley J, Berg S, Ebenman B. 2019. The ecological significance of rare species. *Sci Rep*.  
