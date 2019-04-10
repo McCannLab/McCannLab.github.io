@@ -18,6 +18,7 @@ As of 2018 I am a funded through a mobility grant from the Swedish Research Coun
 
 
 ### Previous positions
+
 * 2017, Postdoctoral Researcher. Department of Aquatic Resources. Swedish University of Agricultural Sciences (with [Anna G�rdmark]( https://www.instagram.com/fishinfoodwebs/))   
 
 * 2016 PhD, Theoretical Biology, Linköping University, Thesis titel: Functional Extinctions of Species in Ecological Networks, Advisor: Prof. Bo Ebenman.

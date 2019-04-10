@@ -4,11 +4,13 @@
 
 McCann Lab webpages built with :heart: with [Hugo](https://gohugo.io/).
 
-## How to use it
+
+## How to use it?
 
 See the [wiki](https://github.com/McCannLab/McCannLab.github.io/wiki) :book:
 
-## Troubleshouthing / discussion
 
-- post an issu
-- Slack
+## Troubleshooting / discussion
+
+1. post an issue
+2. go Slack
