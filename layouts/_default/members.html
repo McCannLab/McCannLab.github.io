@@ -1,39 +1,47 @@
 {{ define "main" }}
 
-  <h1>
-    {{ range $auth := .Params.members }} {{ $info := index $.Site.Data.members $auth }}
-      <a href="/about/">{{ $info.given_name }} {{ $info.family_name }}</a> &nbsp;
-    {{ end }}
-  </h1>
+<h1>
+  {{ range $auth := .Params.members }} {{ $info := index $.Site.Data.members $auth }}
+  <a href="/about/">{{ $info.given_name }} {{ $info.family_name }}</a> &nbsp;
+  {{ end }}
+</h1>
 
-  {{ if .Params.member }}
-    {{ $info := index $.Site.Data.members .Params.member }}
-    {{ with $info }}
-    <div class="container">
-      <div class="row">
-      <div class="col-sm-2 text-right">
-        <img src="https://github.com/{{ .github }}.png" width="100%" class="img-rounded" alt="">
-      </div>
-      <div class="col-sm-8 text-left">
+{{ if .Params.member }}
+{{ $info := index $.Site.Data.members .Params.member }}
+{{ with $info }}
+<div class="container">
+  <div class="row">
+    <div class="col-sm-2 text-right">
+      <img src="https://github.com/{{ .github }}.png" width="100%" class="img-rounded" alt="">
+    </div>
+    <div class="col-sm-8 text-left">
       <h1> <i class="fa fa-user" aria-hidden="true"></i>
         {{ .given_name }} {{ .family_name }} </h1>
-        <h5 style="font-weight:bold;">
-          {{ if .github }} <a href="https://github.com/{{ .github }}"><i class="fa fa-github fa-2x" aria-hidden></i></a> {{ end }}
-          {{ if .twitter }} <a href="https://twitter.com/{{ .twitter }}"><i class="fa fa-twitter fa-2x" aria-hidden></i></a> {{ end }}
-          {{ if .website }} <a href="{{ .website }}"><i class="fa fa-globe fa-2x" aria-hidden="true"></i></a> {{ end }}
-          {{ if .orcid }} <a href="http://orcid.org/{{ .orcid }}"><i class="ai ai-orcid ai-2x" aria-hidden="true"></i></a> {{ end }}
-          {{ if .researchgate }} <a href="https://www.researchgate.net/profile/{{ .researchgate }}"><i class="ai ai-researchgate ai-2x"></i></a> {{ end }}
-          {{ if .gscholar}} <a href='{{ (printf "https://scholar.google.ca/citations?user=%s" .gscholar) | safeURL }}'><i class="ai ai-google-scholar ai-2x" aria-hidden="true"></i></a> {{ end }}
-          {{ if .impactstory }} <a href="https://profiles.impactstory.org/u/{{ .impactstory }}"><i class="ai ai-impactstory ai-2x" aria-hidden="true"></i></a> {{ end }}
-          {{ if .publons }} <a href="https://publons.com/author/{{ .publons }}"><i class="ai ai-publons ai-2x" aria-hidden="true"></i></a> {{ end }}
-          {{ if .linkedin}} <a href='{{ (printf "https://ca.linkedin.com/in/%s" .linkedin) | safeURL }}'><i class="fa fa-linkedin-square fa-2x" aria-hidden="true"></i></a> {{ end }}
-        </h5>
-        </div>
-        </div>
-        </div>
+      <h5 style="font-weight:bold;">
+        {{ if .github }} <a href="https://github.com/{{ .github }}"><i class="fa fa-github fa-2x" aria-hidden></i></a> {{ end }}
+        {{ if .twitter }} <a href="https://twitter.com/{{ .twitter }}"><i class="fa fa-twitter fa-2x" aria-hidden></i></a> {{ end }}
+        {{ if .website }} <a href="{{ .website }}"><i class="fa fa-globe fa-2x" aria-hidden="true"></i></a> {{ end }}
+        {{ if .orcid }} <a href="http://orcid.org/{{ .orcid }}"><i class="ai ai-orcid ai-2x" aria-hidden="true"></i></a> {{ end }}
+        {{ if .researchgate }} <a href="https://www.researchgate.net/profile/{{ .researchgate }}"><i class="ai ai-researchgate ai-2x"></i></a> {{ end }}
+        {{ if .gscholar}} <a href='{{ (printf "https://scholar.google.ca/citations?user=%s" .gscholar) | safeURL }}'><i class="ai ai-google-scholar ai-2x" aria-hidden="true"></i></a> {{ end }}
+        {{ if .impactstory }} <a href="https://profiles.impactstory.org/u/{{ .impactstory }}"><i class="ai ai-impactstory ai-2x" aria-hidden="true"></i></a> {{ end }}
+        {{ if .publons }} <a href="https://publons.com/author/{{ .publons }}"><i class="ai ai-publons ai-2x" aria-hidden="true"></i></a> {{ end }}
+        {{ if .linkedin}} <a href='{{ (printf "https://ca.linkedin.com/in/%s" .linkedin) | safeURL }}'><i class="fa fa-linkedin-square fa-2x" aria-hidden="true"></i></a> {{ end }}
+      </h5>
+      {{ if .email }}
+      <h5> <i class="fa fa-envelope-o" aria-hidden="true"></i> &nbsp;
+          <a href="mailto:{{ .email }}?subject=Contact&body=Dear {{ .given_name }},">{{ .email }}</a></h5>
       {{ end }}
-  {{ end }}
-  <br>
+      {{ if .phone }}
+      <h5> <i class="fa fa-phone" aria-hidden="true"></i> &nbsp; {{ .phone }} </h5>
+      {{ end }}
+
+    </div>
+  </div>
+</div>
+{{ end }}
+{{ end }}
+<br>
 
 
 {{ .Content }}
