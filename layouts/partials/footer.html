@@ -1,0 +1,29 @@
+  <br><br>
+
+  <footer>
+
+    <div class="row">
+
+      <div class="col-sm-1">
+        <div class="hidden-sm hidden-xs">
+        </div>
+      </div>
+
+      <div class="col-sm-10">
+
+        {{ partial "foot_custom.html" . }}
+        {{ with .Site.Params.footer }}
+        <hr/>
+        {{ . | markdownify }}
+        {{ end }}
+
+      </div>
+
+    </div>
+
+  <br>
+  </footer>
+
+  </body>
+
+</html>
