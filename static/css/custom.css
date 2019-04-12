@@ -13,13 +13,6 @@ video {
   padding-bottom: 10px;
 }
 
-.tags {
-  font-weight: 600;
-}
-.tags a:hover {
-    color: white;
-}
-
 .role {
   text-align: center;
   color: #444;
@@ -61,9 +54,25 @@ video {
 
 .tags {
   font-weight: 600;
+  color: #444;
 }
+
+.tags a {
+  color: #777;
+  text-decoration: none;
+}
+
 .tags a:hover {
-    color: white;
+  color: #337ab7;
+  text-decoration: none !important;
+}
+
+kbd {
+  background-color: #777 !important;
+}
+
+kbd:hover {
+  background-color: #337ab7 !important;
 }
 
 .role {
@@ -102,7 +111,6 @@ video {
 
 
 #map {
-  height: 400px;
   width: 100%;
   float: center;
   display: inline-block;

@@ -1,24 +1,32 @@
 {{ define "main" }}
 
 
-  {{if not .IsHome }}
-  <h1><i class="fa fa-{{ .Params.icon }}" aria-hidden="true"></i> {{ .Title }}</h1>
-  {{ end }}
-  <hr>
+{{if not .IsHome }}
+<h1><i class="fa fa-{{ .Params.icon }}" aria-hidden="true"></i> {{ .Title }}</h1>
+{{ end }}
+<hr>
 
-  {{ .Content }}
+{{ .Content }}
 
-  <br>
+<br>
 
-  <ul>
+<div class="tags">
+  <ul style="font-size:20px;">
     {{ range (where .Data.Pages "Section" "!=" "") }}
     <li>
       <span class="date">{{ .Date.Format "2006/01/02" }}</span>
       <a href="{{ .URL }}">{{ .Title }}</a>
+      <p class="tags">
+        <a href="/tags/"><i class="fa fa-tags" aria-hidden="true"></i></a> &nbsp;
+        {{ range .Params.tags }}
+        <a href="/tags/{{ . | urlize }}"> <kbd class="item-tag">{{ . }}</kbd></a>
+        {{ end }}
+      </p>
     </li>
-      {{ end }}
+    {{ end }}
 
   </ul>
+</div>
 
 
 {{ end }}
