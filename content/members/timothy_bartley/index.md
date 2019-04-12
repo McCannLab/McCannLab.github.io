@@ -4,4 +4,8 @@ layout: members
 ---
 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I am a food web ecologist studying the causes and consequences of food web reorganization with global environmental change. 
+
+Currently, I am postdoctoral fellow at the University or Toronto Mississauga and the University of Guelph. I am integrating a range of empirical data, primarily from the Great Lakes and other aquatic ecosystems, to document how the organisms’ responses to global environmental change are ‘rewiring’ food webs. I am also developing theoretical models to explore how this food web rewiring impacts stability.
+
+During my PhD, I examined the response of the whole lake food webs across the natural climate gradient in Ontario, Canada. By combining dietary data from both stable isotope analysis and molecular gut content analysis and inferring behaviour from catch-per-unit-effort data, I showed that whole fish communities in boreal shield lakes respond to increased temperature, producing flexible food web structure driven by rapid behavioral and feeding responses. These predictable responses of entire thermal guilds level to temperature imply a major reorganization of lake food webs with climate change. 
