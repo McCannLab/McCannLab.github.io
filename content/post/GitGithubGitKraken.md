@@ -58,7 +58,7 @@ lab meeting lead by Gabe (24/10/2018) and Chris (30/01/2019):
 
 ### Notes/comments:
 
-- As academics you can get [an unlimited private repos](https://help.GitHub.com/articles/applying-for-a-student-developer-pack/) as opposed to three by defaul;
+- As academics you can get [an unlimited private repos](https://help.GitHub.com/articles/applying-for-a-student-developer-pack/) as opposed to three by default;
 - If you are a student an interested in improving you coding skill, [checkout the GitHub Student Developer Pack](https://education.GitHub.com/pack);
 - avoid versioning [large files](https://help.GitHub.com/articles/working-with-large-files/);
 - it is important to add a license to your repository, check out [choosealicence.com](https://choosealicense.com/);
