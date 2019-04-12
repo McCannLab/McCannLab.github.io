@@ -1,6 +1,7 @@
 ---
 member: timothy_bartley
 layout: members
+banner: lakeTJB.jpg
 ---
 
 
