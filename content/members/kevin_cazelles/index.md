@@ -1,6 +1,7 @@
 ---
 member: kevin_cazelles
 layout: members
+banner: bannerKC.jpg
 ---
 
 I am a post-doctoral fellow with a wide range of interests in ecology.
