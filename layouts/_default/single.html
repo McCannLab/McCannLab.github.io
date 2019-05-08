@@ -7,7 +7,7 @@
   {{ if .Params.author }}
     <p style = "font-size: 1.5em; margin-top: 20px"> <i class="fa fa-pencil" aria-hidden="true"></i>
     {{ range $auth := .Params.author }} {{ $info := index $.Site.Data.members $auth }}
-      <a href="/about/">{{ $info.given_name }} {{ $info.family_name }}</a> &nbsp;
+      <a href="/members/">{{ $info.given_name }} {{ $info.family_name }}</a> &nbsp;
     {{ end }}
    <a href="#"></a></p>
   {{ end }}

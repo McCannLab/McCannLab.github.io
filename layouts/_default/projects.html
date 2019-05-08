@@ -6,6 +6,32 @@
 
   <div class="text-justify">{{ .Content }}</div>
 
+
+  {{ range .Site.Data.projects }}
+  <div class="container">
+  <div class="row">
+    <div class="col-sm-4 text-center my-auto">
+      <span class="align-middle">
+      <br>
+      <img src="img/{{ .img }}" alt="{{ .img }}" style="padding:16px;">
+      <br>
+      </span>
+    </div>
+    <div class="col-sm-8">
+    <h2>{{ .title }}</h2>
+    <i class="fa fa-users" aria-hidden="true"></i> &nbsp;&nbsp; {{ range $auth := .members }} {{ $info := index $.Site.Data.members $auth }}   <a href="/members/">{{ $info.given_name }} {{ $info.family_name }}</a> &nbsp;
+    {{ end }}
+    <br>
+    {{ .text }}
+    <br><br>
+    </div>
+
+
+  </div>
+  </div>
+  {{ end }}
+
+
 </div>
 
 

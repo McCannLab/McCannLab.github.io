@@ -49,8 +49,8 @@ footnotereturnlinkcontents = "↩"
     url = "/members/"
     weight = 3
 [[menu.main]]
-    name = "Projects"
-    url = "/projects/"
+    name = "Research"
+    url = "/research/"
     weight = 4
 [[menu.main]]
     name = "Publications"
