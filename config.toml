@@ -71,6 +71,10 @@ footnotereturnlinkcontents = "↩"
     name = "Blog"
     url = "/post/"
     weight = 6
+[[menu.main]]
+    name = "BiRN"
+    url = "http://www.biodiversityresilience.com/"
+    weight = 7
 
 [[menu.icon]]
     url = "https://github.com/McCannLab"
