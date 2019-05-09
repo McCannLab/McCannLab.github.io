@@ -8,7 +8,7 @@ layout: projects
 # General research
 <hr>
 
-<img src="img/general.png" align="left">
+<img src="img/general.png" align="right">
 
 
 Generally speaking, we are interested in understanding how biological structure, broadly defined to include structure of all biological forms (i.e., spatial structure, food web structure, stage structure, variation in individuals), mitigates the stability and functioning of ecosystems. This question naturally leads to understanding how human impacts alter biological structure and so also how impacts may potentially alter the stability and functioning of whole ecosystems. This latter aspect of human impacts brings has our empirically motivated interests in developing practical biomonitoring techniques that span the ecological hierarchy.  Our work is theoretical, empirical and experimental and the lab takes students/researchers on all axes with one constraint, everyone must be interested in conceptual/theoretical development.

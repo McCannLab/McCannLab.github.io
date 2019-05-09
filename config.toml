@@ -45,9 +45,15 @@ footnotereturnlinkcontents = "↩"
     url = "/contact/"
     weight = 2
 [[menu.main]]
+    identifier = "members"
     name = "Members"
     url = "/members/"
     weight = 3
+[[menu.main]]
+    parent = "members"
+    name="Current member"
+    url = "/members/"
+    weight = 1
 [[menu.main]]
     name = "Research"
     url = "/research/"
