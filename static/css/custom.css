@@ -24,11 +24,11 @@ video {
 
 .date {
   color: #444;
-  font-size: 1.1em;
+  font-size: 1.3em;
 }
 
 .pubs_li {
-  font-size: 1.05em;
+  font-size: 1.25em;
   padding-top: 10px;
 }
 
@@ -90,8 +90,12 @@ kbd:hover {
 }
 
 .pubs_li {
-  font-size: 1.05em;
+  font-size: 1.25em;
   padding-top: 10px;
+}
+
+p {
+  font-size: 1.15em;
 }
 
 .anchor {
@@ -109,8 +113,8 @@ kbd:hover {
   top: 48px;
 }
 
-
 #map {
+  height: 500px;
   width: 100%;
   float: center;
   display: inline-block;
@@ -119,5 +123,5 @@ kbd:hover {
  }
 
 blockquote {
-  font-size: 1.05em !important;
+  font-size: 1.25em !important;
 }

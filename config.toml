@@ -34,7 +34,6 @@ footnotereturnlinkcontents = "↩"
 
 [permalinks]
     post = "/post/:year/:month/:day/:slug/"
-    projects = "/projects/:year/:slug/"
 
 [[menu.main]]
     name = "Home"
@@ -49,16 +48,16 @@ footnotereturnlinkcontents = "↩"
     name = "Members"
     url = "/members/"
     weight = 3
-# [[menu.main]]
-#     parent = "members"
-#     name="Current member"
-#     url = "/members/"
-#     weight = 1
-# [[menu.main]]
-#     parent = "members"
-#     name="Alumni"
-#     url = "/members/#alumni"
-#     weight = 2
+[[menu.main]]
+    parent = "members"
+    name="Current"
+    url = "/members/"
+    weight = 1
+[[menu.main]]
+    parent = "members"
+    name="Alumni"
+    url = "/members/#alumni"
+    weight = 2
 [[menu.main]]
     name = "Research"
     url = "/research/"

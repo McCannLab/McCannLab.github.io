@@ -1,5 +1,6 @@
 var latlngu = [43.5299, -80.2286];
-var zoom = 14;
+var zoom = 16;
+
 
 var map = L.map('map', {
   zoomControl: false

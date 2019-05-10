@@ -9,7 +9,7 @@
 
 {{ if .Site.Params.skype }}
 <h3> <i class="fa fa-skype" aria-hidden="true"></i>&nbsp;
-  <a href = "skype:{{ .Site.Params.skype }}?call">
+  <a href="skype:{{ .Site.Params.skype }}?call">
     {{ .Site.Params.skype_name }}
   </a>
 </h3>
@@ -17,13 +17,13 @@
 
 {{ if .Site.Params.phone }}
 <h3> <i class="fa fa-phone" aria-hidden="true"></i>&nbsp;
-   {{ .Site.Params.phone }}
+  {{ .Site.Params.phone }}
 </h3>
 {{ end }}
 
 {{ if .Site.Params.fax }}
 <h3> <i class="fa fa-fax" aria-hidden="true"></i>&nbsp;
-   {{ .Site.Params.fax }}
+  {{ .Site.Params.fax }}
 </h3>
 {{ end }}
 
@@ -31,23 +31,23 @@
 {{ if .Site.Params.email }}
 <h3> <i class="fa fa-envelope" aria-hidden="true"></i>&nbsp;
   <a href="mailto:{{ .Site.Params.email }}?subject=Contact&body=Dear Kevin,%0D%0A%0D%0A enter your message here %0D%0A%0D%0ASincerely,">
-   {{ .Site.Params.email }}
- </a>
+    {{ .Site.Params.email }}
+  </a>
 </h3>
 {{ end }}
 
 
 {{ if .Site.Params.office_hours }}
 <h3> <i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;
-   {{ .Site.Params.office_hours }}
- </a>
+  {{ .Site.Params.office_hours }}
+  </a>
 </h3>
 {{ end }}
 
 
 <!-- map Office -->
 <div id="map"></div>
-<script src = "/js/mapoffice.js"></script>
+<script src="/js/mapoffice.js"></script>
 
 
 {{ end }}
