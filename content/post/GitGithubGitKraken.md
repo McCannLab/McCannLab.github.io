@@ -13,10 +13,14 @@ of statistical analyses, nowadays [a PhD in ecology often requires programming s
 Coding comes with challenges to be tackled to do science and good practices
 to be mastered to [do reproducible science](https://www.nature.com/news/why-scientwillists-must-share-their-research-code-1.20504).
 
-[Git](https://git-scm.com/) is a powerful tool that keeps track of earlier development stages of their code, it also ease the team work on a specific project. Technically speaking, {{< faic "fa-git" >}} is a [Distributed Version Control Systems (DVCS)](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control):
-every contributor has his one copy of the code, its complete history and
-{{< faic "fa-git" >}} comes with powerful tools to version your code, create branches,
-compare versions and branches, etc.   
+[Git](https://git-scm.com/) is a powerful tool that keeps track of earlier
+development stages of their code, it also ease the team work on a specific
+project. Technically speaking, {{< faic "fa-git" >}} is a [Distributed Version
+Control Systems
+(DVCS)](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control):
+every contributor has his one copy of the code, its complete history and {{<
+faic "fa-git" >}} comes with powerful tools to version your code, create
+branches, compare versions and branches, etc.   
 
 [GitHub](https://GitHub.com/) {{< faic "fa-GitHub" >}} is a set of web-services
 built on the top of {{< faic "fa-git" >}}. Basically, when we use GitHub:
