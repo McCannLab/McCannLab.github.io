@@ -36,7 +36,7 @@ let you deploy the full set of web-services it provides on your own server. For 
 [Debian](https://www.debian.org/)'s packages are now hosted and maintained on a Gitlab's
 server called [Salsa](https://salsa.debian.org/public).
 
-As {{< faic "fa-git" >}} introduces several concepts (stag, stash, commit, pull,
+As {{< faic "fa-git" >}} introduces several concepts (such as commit, pull,
 push, branch, etc.) it could be quite challenging for beginners, that is why
 going through [a tutorial](https://guides.GitHub.com/activities/hello-world/)
 or [reading a book on the topic](https://git-scm.com/book/en/v2) is rather desirable. Also, using a Graphical User Interface (GUI) to visualize commits and branches could be very helpful, that's why [GtKraken](https://www.gitkraken.com/) had become quite popular among developers.
@@ -62,8 +62,8 @@ lab meeting lead by Gabe (24/10/2018) and Chris (30/01/2019):
 
 ### Notes/comments:
 
-- As academics you can get [an unlimited private repos](https://help.GitHub.com/articles/applying-for-a-student-developer-pack/) as opposed to three by default;
-- If you are a student an interested in improving you coding skill, [checkout the GitHub Student Developer Pack](https://education.GitHub.com/pack);
-- avoid versioning [large files](https://help.GitHub.com/articles/working-with-large-files/);
-- it is important to add a license to your repository, check out [choosealicence.com](https://choosealicense.com/);
-- Git and RStudio: there are several online tutorials for instance [here](http://r-bio.GitHub.io/intro-git-rstudio/) and [there](https://support.rstudio.com/hc/en-us/articles/200532077-Version-Control-with-Git-and-SVN).
+1. As a student or an academic, you can get [an unlimited private repos](https://help.GitHub.com/articles/applying-for-a-student-developer-pack/) as opposed to three by default;
+2. If you are a student an interested in improving you coding skill, [checkout the GitHub Student Developer Pack](https://education.GitHub.com/pack);
+3. Avoid versioning [large files](https://help.GitHub.com/articles/working-with-large-files/);
+4. Add a license to your repository, check out [choosealicence.com](https://choosealicense.com/);
+5. Git and RStudio: there are several online tutorials showing how to use Git inside RStudio, for instance [here](http://r-bio.GitHub.io/intro-git-rstudio/) and [there](https://support.rstudio.com/hc/en-us/articles/200532077-Version-Control-with-Git-and-SVN).
