@@ -22,6 +22,12 @@
     {{ end }}
   </p>
   <!-- END tags -->
+
+  <p> <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="true" data-text="{{ .Params.tweet | default .Params.title }}">Tweet</a>
+    <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  </p>
+
+
 </div>
 
 {{ .Content }}
