@@ -3,6 +3,7 @@
 static/img_hidden/
 public/
 content/tobeadded/
+content/post/*/*.docx
 
 # Prerequisites
 *.d
