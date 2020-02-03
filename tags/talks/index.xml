@@ -1,25 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>talks on The McCann Lab</title>
-    <link>https://mccannlab.github.io/tags/talks/</link>
-    <description>Recent content in talks on The McCann Lab</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 18 Aug 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://mccannlab.github.io/tags/talks/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>McCann lab in Federicton for the CSEE</title>
-      <link>https://mccannlab.github.io/post/2018/08/18/mccann-lab-in-federicton-for-the-csee/</link>
-      <pubDate>Sat, 18 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://mccannlab.github.io/post/2018/08/18/mccann-lab-in-federicton-for-the-csee/</guid>
-      <description>They&amp;rsquo;ve made it 🎆! That was a LONG drive, but we made it to Fredericton for @CSEE_Meetings #EcoEvoEnto2019 !@mccannlab @bragrah @marie_gutgesell pic.twitter.com/AjBDoCDOJT
-&amp;mdash; Carling Bieg (@carlingbieg) August 18, 2019  Six relentless lab members traveled from Guelph to Fredericton by 🚗, to attend the CSEE, ESC, &amp;amp; AES 2019 Joint Meeting, what a trip!  Do not miss their talks! Carling Bieg  : Wednesday 21 August 2019 &amp;ndash; 10:45-11:00</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>talks on The McCann Lab</title><link>https://mccannlab.github.io/tags/talks/</link><description>Recent content in talks on The McCann Lab</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 18 Aug 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://mccannlab.github.io/tags/talks/index.xml" rel="self" type="application/rss+xml"/><item><title>McCann lab in Federicton for the CSEE</title><link>https://mccannlab.github.io/post/2018/08/18/mccann-lab-in-federicton-for-the-csee/</link><pubDate>Sat, 18 Aug 2018 00:00:00 +0000</pubDate><guid>https://mccannlab.github.io/post/2018/08/18/mccann-lab-in-federicton-for-the-csee/</guid><description>They've made it 🎆! That was a LONG drive, but we made it to Fredericton for @CSEE_Meetings #EcoEvoEnto2019 !@mccannlab @bragrah @marie_gutgesell pic.twitter.com/AjBDoCDOJT
+&amp;mdash; Carling Bieg (@carlingbieg) August 18, 2019 Six relentless lab members traveled from Guelph to Fredericton by 🚗, to attend the CSEE, ESC, &amp;amp; AES 2019 Joint Meeting, what a trip! Do not miss their talks! Carling Bieg : Wednesday 21 August 2019 &amp;ndash; 10:45-11:00</description></item></channel></rss>

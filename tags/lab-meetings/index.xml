@@ -1,25 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Lab meetings on The McCann Lab</title>
-    <link>https://mccannlab.github.io/tags/lab-meetings/</link>
-    <description>Recent content in Lab meetings on The McCann Lab</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 18 May 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://mccannlab.github.io/tags/lab-meetings/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Git, GitHub &amp; GitKraken</title>
-      <link>https://mccannlab.github.io/post/2018/05/18/git-github--gitkraken/</link>
-      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://mccannlab.github.io/post/2018/05/18/git-github--gitkraken/</guid>
-      <description>Context With the increasing amount of data available and the increasing complexity of statistical analyses, nowadays a PhD in ecology often requires programming skills. Coding comes with challenges to be tackled to do science and good practices to be mastered to do reproducible science.
-Git is a powerful tool that keeps track of earlier development stages of their code, it also ease the team work on a specific project. Technically speaking,  is a Distributed Version Control Systems (DVCS): every contributor has his one copy of the code, its complete history and  comes with powerful tools to version your code, create branches, compare versions and branches, etc.</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lab meetings on The McCann Lab</title><link>https://mccannlab.github.io/tags/lab-meetings/</link><description>Recent content in Lab meetings on The McCann Lab</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 18 May 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://mccannlab.github.io/tags/lab-meetings/index.xml" rel="self" type="application/rss+xml"/><item><title>Git, GitHub &amp; GitKraken</title><link>https://mccannlab.github.io/post/2018/05/18/git-github-gitkraken/</link><pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate><guid>https://mccannlab.github.io/post/2018/05/18/git-github-gitkraken/</guid><description>Context With the increasing amount of data available and the increasing complexity of statistical analyses, nowadays a PhD in ecology often requires programming skills. Coding comes with challenges to be tackled to do science and good practices to be mastered to do reproducible science.
+Git is a powerful tool that keeps track of earlier development stages of their code, it also ease the team work on a specific project. Technically speaking, is a Distributed Version Control Systems (DVCS): every contributor has his one copy of the code, its complete history and comes with powerful tools to version your code, create branches, compare versions and branches, etc.</description></item></channel></rss>
