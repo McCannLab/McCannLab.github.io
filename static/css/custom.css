@@ -123,12 +123,11 @@ p {
 }
 
 #map {
-  height: 500px;
+  height: 50vh;
   width: 100%;
-  float: center;
   display: inline-block;
   background-color:black;
-  margin: 10px 10px 10px 10px;
+  margin: 1rem 0rem 1rem 0rem;
  }
 
 blockquote {

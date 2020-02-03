@@ -1,9 +1,9 @@
-name: github pages
+name: deploy website on github pages
 
 on:
   push:
     branches:
-    - dev
+    - devel
 
 jobs:
   build-deploy:
