@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>weak interactions on The McCann Lab</title>
+    <link>https://mccannlab.github.io/tags/weak-interactions/</link>
+    <description>Recent content in weak interactions on The McCann Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 Jun 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://mccannlab.github.io/tags/weak-interactions/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>From modules to whole webs</title>
+      <link>https://mccannlab.github.io/post/2016/06/11/from-modules-to-whole-webs/</link>
+      <pubDate>Sat, 11 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://mccannlab.github.io/post/2016/06/11/from-modules-to-whole-webs/</guid>
+      <description>Past lab member Dr. Gabriel Gellner, now in University of California Davis with Alan Hastings, publishes a theoretical paper on the role of growth, energy and interaction strength on modules to whole matrices with PI Kevin McCann (paper on researchgate). Gellner shows that while recent results have found potential differences that there is actually a consistent dynamical response (in terms of local stability analysis) from very simple low species models to speciose whole food webs.</description>
+    </item>
+    
+  </channel>
+</rss>

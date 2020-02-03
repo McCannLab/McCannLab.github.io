@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>homogenization on The McCann Lab</title>
+    <link>https://mccannlab.github.io/tags/homogenization/</link>
+    <description>Recent content in homogenization on The McCann Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 20 Sep 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://mccannlab.github.io/tags/homogenization/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Homogenization of freshwater lakes </title>
+      <link>https://mccannlab.github.io/post/2019/09/20/homogenization-of-freshwater-lakes/</link>
+      <pubDate>Fri, 20 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mccannlab.github.io/post/2019/09/20/homogenization-of-freshwater-lakes/</guid>
+      <description>🇺🇸 What happened to fish communities in Ontario lakes over the last few decades? We have been relentlessly looking for answers to this question! Indeed, we did our best to determine whether global change has affected those communities over the last 40 years. It turns out that fish communities in Ontario lakes are pretty different from what they were, but climate change does not explain those changes 💥! But, but… how can we say that?</description>
+    </item>
+    
+  </channel>
+</rss>

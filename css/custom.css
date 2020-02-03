@@ -1,0 +1,143 @@
+.banner {
+  vertical-align: middle;
+  width:100%;
+}
+
+h1 {
+  margin: 3rem 0rem 2rem 0rem !important;
+}
+
+h5 {
+  padding-top: 1rem;
+}
+
+
+.navbar-nav a:hover {
+    color: #337ab7 !important;
+    font-weight:bold;
+}
+
+video {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+.role {
+  text-align: center;
+  color: #444;
+}
+
+.title {
+  font-size: .9em !important;
+}
+
+.date {
+  color: #444;
+  font-size: 1.3em;
+}
+
+.pubs_li {
+  font-size: 1.25em;
+  padding-top: 10px;
+}
+
+.anchor {
+   position: relative;
+}
+
+.anchor span {
+   position: absolute;
+   top: -64px;
+}
+
+.mysticky {
+  display: block;
+  position: fixed;
+  top: 48px;
+}
+
+video {
+  padding-top: 5px;
+  padding-bottom: 10px;
+}
+
+.tags {
+  font-weight: 600;
+  color: #444;
+}
+
+.tags a {
+  color: #777;
+  text-decoration: none;
+}
+
+.tags a:hover {
+  color: #337ab7;
+  text-decoration: none !important;
+}
+
+kbd {
+  background-color: #777 !important;
+}
+
+kbd:hover {
+  background-color: #337ab7 !important;
+}
+
+.role {
+  text-align: center;
+  color: #444;
+}
+
+.title{
+  font-size: .9em !important;
+}
+
+.date {
+  color: #444;
+  font-size: 1.1em;
+}
+
+.pubs_li {
+  font-size: 1.25em;
+  padding-top: 10px;
+}
+
+p {
+  font-size: 1.15em;
+}
+
+.anchor {
+   position: relative;
+}
+
+.anchor span {
+   position: absolute;
+   top: -64px;
+}
+
+.mysticky {
+  display: block;
+  position: fixed;
+  top: 48px;
+}
+
+#map {
+  height: 500px;
+  width: 100%;
+  float: center;
+  display: inline-block;
+  background-color:black;
+  margin: 10px 10px 10px 10px;
+ }
+
+blockquote {
+  font-size: 1.25em !important;
+}
+
+
+.twitter-tweet-rendered {
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+}

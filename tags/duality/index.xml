@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>duality on The McCann Lab</title>
+    <link>https://mccannlab.github.io/tags/duality/</link>
+    <description>Recent content in duality on The McCann Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 Jun 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://mccannlab.github.io/tags/duality/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Duality of Nature&#39;s Stability</title>
+      <link>https://mccannlab.github.io/post/2016/06/09/duality-of-natures-stability/</link>
+      <pubDate>Thu, 09 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://mccannlab.github.io/post/2016/06/09/duality-of-natures-stability/</guid>
+      <description>A recent lab paper by ex Ph.D. student (now PDF with Alan Hastings) Dr. Gabriel Gellner on how there exist two types of responses to increased energy flow in the basic C-R interaction. This duality in response (excitable and non-excitable dynamics) are then used to delineate two qualitatively different types of response to stochasticity. This work surprisingly suggests that the Lotka-volterra with &amp;ldquo;noise&amp;rdquo; tends to behave very similarly to the Rosenzweig-MacArthur in that a stochastic Hopf (sensu Arnold; Fig.</description>
+    </item>
+    
+  </channel>
+</rss>
