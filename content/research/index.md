@@ -3,7 +3,6 @@ title: Research
 layout: projects
 ---
 
-# :construction: WIP :construction:
 
 # General research
 <hr>
