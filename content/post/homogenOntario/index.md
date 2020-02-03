@@ -28,7 +28,7 @@ freshwater lakes throughout Ontario.
 After selecting a meaningful set of species, we compared different aspects of
 the biodiversity. Overall, we found a surge in local diversity (a.k.a.
 α-diversity) and a drop in regional diversity (a.k.a. β-diversity). You may
-wonder what means, exactly. Well, we can understansontd these changes using a bakery
+wonder what means, exactly. We can understand these changes using a bakery
 analogy (a good one, at least for French people :laughing:). Let's assume that
 in your home town, years ago, there were 3 bakeries:
 
@@ -160,7 +160,7 @@ aussi les lacs plus habitables pour certaines de ces espèces.
 
 ![](homogen.png)
 
-Les lacs d'Ontario sont maintenant dominés par des espèces recherchées pour la pêche, mais la vraie nature de ces changements reste à élucider: sont-ils d'origine naturelle (les colonisations et extinctions locales sont des processus écologiques), purement anthropique, ou les deux en même temps? Dans tous les cas, les changements de composition de ces communautés auront des conséquences sur le long terme sur le fonctionnement écologique de ces lacs. C'est d'ailleurs une question qui va demander de nouveaux efforts de recherche.
+Les lacs ontariens sont maintenant dominés par des espèces recherchées pour la pêche, mais la vraie nature de ces changements reste à élucider: sont-ils d'origine naturelle (les colonisations et extinctions locales sont des processus écologiques), purement anthropique, ou les deux en même temps? Dans tous les cas, les changements de composition de ces communautés auront des conséquences sur le long terme sur le fonctionnement écologique de ces lacs. C'est d'ailleurs une question qui va demander de nouveaux efforts de recherche.
 
 
 Pour conclure ce billet de blogue, je (Kevin Cazelles) voudrais faire deux

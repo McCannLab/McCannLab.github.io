@@ -15,9 +15,12 @@ Generally speaking, we are interested in understanding how biological structure,
 
 Ecology has long assumed the world is in equilibrium, in a sense, as a simplifying assumption. We have become interested in embracing variability, so to speak, and in doing so look at how variation -- especially known variation like massive cycles in pests or seasons -- alters biological structure consistently. The question then becomes: how this changing structure influence stability and ecosystem services?  Since human impacts like climate change are altering seasonal signals, for example, then these existing communities may expect to rapidly face changes in some of signals they have long adapted to. This latter area of research, in a sense, seeks to flesh out the “mechanisms” that make ecological systems “prototypical examples of complex adaptive ecosystems” (Simon Levin).
 
-</div>
 
-<br>
+# Seafood Sustainability
+
+{{< youtube pBLXNLA3tbA >}}
+
+
 
 # Specific Ecosystem Studies
-<hr>
+
