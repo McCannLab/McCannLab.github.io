@@ -16,7 +16,7 @@ footnotereturnlinkcontents = "↩"
 
 [params]
     description = "McCannLab website"
-    footer = "&copy; McCannLab 2018, 2019"
+    #footer = "&copy; McCannLab 2018,2019" -no longer used because using {{ with print "&copy; McCannLab 2018-" now.Year }} in partials/footer.html to set up dynamic copyright
     #  For more info on the highlighting options, see:   # https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/#highlighting-options
     highlight = false
     # highlight_languages = ["bash", "html", "julia", "python", "r", "rust", "yaml"]
