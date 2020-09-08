@@ -1,7 +1,13 @@
+- title: Mr.
+  given: Zachariah
+  family: Schonberger
+  infor: "M.Sc"
+  indate: 2019-2020
+  
 - title: Dr.
   given: Bailey
   family: McMeans
-  infor: "Ph.D."
+  infor: "Post-doctoral fellow"
   indate: July 2013-2017
   current: Assistant Professor at University of Toronto, Mississauga campus
   website: https://www.baileymcmeans.com/
@@ -18,7 +24,7 @@
 - title: Dr.
   given: Jochen
   family: Fründ
-  infor: "Ph.D."
+  infor: "Post-doctoral fellow"
   indate: 2013-2016
   current: "Lecturer in Carsten Dormann’s group at the University of Freiburg, Germany"
   website: https://jochenfruend.wordpress.com/
@@ -26,7 +32,7 @@
 - title: Dr.
   given: Taku
   family: Kadoya
-  infor: "Ph.D."
+  infor: "Post-doctoral fellow"
   indate: 2013-2015
   current: Researcher at National Institute for Environmental Studies (Japan)
   website: http://tombo.sub.jp/index_e.html
