@@ -3,13 +3,24 @@
   family: Schonberger
   infor: "M.Sc"
   indate: 2019-2020
-  
+
+- title: Dr.
+  given: Torbjörn
+  family: Säterberg
+  infor: "Post-doctoral fellow"
+  indate: 2018-2020
+
+- title: Mr.
+  given: Evan
+  family: Versteeg
+  infor: "Undergraduate Student"
+  indate: 2018-2019
+
 - title: Dr.
   given: Bailey
   family: McMeans
   infor: "Post-doctoral fellow"
   indate: July 2013-2017
-  current: Assistant Professor at University of Toronto, Mississauga campus
   website: https://www.baileymcmeans.com/
   twitter: bailey_mcmeans
 
@@ -18,7 +29,6 @@
   family: Nilson
   infor: "Ph.D."
   indate: September 2012 - September 2014
-  current: Research Associate at Umea University
   website: https://www.umu.se/en/staff/karin-nilsson01/?expandaccordion=p
 
 - title: Dr.
@@ -26,7 +36,6 @@
   family: Fründ
   infor: "Post-doctoral fellow"
   indate: 2013-2016
-  current: "Lecturer in Carsten Dormann’s group at the University of Freiburg, Germany"
   website: https://jochenfruend.wordpress.com/
 
 - title: Dr.
@@ -34,7 +43,6 @@
   family: Kadoya
   infor: "Post-doctoral fellow"
   indate: 2013-2015
-  current: Researcher at National Institute for Environmental Studies (Japan)
   website: http://tombo.sub.jp/index_e.html
 
 - title: Mr
@@ -54,7 +62,6 @@
   family: Caskanette
   infor: "Ph.D."
   indate: 2009-2014
-  current: Research scientist with the Dept. of Fisheries and Oceans.
   website: http://www.goc411.ca/en/216385/Amanda-Caskenette
 
 - title: Dr.
@@ -62,7 +69,6 @@
   family: Tunney
   infor: "Ph.D."
   indate: Sept. 2007-2013
-  current: PDF at University of Wisconsin Limnology Center working with Dr. Jake Vander Zanden and Dr. Steve Carpenter.
   website: https://tylertunney.weebly.com/
 
 - title: Dr.
@@ -70,7 +76,6 @@
   family: Murall
   infor: "Ph.D."
   indate: 2009-2013
-  current: PDF in Universite de Montpelier, France Disease Center.
   twitter: cl_murall
 
 - title: Dr.
@@ -78,7 +83,6 @@
   family: Rooney
   infor: "Post-doctoral fellow"
   indate: "April 2002-2007"
-  current: Faculty at the University of Guelph.
   website: https://experts.uoguelph.ca/neil-rooney
 
 - title: Dr.
@@ -86,7 +90,6 @@
   family: Umbanhower
   infor: "Post-doctoral fellow"
   indate: "Jan. 2001-2005"
-  current: Researcher at University of North Carolina.
   website: https://bio.unc.edu/faculty-profile/umbanhowar/
 
 - title: Dr.
@@ -94,7 +97,6 @@
   family: Vasseur
   infor: "Post-doctoral fellow"
   indate: "Jan. 2002-2006"
-  current: Associate Professor of Ecology and Evolutionary Biology at Yale Univerity (2008)
   website: https://vasseurlab.yale.edu/
 
 - title: Dr.
@@ -102,7 +104,6 @@
   family: Humphries
   infor: "Post-doctoral fellow"
   indate: "September 1998-April 1999"
-  current: Faculty member at McGill University (2001)
   website: http://murray-humphries.lab.mcgill.ca/
 
 - title: Dr.
@@ -110,54 +111,47 @@
   family: Tewfik
   infor: "Post-doctoral fellow"
   indate: "September 2000-2005"
-  current: Research position in Belise for the Wildlife Conservation Societ
   website: https://belize.wcs.org/About-Us/Staff.aspx
 
 - title: Dr.
   given: Jack
   family: Teng
-  infor: "M.Sc. Student"
+  infor: "M.Sc."
   indate: "September 2001- September 2003"
 
 - title: Mr.
   given: Ian
   family: Hatton
-  infor: "M.Sc. Student"
+  infor: "M.Sc."
   indate: "September 2001- December 2003"
-  current: "Finished his PhD at McGill with M. Loreau. 2014, now a PDF."
 
 
 - title: Mr.
   given: Jon
   family: Hovious
-  infor: "M.Sc. Student"
+  infor: "M.Sc."
   indate: "September 2003-2005"
-  current: "Teacher"
 
 - title: Mr.
   given: Calvin
   family: Gagnon
-  infor: "M.Sc. Student"
+  infor: "M.Sc."
   indate: "September 2003-2005"
-  current: "Engineer"
 
 - title: Dr.
   given: Jason
   family: Rip
-  infor: "Ph.D Student"
+  infor: "Ph.D."
   indate: "Sept. 2003-2008"
-  current: "Teacher"
 
 - title: Mr.
   given: Calvin
   family: Gagnon
-  infor: "M.Sc. Student"
+  infor: "M.Sc."
   indate: "September 2003-2005"
-  current: "Engineer"
 
 - title: Ms.
   given: Rebecca
   family: Dolson
-  infor: "M.Sc. Student"
+  infor: "M.Sc."
   indate: "September 2005-2007"
-  current: "Freshwater conservation specialists for the World Wildlife Foundation"
