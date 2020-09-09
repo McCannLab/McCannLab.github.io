@@ -1,1637 +1,1572 @@
-- id:
+---
+references:
+- id: ID85086803894
+  type: article-journal
+  author:
+  - family: Warne
+    given: Connor P. K.
+  - family: McCann
+    given: Kevin S.
+  - family: Rooney
+    given: Neil
+  - family: Cazelles
+    given: Kevin
+  - family: Guzzo
+    given: Matthew M.
+  issued:
+  - year: 2020
+    month: 6
+  title: Geography and morphology affect the ice duration dynamics of northern hemisphere
+    lakes worldwide
+  container-title: Geophysical Research Letters
+  publisher: American Geophysical Union (AGU)
+  volume: '47'
+  issue: '12'
+  URL: https://doi.org/10.1029%2F2020gl087953
+  DOI: 10.1029/2020gl087953
+
+- id: ID85083107388
+  type: article-journal
+  author:
+  - family: McMeans
+    given: Bailey C.
+  - family: McCann
+    given: Kevin S.
+  - family: Guzzo
+    given: Matthew M.
+  - family: Bartley
+    given: Timothy J.
+  - family: Bieg
+    given: Carling
+  - family: Blanchfield
+    given: Paul J.
+  - family: Fernandes
+    given: Timothy
+  - family: Giacomini
+    given: Henrique C.
+  - family: Middel
+    given: Trevor
+  - family: Rennie
+    given: Michael D.
+  - family: Ridgway
+    given: Mark S.
+  - family: Shuter
+    given: Brian J.
+  editor:
+  - family: Donohue
+    given: Ian
+  issued:
+  - year: 2020
+    month: 4
+  title: 'Winter in water: Differential responses and the maintenance of biodiversity'
+  title-short: Winter in water
+  container-title: Ecology Letters
+  publisher: Wiley
+  page: 922-938
+  volume: '23'
+  issue: '6'
+  URL: https://doi.org/10.1111%2Fele.13504
+  DOI: 10.1111/ele.13504
+
+- id: ID85077320818
+  type: article-journal
+  author:
+  - family: Wolf
+    given: J. F.
+  - family: Prosser
+    given: R. S.
+  - family: Champagne
+    given: E. J.
+  - family: McCann
+    given: K. S.
+  issued:
+  - year: 2020
+    month: 1
+  title: Variation in response of laboratory-cultured freshwater macroinvertebrates
+    to sediment from streams with differential exposure to agriculture
+  container-title: Water, Air, & Soil Pollution
+  publisher: Springer Science; Business Media LLC
+  volume: '231'
+  issue: '1'
+  URL: https://doi.org/10.1007%2Fs11270-019-4376-6
+  DOI: 10.1007/s11270-019-4376-6
+
+- id: ID85073991433
+  type: article-journal
+  author:
+  - family: Cazelles
+    given: Kevin
+  - family: Bartley
+    given: Timothy
+  - family: Guzzo
+    given: Matthew M.
+  - family: Brice
+    given: Marie-Hélène
+  - family: MacDougall
+    given: Andrew S.
+  - family: Bennett
+    given: Joseph R.
+  - family: Esch
+    given: Ellen H.
+  - family: Kadoya
+    given: Taku
+  - family: Kelly
+    given: Jocelyn
+  - family: Matsuzaki
+    given: Shin-ichiro
+  - family: Nilsson
+    given: Karin A.
+  - family: McCann
+    given: Kevin S.
+  issued:
+  - year: 2019
+    month: 10
+  title: 'Homogenization of freshwater lakes: Recent compositional shifts in fish
+    communities are explained by gamefish movement and not climate change'
+  title-short: Homogenization of freshwater lakes
+  container-title: Global Change Biology
+  publisher: Wiley
+  page: 4222-4233
+  volume: '25'
+  issue: '12'
+  URL: https://doi.org/10.1111%2Fgcb.14829
+  DOI: 10.1111/gcb.14829
+
+- id: ID85071742816
+  type: article-journal
+  author:
+  - family: Betini
+    given: Gustavo S.
+  - family: Avgar
+    given: Tal
+  - family: McCann
+    given: Kevin S.
+  - family: Fryxell
+    given: John M.
+  issued:
+  - year: 2019
+    month: 8
+  title: Temperature triggers a non-linear response in resource–consumer interaction
+    strength
+  container-title: Ecosphere
+  publisher: Wiley
+  volume: '10'
+  issue: '8'
+  URL: https://doi.org/10.1002%2Fecs2.2787
+  DOI: 10.1002/ecs2.2787
+
+- id: ID85071627340
+  type: article-journal
+  author:
+  - family: Edmunds
+    given: Nicholas B.
+  - family: Bartley
+    given: Timothy J.
+  - family: Caskenette
+    given: Amanda
+  - family: Laberge
+    given: Frédéric
+  - family: McCann
+    given: Kevin S.
+  issued:
+  - year: 2019
+    month: 9
+  title: Relationship between water transparency and walleye (sander vitreus) muscle
+    glycolytic potential in northwestern ontario lakes
+  container-title: Canadian Journal of Fisheries and Aquatic Sciences
+  publisher: Canadian Science Publishing
+  page: 1616-1623
+  volume: '76'
+  issue: '9'
+  URL: https://doi.org/10.1139%2Fcjfas-2017-0556
+  DOI: 10.1139/cjfas-2017-0556
+
+- id: ID85071227431
+  type: article-journal
+  author:
+  - family: Pool
+    given: Thomas
+  - family: Elliott
+    given: Vittoria
+  - family: Holtgrieve
+    given: Gordon
+  - family: Arias
+    given: Mauricio
+  - family: Altman
+    given: Irit
+  - family: Kaufman
+    given: Leslie
+  - family: McCann
+    given: Kevin
+  - family: Fraser
+    given: Evan D. G.
+  - family: Tudesque
+    given: Loïc
+  - family: Chevalier
+    given: Mathieu
+  - family: Grenouillet
+    given: Gael
+  - family: Chea
+    given: Ratha
+  - family: Lek
+    given: Sovan
+  - family: McMeans
+    given: Bailey
+  - family: Cooperman
+    given: Michael
+  - family: Phen
+    given: Chheng
+  - family: Hannah
+    given: Lee
+  - family: Miller
+    given: Ben
+  - family: Guo
+    given: Chuanbo
+  - family: Nam
+    given: So
+  issued:
+  - year: 2019
+    month: 8
+  title: Fish assemblage composition within the floodplain habitat mosaic of a tropical
+    lake (tonle sap, cambodia)
+  container-title: Freshwater Biology
+  publisher: Wiley
+  page: 2026-2036
+  volume: '64'
+  issue: '11'
+  URL: https://doi.org/10.1111%2Ffwb.13391
+  DOI: 10.1111/fwb.13391
+
+- id: ID85061383189
+  type: article-journal
+  author:
+  - family: Bartley
+    given: Timothy J.
+  - family: McCann
+    given: Kevin S.
+  - family: Bieg
+    given: Carling
+  - family: Cazelles
+    given: Kevin
+  - family: Granados
+    given: Monica
+  - family: Guzzo
+    given: Matthew M.
+  - family: MacDougall
+    given: Andrew S.
+  - family: Tunney
+    given: Tyler D.
+  - family: McMeans
+    given: Bailey C.
+  issued:
+  - year: 2019
+    month: 2
+  title: Food web rewiring in a changing world
+  container-title: Nature Ecology & Evolution
+  publisher: Springer Science; Business Media LLC
+  page: 345-354
+  volume: '3'
+  issue: '3'
+  URL: https://doi.org/10.1038%2Fs41559-018-0772-3
+  DOI: 10.1038/s41559-018-0772-3
+
+- id: ID85060215763
+  type: article-journal
+  author:
+  - family: McMeans
+    given: Bailey C.
+  - family: Kadoya
+    given: Taku
+  - family: Pool
+    given: Thomas K.
+  - family: Holtgrieve
+    given: Gordon W.
+  - family: Lek
+    given: Sovan
+  - family: Kong
+    given: Heng
+  - family: Winemiller
+    given: Kirk
+  - family: Elliott
+    given: Vittoria
+  - family: Rooney
+    given: Neil
+  - family: Laffaille
+    given: Pascal
+  - family: McCann
+    given: Kevin S.
+  issued:
+  - year: 2019
+    month: 1
+  title: Consumer trophic positions respond variably to seasonally fluctuating environments
+  container-title: Ecology
+  publisher: Wiley
+  page: e02570
+  volume: '100'
+  issue: '2'
+  URL: https://doi.org/10.1002%2Fecy.2570
+  DOI: 10.1002/ecy.2570
+
+- id: ID85056620686
+  type: article-journal
+  author:
+  - family: Ives
+    given: Jessica T.
+  - family: McMeans
+    given: Bailey C.
+  - family: McCann
+    given: Kevin S.
+  - family: Fisk
+    given: Aaron T.
+  - family: Johnson
+    given: Timothy B.
+  - family: Bunnell
+    given: David B.
+  - family: Frank
+    given: Kenneth T.
+  - family: Muir
+    given: Andrew M.
+  issued:
+  - year: 2018
+    month: 11
+  title: Food-web structure and ecosystem function in the laurentian great lakes—toward
+    a conceptual model
+  container-title: Freshwater Biology
+  publisher: Wiley
+  page: 1-23
+  volume: '64'
+  issue: '1'
+  URL: https://doi.org/10.1111%2Ffwb.13203
+  DOI: 10.1111/fwb.13203
+
+- id: ID85056110702
+  type: article-journal
+  author:
+  - family: Ngor
+    given: Peng Bun
+  - family: Lek
+    given: Sovan
+  - family: McCann
+    given: Kevin S.
+  - family: Hogan
+    given: Zeb S.
+  issued:
+  - year: 2018
+    month: 11
+  title: Dams threaten world’s largest inland fishery
+  container-title: Nature
+  publisher: Springer Science; Business Media LLC
+  page: 184-184
+  volume: '563'
+  issue: '7730'
+  URL: https://doi.org/10.1038%2Fd41586-018-07304-1
+  DOI: 10.1038/d41586-018-07304-1
+
+- id: ID85055610550
+  type: article-journal
+  author:
+  - family: KC
+    given: Krishna Bahadur
+  - family: Dias
+    given: Goretty M.
+  - family: Veeramani
+    given: Anastasia
+  - family: Swanton
+    given: Clarence J.
+  - family: Fraser
+    given: David
+  - family: Steinke
+    given: Dirk
+  - family: Lee
+    given: Elizabeth
+  - family: Wittman
+    given: Hannah
+  - family: Farber
+    given: Jeffrey M.
+  - family: Dunfield
+    given: Kari
+  - family: McCann
+    given: Kevin
+  - family: Anand
+    given: Madhur
+  - family: Campbell
+    given: Malcolm
+  - family: Rooney
+    given: Neil
+  - family: Raine
+    given: Nigel E.
+  - family: Acker
+    given: Rene Van
+  - family: Hanner
+    given: Robert
+  - family: Pascoal
+    given: Samantha
+  - family: Sharif
+    given: Shayan
+  - family: Benton
+    given: Tim G.
+  - family: Fraser
+    given: Evan D. G.
+  editor:
+  - family: Struik
+    given: Paul C.
+  issued:
+  - year: 2018
+    month: 10
+  title: 'When too much isn’t enough: Does current food production meet global nutritional
+    needs?'
+  title-short: When too much isn’t enough
+  container-title: PLOS ONE
+  publisher: Public Library of Science (PLoS)
+  page: e0205683
+  volume: '13'
+  issue: '10'
+  URL: https://doi.org/10.1371%2Fjournal.pone.0205683
+  DOI: 10.1371/journal.pone.0205683
+
+- id: ID85052541206
+  type: article-journal
+  author:
+  - family: Edmunds
+    given: Nicholas B.
+  - family: McCann
+    given: Kevin S.
+  - family: Laberge
+    given: Frédéric
+  issued:
+  - year: 2018
+    month: 9
+  title: Relative heart size and fish foraging ecology in a lake food web
+  container-title: Canadian Journal of Fisheries and Aquatic Sciences
+  publisher: Canadian Science Publishing
+  page: 1477-1484
+  volume: '75'
+  issue: '9'
+  URL: https://doi.org/10.1139%2Fcjfas-2017-0412
+  DOI: 10.1139/cjfas-2017-0412
+
+- id: ID85052525019
   type: article-journal
   author:
   - family: Bieg
     given: Carling
   - family: McCann
-    given: Kevin
-  issued:
-  - year: 2020
-    month: 08
-  title: "Fisheries restoration potential: Optimizing fisheries profits while maintaining food web structure"
-  container: Food Webs
-  publisher: Elsevier
-  page: 'e00168'
-  volume:
-  issue:
-  URL: https://doi.org/10.1016/j.fooweb.2020.e00168
-  DOI: 10.1016/j.fooweb.2020.e00168
-
-- id: ID0028035790
-  type: article-journal
-  author:
-  - family: McCann
-    given: Kevin
-  - family: Yodzis
-    given: Peter
-  issued:
-  - year: 1994
-    month: 3
-  title: Biological conditions for chaos in a three-species food chain
-  container: Ecology
-  publisher: Wiley
-  page: '561-564'
-  volume: '75'
-  issue: '2'
-  URL: https://doi.org/10.2307%2F1939558
-  DOI: 10.2307/1939558
-
-
-- id: ID0028254194
-  type: article-journal
-  author:
-  - family: McCann
-    given: Kevin
-  - family: Yodzis
-    given: Peter
-  issued:
-  - year: 1994
-    month: 11
-  title: Nonlinear dynamics and population disappearances
-  container: The American Naturalist
-  publisher: University of Chicago Press
-  page: '873-879'
-  volume: '144'
-  issue: '5'
-  URL: https://doi.org/10.1086%2F285714
-  DOI: 10.1086/285714
-
-
-- id: ID0029479690
-  type: article-journal
-  author:
-  - family: McCann
-    given: K.
-  - family: Yodzis
-    given: P.
-  issued:
-  - year: 1995
-    month: 10
-  title: Bifurcation structure of a three-species food-chain model
-  container: Theoretical Population Biology
-  publisher: Elsevier BV
-  page: '93-125'
-  volume: '48'
-  issue: '2'
-  URL: https://doi.org/10.1006%2Ftpbi.1995.1023
-  DOI: 10.1006/tpbi.1995.1023
-
-
-- id: ID0030865359
-  type: article-journal
-  author:
-  - family: McCann
-    given: K.
-  - family: Hastings
-    given: A.
-  issued:
-  - year: 1997
-    month: 8
-  title: Re-evaluating the omnivory-stability relationship in food webs
-  container: 'Proceedings of the Royal Society B: Biological Sciences'
-  publisher: The Royal Society
-  page: '1249-1254'
-  volume: '264'
-  issue: '1385'
-  URL: https://doi.org/10.1098%2Frspb.1997.0172
-  DOI: 10.1098/rspb.1997.0172
-
-
-- id: ID0030870999
-  type: article-journal
-  author:
-  - family: McCann
-    given: Kevin
-  - family: Shuter
-    given: Brian
-  issued:
-  - year: 1997
-    month: 6
-  title: Bioenergetics of life history strategies and the comparative allometry of
-    reproduction
-  container: Canadian Journal of Fisheries and Aquatic Sciences
-  publisher: Canadian Science Publishing
-  page: '1289-1298'
-  volume: '54'
-  issue: '6'
-  URL: https://doi.org/10.1139%2Ff97-026
-  DOI: 10.1139/f97-026
-
-
-- id: ID0031583945
-  type: article-journal
-  author:
-  - family: Hastings
-    given: A.
-  - family: Harrison
-    given: S.
-  - family: McCann
-    given: K.
-  issued:
-  - year: 1997
-    month: 12
-  title: Unexpected spatial patterns in an insect outbreak match a predator diffusion
-    model
-  container: 'Proceedings of the Royal Society B: Biological Sciences'
-  publisher: The Royal Society
-  page: '1837-1840'
-  volume: '264'
-  issue: '1389'
-  URL: https://doi.org/10.1098%2Frspb.1997.0253
-  DOI: 10.1098/rspb.1997.0253
-
-
-- id: ID0031685141
-  type: article-journal
-  author:
-  - family: Huxel
-    given: Gary R.
-  - family: McCann
-    given: Kevin
-  issued:
-  - year: 1998
-    month: 9
-  title: 'Food web stability: The influence of trophic flows across habitats'
-  title-short: Food web stability
-  container: The American Naturalist
-  publisher: University of Chicago Press
-  page: '460-469'
-  volume: '152'
-  issue: '3'
-  URL: https://doi.org/10.1086%2F286182
-  DOI: 10.1086/286182
-
-
-- id: ID0032420712
-  type: article-journal
-  author:
-  - family: McCann
-    given: Kevin
-  issued:
-  - year: 1998
-    month: 12
-  title: Density-dependent coexistence in fish communities
-  container: Ecology
-  publisher: Wiley
-  page: '2957-2967'
-  volume: '79'
-  issue: '8'
-  URL: https://doi.org/10.1890%2F0012-9658%281998%29079%5B2957%3Addcifc%5D2.0.co%3B2
-  DOI: 10.1890/0012-9658(1998)079[2957:ddcifc]2.0.co;2
-
-
-- id: ID0032435285
-  type: article-journal
-  author:
-  - family: McCann
-    given: Kevin
-  - family: Yodzis
-    given: Peter
-  issued:
-  - year: 1998
-    month: 12
-  title: On the stabilizing role of stage structure in piscene consumer-resource interactions
-  container: Theoretical Population Biology
-  publisher: Elsevier BV
-  page: '227-242'
-  volume: '54'
-  issue: '3'
-  URL: https://doi.org/10.1006%2Ftpbi.1997.1369
-  DOI: 10.1006/tpbi.1997.1369
-
-
-- id: ID0032492131
-  type: article-journal
-  author:
-  - family: McCann
-    given: K. S.
-  - family: Hastings
-    given: A.
-  - family: Strong
-    given: D. R.
-  issued:
-  - year: 1998
-    month: 2
-  title: Trophic cascades and trophic trickles in pelagic food webs
-  container: 'Proceedings of the Royal Society B: Biological Sciences'
-  publisher: The Royal Society
-  page: '205-209'
-  volume: '265'
-  issue: '1392'
-  URL: https://doi.org/10.1098%2Frspb.1998.0283
-  DOI: 10.1098/rspb.1998.0283
-
-
-- id: ID0032558786
-  type: article-journal
-  author:
-  - family: McCann
-    given: Kevin
-  - family: Hastings
-    given: Alan
-  - family: Huxel
-    given: Gary R.
-  issued:
-  - year: 1998
-    month: 10
-  title: Weak trophic interactions and the balance of nature
-  container: Nature
-  publisher: Springer Nature
-  page: '794-798'
-  volume: '395'
-  issue: '6704'
-  URL: https://doi.org/10.1038%2F27427
-  DOI: 10.1038/27427
-
-
-- id: ID0032898627
-  type: article-journal
-  author:
-  - family: Wilson
-    given: William G.
-  - family: Harrison
-    given: Susan P.
-  - family: Hastings
-    given: Alan
-  - family: McCann
-    given: Kevin
-  issued:
-  - year: 1999
-    month: 1
-  title: Exploring stable pattern formation in models of tussock moth populations
-  container: Journal of Animal Ecology
-  publisher: Wiley
-  page: '94-107'
-  volume: '68'
-  issue: '1'
-  URL: https://doi.org/10.1046%2Fj.1365-2656.1999.00265.x
-  DOI: 10.1046/j.1365-2656.1999.00265.x
-
-
-- id: ID0032915009
-  type: article-journal
-  author:
-  - family: Crawford
-    given: Stephen S.
-  - family: Balon
-    given: Eugene K.
-  - family: McCann
-    given: Kevin S.
-  issued:
-  - year: 1999
-  title: 'A mathematical technique for estimating blastodisc: Yolk volume ratios
-    instead of egg sizes'
-  title-short: A mathematical technique for estimating blastodisc
-  container: Environmental Biology of Fishes
-  publisher: Springer Nature
-  page: '229-234'
-  volume: '54'
-  issue: '2'
-  URL: https://doi.org/10.1023%2Fa%3A1007586127053
-  DOI: 10.1023/a:1007586127053
-
-
-- id: ID0034001141
-  type: article-journal
-  author:
-  - family: McCann
-    given: Kevin
-  - family: Hastings
-    given: Alan
-  - family: Harrison
-    given: Susan
-  - family: Wilson
-    given: Will
-  issued:
-  - year: 2000
-    month: 3
-  title: Population outbreaks in a discrete world
-  container: Theoretical Population Biology
-  publisher: Elsevier BV
-  page: '97-108'
-  volume: '57'
-  issue: '2'
-  URL: https://doi.org/10.1006%2Ftpbi.1999.1444
-  DOI: 10.1006/tpbi.1999.1444
-
-
-- id: ID0034636310
-  type: article-journal
-  author:
-  - family: McCann
-    given: Kevin Shear
-  issued:
-  - year: 2000
-    month: 5
-  title: The diversity-stability
-  container: Nature
-  publisher: Springer Nature
-  page: '228-233'
-  volume: '405'
-  issue: '6783'
-  URL: https://doi.org/10.1038%2F35012234
-  DOI: 10.1038/35012234
-
-
-- id: ID0035926431
-  type: article-journal
-  author:
-  - family: Lee
-    given: C. T
-  - family: Hoopes
-    given: M. F
-  - family: Diehl
-    given: J
-  - family: Gilliland
-    given: W
-  - family: Huxel
-    given: G
-  - family: Leaver
-    given: E. V
-  - family: McCann
-    given: K
-  - family: Umbanhowar
-    given: J
-  - family: Mogilner
-    given: A
-  issued:
-  - year: 2001
-    month: 5
-  title: Non-local concepts and models in biology
-  container: Journal of Theoretical Biology
-  publisher: Elsevier BV
-  page: '201-219'
-  volume: '210'
-  issue: '2'
-  URL: https://doi.org/10.1006%2Fjtbi.2000.2287
-  DOI: 10.1006/jtbi.2000.2287
-
-
-- id: ID0043094329
-  type: article-journal
-  author:
-  - family: Moore
-    given: John C.
-  - family: McCann
-    given: Kevin
-  - family: Setälä
-    given: Heikki
-  - family: Ruiter
-    given: Peter C. De
-  issued:
-  - year: 2003
-    month: 4
-  title: 'Top-down is bottom-up: Does predation in the rhizosphere regulate aboveground
-    dynamics?'
-  title-short: Top-down is bottom-up
-  container: Ecology
-  publisher: Wiley
-  page: '846-857'
-  volume: '84'
-  issue: '4'
-  URL: https://doi.org/10.1890%2F0012-9658%282003%29084%5B0846%3Atibdpi%5D2.0.co%3B2
-  DOI: 10.1890/0012-9658(2003)084[0846:tibdpi]2.0.co;2
-
-
-- id: ID0043179037
-  type: article-journal
-  author:
-  - family: Huxel
-    given: Gary R.
-  - family: McCann
-    given: Kevin
-  - family: Polis
-    given: Gary A.
-  issued:
-  - year: 2002
-    month: 7
-  title: Effects of partitioning allochthonous and autochthonous resources on food
-    web stability
-  container: Ecological Research
-  publisher: Springer Nature
-  page: '419-432'
-  volume: '17'
-  issue: '4'
-  URL: https://doi.org/10.1046%2Fj.1440-1703.2002.00501.x
-  DOI: 10.1046/j.1440-1703.2002.00501.x
-
-
-- id: ID0344496632
-  type: article-journal
-  author:
-  - family: McCann
     given: Kevin S
-  - family: Botsford
-    given: Louis W
-  - family: Hasting
-    given: Alan
+  - family: McMeans
+    given: Bailey C
+  - family: Rooney
+    given: Neil
+  - family: Holtgrieve
+    given: Gordon W
+  - family: Lek
+    given: Sovan
+  - family: Bun
+    given: Ngor Peng
+  - family: KC
+    given: Krishna B
+  - family: Fraser
+    given: Evan
   issued:
-  - year: 2003
+  - year: 2018
     month: 8
-  title: Differential response of marine populations to climate forcing
-  container: Canadian Journal of Fisheries and Aquatic Sciences
-  publisher: Canadian Science Publishing
-  page: '971-985'
-  volume: '60'
-  issue: '8'
-  URL: https://doi.org/10.1139%2Ff03-078
-  DOI: 10.1139/f03-078
-
-
-- id: ID15444369647
-  type: article-journal
-  author:
-  - family: Umbanhowar
-    given: James
-  - family: McCann
-    given: Kevin
-  issued:
-  - year: 2005
-    month: 1
-  title: Simple rules for the coexistence and competitive dominance of plants mediated
-    by mycorrhizal fungi
-  container: Ecology Letters
+  title: 'Linking humans to food webs: A framework for the classification of global
+    fisheries'
+  title-short: Linking humans to food webs
+  container-title: Frontiers in Ecology and the Environment
   publisher: Wiley
-  page: '247-252'
-  volume: '8'
-  issue: '3'
-  URL: https://doi.org/10.1111%2Fj.1461-0248.2004.00714.x
-  DOI: 10.1111/j.1461-0248.2004.00714.x
-
-
-- id: ID18444369989
-  type: article-journal
-  author:
-  - family: McCann
-    given: K. S.
-  - family: Rasmussen
-    given: J. B.
-  - family: Umbanhowar
-    given: J.
-  issued:
-  - year: 2005
-    month: 3
-  title: The dynamics of spatially coupled food webs
-  container: Ecology Letters
-  publisher: Wiley
-  page: '513-523'
-  volume: '8'
-  issue: '5'
-  URL: https://doi.org/10.1111%2Fj.1461-0248.2005.00742.x
-  DOI: 10.1111/j.1461-0248.2005.00742.x
-
-
-- id: ID23044440232
-  type: article-journal
-  author:
-  - family: Vasseur
-    given: David A.
-  - family: McCann
-    given: Kevin S.
-  issued:
-  - year: 2005
-    month: 8
-  title: A mechanistic approach for modeling temperature-dependent consumer-resource
-    dynamics
-  container: The American Naturalist
-  publisher: University of Chicago Press
-  page: '184-198'
-  volume: '166'
-  issue: '2'
-  URL: https://doi.org/10.1086%2F431285
-  DOI: 10.1086/431285
-
-
-- id: ID24744456327
-  type: article-journal
-  author:
-  - family: Vasseur
-    given: David A.
-  - family: Gaedke
-    given: Ursula
-  - family: McCann
-    given: Kevin S.
-  issued:
-  - year: 2005
-    month: 9
-  title: A seasonal alternation of coherent and compensatory dynamics occurs in phytoplankton
-  container: Oikos
-  publisher: Wiley
-  page: '507-514'
-  volume: '110'
-  issue: '3'
-  URL: https://doi.org/10.1111%2Fj.0030-1299.2005.14006.x
-  DOI: 10.1111/j.0030-1299.2005.14006.x
-
-
-- id: ID26044471410
-  type: article-journal
-  author:
-  - family: Tewfik
-    given: Alexander
-  - family: Rasmussen
-    given: JosephB.
-  - family: McCann
-    given: Kevin S.
-  issued:
-  - year: 2005
-    month: 10
-  title: Anthropogenic enrichment alters a marine benthic food web
-  container: Ecology
-  publisher: Wiley
-  page: '2726-2736'
-  volume: '86'
-  issue: '10'
-  URL: https://doi.org/10.1890%2F04-1537
-  DOI: 10.1890/04-1537
-
-
-- id: ID26444601287
-  type: article-journal
-  author:
-  - family: Vadeboncoeur
-    given: Yvonne
-  - family: McCann
-    given: Kevin S.
-  - family: Zanden
-    given: M. Jake Vander
-  - family: Rasmussen
-    given: Joseph B.
-  issued:
-  - year: 2005
-    month: 9
-  title: Effects of multi-chain omnivory on the strength of trophic control in lakes
-  container: Ecosystems
-  publisher: Springer Nature
-  page: '682-693'
-  volume: '8'
-  issue: '6'
-  URL: https://doi.org/10.1007%2Fs10021-003-0149-5
-  DOI: 10.1007/s10021-003-0149-5
-
-
-- id: ID27744607941
-  type: article-journal
-  author:
-  - family: Moore
-    given: John C.
-  - family: McCann
-    given: Kevin
-  - family: Ruiter
-    given: Peter C.
-    dropping-particle: de
-  issued:
-  - year: 2005
-    month: 11
-  title: Modeling trophic pathways, nutrient cycling, and dynamic stability in soils
-  container: Pedobiologia
-  publisher: Elsevier BV
-  page: '499-510'
-  volume: '49'
-  issue: '6'
-  URL: https://doi.org/10.1016%2Fj.pedobi.2005.05.008
-  DOI: 10.1016/j.pedobi.2005.05.008
-
-
-- id: ID3042698659
-  type: article-journal
-  author:
-  - family: Moore
-    given: John C.
-  - family: Berlow
-    given: Eric L.
-  - family: Coleman
-    given: David C.
-  - family: Ruiter
-    given: Peter C.
-  - family: Dong
-    given: Quan
-  - family: Hastings
-    given: Alan
-  - family: Johnson
-    given: Nancy Collins
-  - family: McCann
-    given: Kevin S.
-  - family: Melville
-    given: Kim
-  - family: Morin
-    given: Peter J.
-  - family: Nadelhoffer
-    given: Knute
-  - family: Rosemond
-    given: Amy D.
-  - family: Post
-    given: David M.
-  - family: Sabo
-    given: John L.
-  - family: Scow
-    given: Kate M.
-  - family: Vanni
-    given: Michael J.
-  - family: Wall
-    given: Diana H.
-  issued:
-  - year: 2004
-    month: 6
-  title: Detritus, trophic dynamics and biodiversity
-  container: Ecology Letters
-  publisher: Wiley
-  page: '584-600'
-  volume: '7'
-  issue: '7'
-  URL: https://doi.org/10.1111%2Fj.1461-0248.2004.00606.x
-  DOI: 10.1111/j.1461-0248.2004.00606.x
-
-
-- id: ID3142746304
-  type: article-journal
-  author:
-  - family: DeBruyn
-    given: Adrian M. H.
-  - family: McCann
-    given: Kevin S.
-  - family: Rasmussen
-    given: Joseph B.
-  issued:
-  - year: 2004
-    month: 7
-  title: Migration supports uneven consumer control in a sewage-enriched river food
-    web
-  container: Journal of Animal Ecology
-  publisher: Wiley
-  page: '737-746'
-  volume: '73'
-  issue: '4'
-  URL: https://doi.org/10.1111%2Fj.0021-8790.2004.00845.x
-  DOI: 10.1111/j.0021-8790.2004.00845.x
-
-
-- id: ID3342961682
-  type: article-journal
-  author:
-  - family: Teng
-    given: Jack
-  - family: McCann
-    given: Kevin S.
-  issued:
-  - year: 2004
-    month: 7
-  title: Dynamics of compartmented and reticulate food webs in relation to energetic
-    flows
-  container: The American Naturalist
-  publisher: University of Chicago Press
-  page: '85-100'
-  volume: '164'
-  issue: '1'
-  URL: https://doi.org/10.1086%2F421723
-  DOI: 10.1086/421723
-
-
-- id: ID33645083980
-  type: article-journal
-  author:
-  - family: Hovius
-    given: Jonathan T.
-  - family: Beisner
-    given: Beatrix E.
-  - family: McCann
-    given: Kevin S.
-  issued:
-  - year: 2006
-    month: 3
-  title: Epilimnetic rotifer community responses to bythotrephes longimanus invasion
-    in canadian shield lakes
-  container: Limnology and Oceanography
-  publisher: Wiley
-  page: '1004-1012'
-  volume: '51'
-  issue: '2'
-  URL: https://doi.org/10.4319%2Flo.2006.51.2.1004
-  DOI: 10.4319/lo.2006.51.2.1004
-
-
-- id: ID33745990787
-  type: article-journal
-  author:
-  - family: Hatton
-    given: I. A.
-  - family: McCann
-    given: K. S.
-  - family: Umbanhowar
-    given: J.
-  - family: Rasmussen
-    given: J. B.
-  issued:
-  - year: 2006
-    month: 6
-  title: A dynamical approach to evaluate risk in resource management
-  container: Ecological Applications
-  publisher: Wiley
-  page: '1238-1248'
+  page: 412-420
   volume: '16'
-  issue: '3'
-  URL: https://doi.org/10.1890%2F1051-0761%282006%29016%5B1238%3Aadater%5D2.0.co%3B2
-  DOI: 10.1890/1051-0761(2006)016[1238:adater]2.0.co;2
+  issue: '7'
+  URL: https://doi.org/10.1002%2Ffee.1933
+  DOI: 10.1002/fee.1933
 
-
-- id: ID33746374366
+- id: ID85052391486
   type: article-journal
   author:
-  - family: Rooney
-    given: Neil
+  - family: Kennedy
+    given: P. J.
+  - family: Bartley
+    given: T. J.
+  - family: Gillis
+    given: D. M.
   - family: McCann
-    given: Kevin
+    given: K. S.
+  - family: Rennie
+    given: M. D.
+  issued:
+  - year: 2018
+    month: 8
+  title: Offshore prey densities facilitate similar life history and behavioral patterns
+    in two distinct aquatic apex predators, northern pike and lake trout
+  container-title: Transactions of the American Fisheries Society
+  publisher: Wiley
+  page: 972-995
+  volume: '147'
+  issue: '5'
+  URL: https://doi.org/10.1002%2Ftafs.10090
+  DOI: 10.1002/tafs.10090
+
+- id: ID85051220531
+  type: article-journal
+  author:
+  - family: Kadoya
+    given: Taku
   - family: Gellner
     given: Gabriel
-  - family: Moore
-    given: John C.
-  issued:
-  - year: 2006
-    month: 7
-  title: Structural asymmetry and the stability of diverse food webs
-  container: Nature
-  publisher: Springer Nature
-  page: '265-269'
-  volume: '442'
-  issue: '7100'
-  URL: https://doi.org/10.1038%2Fnature04887
-  DOI: 10.1038/nature04887
-
-
-- id: ID33847364116
-  type: article-journal
-  author:
-  - family: McCann
-    given: Kevin
-  issued:
-  - year: 2007
-    month: 3
-  title: Protecting biostructure
-  container: Nature
-  publisher: Springer Nature
-  page: '29-29'
-  volume: '446'
-  issue: '7131'
-  URL: https://doi.org/10.1038%2F446029a
-  DOI: 10.1038/446029a
-
-
-- id: ID33947535361
-  type: article-journal
-  author:
-  - family: Hovius
-    given: Jonathan T.
-  - family: Beisner
-    given: Beatrix E.
   - family: McCann
     given: Kevin S.
-  - family: Yan
-    given: Norman D.
-  issued:
-  - year: 2006
-    month: 10
-  title: 'Indirect food web effects of bythotrephes invasion: Responses by the rotifer
-    conochilus in harp lake, canada'
-  title-short: Indirect food web effects of bythotrephes invasion
-  container: Biological Invasions
-  publisher: Springer Nature
-  page: '233-243'
-  volume: '9'
-  issue: '3'
-  URL: https://doi.org/10.1007%2Fs10530-006-9028-2
-  DOI: 10.1007/s10530-006-9028-2
-
-
-- id: ID34249020529
-  type: article-journal
-  author:
-  - family: Tewfik
-    given: A
-  - family: Guichard
-    given: F
-  - family: McCann
-    given: KS
-  issued:
-  - year: 2007
-    month: 4
-  title: Influence of acute and chronic disturbance on macrophyte landscape zonation
-  container: Marine Ecology Progress Series
-  publisher: Inter-Research Science Center
-  page: '111-121'
-  volume: '335'
-  URL: https://doi.org/10.3354%2Fmeps335111
-  DOI: 10.3354/meps335111
-
-
-- id: ID34249799628
-  type: article-journal
-  author:
-  - family: Maser
-    given: Gabriel L.
-  - family: Guichard
-    given: Frédéric
-  - family: McCann
-    given: Kevin S.
-  issued:
-  - year: 2007
-    month: 7
-  title: Weak trophic interactions and the balance of enriched metacommunities
-  container: Journal of Theoretical Biology
-  publisher: Elsevier BV
-  page: '337-345'
-  volume: '247'
-  issue: '2'
-  URL: https://doi.org/10.1016%2Fj.jtbi.2007.03.003
-  DOI: 10.1016/j.jtbi.2007.03.003
-
-
-- id: ID35348993253
-  type: article-journal
-  author:
-  - family: Tewfik
-    given: Alexander
-  - family: Rasmussen
-    given: Joseph B
-  - family: McCann
-    given: Kevin S
-  issued:
-  - year: 2007
-    month: 7
-  title: Simplification of seagrass food webs across a gradient of nutrient enrichment
-  container: Canadian Journal of Fisheries and Aquatic Sciences
-  publisher: Canadian Science Publishing
-  page: '956-967'
-  volume: '64'
-  issue: '7'
-  URL: https://doi.org/10.1139%2Ff07-071
-  DOI: 10.1139/f07-071
-
-
-- id: ID36749040834
-  type: article-journal
-  author:
-  - family: Eveleigh
-    given: E. S.
-  - family: McCann
-    given: K. S.
-  - family: McCarthy
-    given: P. C.
-  - family: Pollock
-    given: S. J.
-  - family: Lucarotti
-    given: C. J.
-  - family: Morin
-    given: B.
-  - family: McDougall
-    given: G. A.
-  - family: Strongman
-    given: D. B.
-  - family: Huber
-    given: J. T.
-  - family: Umbanhowar
-    given: J.
-  - family: Faria
-    given: L. D. B.
-  issued:
-  - year: 2007
-    month: 10
-  title: Fluctuations in density of an outbreak species drive diversity cascades in
-    food webs
-  container: Proceedings of the National Academy of Sciences
-  publisher: Proceedings of the National Academy of Sciences
-  page: '16976-16981'
-  volume: '104'
-  issue: '43'
-  URL: https://doi.org/10.1073%2Fpnas.0704301104
-  DOI: 10.1073/pnas.0704301104
-
-
-- id: ID40549111654
-  type: article-journal
-  author:
-  - family: Faria
-    given: Lucas Del Bianco
-  - family: Umbanhowar
-    given: James
-  - family: McCann
-    given: Kevin S.
-  issued:
-  - year: 2007
-    month: 8
-  title: The long-term and transient implications of multiple predators in biocontrol
-  container: Theoretical Ecology
-  publisher: Springer Nature
-  page: '45-53'
-  volume: '1'
-  issue: '1'
-  URL: https://doi.org/10.1007%2Fs12080-007-0003-z
-  DOI: 10.1007/s12080-007-0003-z
-
-
-- id: ID4243131419
-  type: article-journal
-  author:
-  - family: Humphries
-    given: M. M.
-  issued:
-  - year: 2004
-    month: 4
-  title: Bioenergetic prediction of climate change impacts on northern mammals
-  container: Integrative and Comparative Biology
-  publisher: Oxford University Press (OUP)
-  page: '152-162'
-  volume: '44'
-  issue: '2'
-  URL: https://doi.org/10.1093%2Ficb%2F44.2.152
-  DOI: 10.1093/icb/44.2.152
-
-
-- id: ID47249110541
-  type: chapter
-  author:
-  - family: Moore
-    given: John C.
-  - family: McCann
-    given: Kevin
-  - family: Ruiter
-    given: Peter C.
-    dropping-particle: de
-  issued:
-  - year: 2007
-  title: Soil rhizosphere food webs, their stability, and implications for soil processes
-    in ecosystems
-  container: The rhizosphere
-  publisher: Elsevier
-  page: '101-125'
-  URL: https://doi.org/10.1016%2Fb978-012088775-0%2F50007-0
-  DOI: 10.1016/b978-012088775-0/50007-0
-
-
-- id: ID47349084547
-  type: article-journal
-  author:
-  - family: Rooney
-    given: Neil
-  - family: McCann
-    given: Kevin S.
-  - family: Moore
-    given: John C.
-  issued:
-  - year: 2008
-    month: 8
-  title: A landscape theory for food web architecture
-  container: Ecology Letters
-  publisher: Wiley
-  page: '867-881'
-  volume: '11'
-  issue: '8'
-  URL: https://doi.org/10.1111%2Fj.1461-0248.2008.01193.x
-  DOI: 10.1111/j.1461-0248.2008.01193.x
-
-
-- id: ID67650245842
-  type: article-journal
-  author:
-  - family: McCann
-    given: K. S.
-  - family: Rooney
-    given: N.
-  issued:
-  - year: 2009
-    month: 5
-  title: The more food webs change, the more they stay the same
-  container: 'Philosophical Transactions of the Royal Society B: Biological
-    Sciences'
-  publisher: The Royal Society
-  page: '1789-1801'
-  volume: '364'
-  issue: '1524'
-  URL: https://doi.org/10.1098%2Frstb.2008.0273
-  DOI: 10.1098/rstb.2008.0273
-
-
-- id: ID68149103019
-  type: article-journal
-  author:
-  - family: Dolson
-    given: Rebecca
-  - family: McCann
-    given: Kevin
-  - family: Rooney
-    given: Neil
-  - family: Ridgway
-    given: Mark
-  issued:
-  - year: 2009
-    month: 8
-  title: Lake morphometry predicts the degree of habitat coupling by a mobile predator
-  container: Oikos
-  publisher: Wiley
-  page: '1230-1238'
-  volume: '118'
-  issue: '8'
-  URL: https://doi.org/10.1111%2Fj.1600-0706.2009.17351.x
-  DOI: 10.1111/j.1600-0706.2009.17351.x
-
-
-- id: ID73249127044
-  type: chapter
-  author:
-  - family: McCann
-    given: Kevin S.
-  issued:
-  - year: 2005
-  title: Perspectives on diversity, structure, and stability
-  container: Ecological paradigms lost
-  publisher: Elsevier
-  page: '183-200'
-  URL: https://doi.org/10.1016%2Fb978-012088459-9%2F50011-x
-  DOI: 10.1016/b978-012088459-9/50011-x
-
-
-- id: ID77952334513
-  type: article-journal
-  author:
-  - family: Fryxell
-    given: J. M.
-  - family: Packer
-    given: C.
-  - family: McCann
-    given: K.
-  - family: Solberg
-    given: E. J.
-  - family: Saether
-    given: B.-E.
-  issued:
-  - year: 2010
-    month: 5
-  title: Resource management cycles and the sustainability of harvested wildlife populations
-  container: Science
-  publisher: American Association for the Advancement of Science (AAAS)
-  page: '903-906'
-  volume: '328'
-  issue: '5980'
-  URL: https://doi.org/10.1126%2Fscience.1185802
-  DOI: 10.1126/science.1185802
-
-
-- id: ID77953507610
-  type: article-journal
-  author:
-  - family: Rip
-    given: J. M. K.
-  - family: McCann
-    given: K. S.
-  - family: Lynn
-    given: D. H.
-  - family: Fawcett
-    given: S.
-  issued:
-  - year: 2010
-    month: 2
-  title: An experimental test of a fundamental food web motif
-  container: 'Proceedings of the Royal Society B: Biological Sciences'
-  publisher: The Royal Society
-  page: '1743-1749'
-  volume: '277'
-  issue: '1688'
-  URL: https://doi.org/10.1098%2Frspb.2009.2191
-  DOI: 10.1098/rspb.2009.2191
-
-
-- id: ID78049277968
-  type: chapter
-  author:
-  - family: DeBruyn
-    given: Adrian M. H.
-  - family: McCann
-    given: Kevin S.
-  - family: Moore
-    given: John C.
-  - family: Strong
-    given: Donald R.
-  issued:
-  - year: 2007
-  title: An energetic framework for trophic control
-  container: 'From energetics to ecosystems: The dynamics and structure of
-    ecological systems'
-  publisher: Springer Netherlands
-  page: '65-85'
-  URL: https://doi.org/10.1007%2F978-1-4020-5337-5_4
-  DOI: 10.1007/978-1-4020-5337-5_4
-
-
-- id: ID79957643493
-  type: article-journal
-  author:
-  - family: Sheehy
-    given: Justin
-  - family: Taylor
-    given: Caz M.
-  - family: McCann
-    given: Kevin S.
-  - family: Norris
-    given: D. Ryan
-  issued:
-  - year: 2010
-    month: 2
-  title: 'Optimal conservation planning for migratory animals: Integrating demographic
-    information across seasons'
-  title-short: Optimal conservation planning for migratory animals
-  container: Conservation Letters
-  publisher: Wiley
-  page: '192-202'
-  volume: '3'
-  issue: '3'
-  URL: https://doi.org/10.1111%2Fj.1755-263x.2010.00100.x
-  DOI: 10.1111/j.1755-263x.2010.00100.x
-
-
-- id: ID79959966529
-  type: article-journal
-  author:
-  - family: Smith
-    given: M. Alex
-  - family: Eveleigh
-    given: Eldon S.
-  - family: McCann
-    given: Kevin S.
-  - family: Merilo
-    given: Mark T.
-  - family: McCarthy
-    given: Peter C.
-  - family: Rooyen
-    given: Kathleen I. Van
   editor:
-  - family: Romanuk
-    given: Tamara Natasha
+  - family: Gravel
+    given: Dominique
   issued:
-  - year: 2011
-    month: 7
-  title: 'Barcoding a quantified food web: Crypsis, concepts, ecology and hypotheses'
-  title-short: Barcoding a quantified food web
-  container: PLoS ONE
-  publisher: Public Library of Science (PLoS)
-  page: 'e14424'
-  volume: '6'
-  issue: '7'
-  URL: https://doi.org/10.1371%2Fjournal.pone.0014424
-  DOI: 10.1371/journal.pone.0014424
-
-
-- id: ID79960429077
-  type: article-journal
-  author:
-  - family: Rip
-    given: J. M. K.
-  - family: McCann
-    given: K. S.
-  issued:
-  - year: 2011
+  - year: 2018
     month: 6
-  title: Cross-ecosystem differences in stability and the principle of energy flux
-  container: Ecology Letters
+  title: Potential oscillators and keystone modules in food webs
+  container-title: Ecology Letters
   publisher: Wiley
-  page: '733-740'
-  volume: '14'
-  issue: '8'
-  URL: https://doi.org/10.1111%2Fj.1461-0248.2011.01636.x
-  DOI: 10.1111/j.1461-0248.2011.01636.x
+  page: 1330-1340
+  volume: '21'
+  issue: '9'
+  URL: https://doi.org/10.1111%2Fele.13099
+  DOI: 10.1111/ele.13099
 
-
-- id: ID80053435687
+- id: ID85048741153
   type: article-journal
   author:
-  - family: Ruokolainen
-    given: Lasse
-  - family: Abrams
-    given: Peter A.
+  - family: Ngor
+    given: Peng Bun
   - family: McCann
     given: Kevin S.
-  - family: Shuter
-    given: Brian J.
+  - family: Grenouillet
+    given: Gaël
+  - family: So
+    given: Nam
+  - family: McMeans
+    given: Bailey C.
+  - family: Fraser
+    given: Evan
+  - family: Lek
+    given: Sovan
   issued:
-  - year: 2011
-    month: 12
-  title: The roles of spatial heterogeneity and adaptive movement in stabilizing (or
-    destabilizing) simple metacommunities
-  container: Journal of Theoretical Biology
-  publisher: Elsevier BV
-  page: '76-87'
-  volume: '291'
+  - year: 2018
+    month: 6
+  title: Evidence of indiscriminate fishing effects in one of the world’s largest
+    inland fisheries
+  container-title: Scientific Reports
+  publisher: Springer Science; Business Media LLC
+  volume: '8'
   issue: '1'
-  URL: https://doi.org/10.1016%2Fj.jtbi.2011.09.004
-  DOI: 10.1016/j.jtbi.2011.09.004
+  URL: https://doi.org/10.1038%2Fs41598-018-27340-1
+  DOI: 10.1038/s41598-018-27340-1
 
-
-- id: ID83655192569
+- id: ID85047664479
   type: article-journal
   author:
-  - family: Gellner
-    given: Gabriel
+  - family: Nilsson
+    given: Karin A.
   - family: McCann
-    given: Kevin
+    given: Kevin S.
+  - family: Caskenette
+    given: Amanda L.
   issued:
-  - year: 2012
-    month: 1
-  title: Reconciling the omnivory-stability debate
-  container: The American Naturalist
-  publisher: University of Chicago Press
-  page: '22-37'
-  volume: '179'
-  issue: '1'
-  URL: https://doi.org/10.1086%2F663191
-  DOI: 10.1086/663191
+  - year: 2018
+    month: 5
+  title: Interaction strength and stability in stage-structured food web modules
+  container-title: Oikos
+  publisher: Wiley
+  page: 1494-1505
+  volume: '127'
+  issue: '10'
+  URL: https://doi.org/10.1111%2Foik.05029
+  DOI: 10.1111/oik.05029
 
-
-- id: ID84455199711
+- id: ID85046601603
   type: article-journal
   author:
+  - family: Johnson
+    given: Laura E.
+  - family: McMeans
+    given: Bailey
   - family: Rooney
     given: Neil
+  - family: Gutgesell
+    given: Marie
+  - family: Moccia
+    given: Richard
   - family: McCann
     given: Kevin S.
   issued:
-  - year: 2012
-    month: 1
-  title: Integrating food web diversity, structure and stability
-  container: Trends in Ecology & Evolution
+  - year: 2018
+    month: 6
+  title: Asymmetric assimilation of an anthropogenic resource subsidy in a freshwater
+    food web
+  container-title: Food Webs
   publisher: Elsevier BV
-  page: '40-46'
-  volume: '27'
-  issue: '1'
-  URL: https://doi.org/10.1016%2Fj.tree.2011.09.001
-  DOI: 10.1016/j.tree.2011.09.001
+  page: e00084
+  volume: '15'
+  URL: https://doi.org/10.1016%2Fj.fooweb.2018.e00084
+  DOI: 10.1016/j.fooweb.2018.e00084
 
-
-- id: ID84860235811
+- id: ID85045435739
   type: article-journal
   author:
-  - family: Abrams
-    given: Peter A.
-  - family: Ruokolainen
-    given: Lasse
-  - family: Shuter
-    given: Brian J.
+  - family: Sinclair
+    given: A. R. E.
+  - family: Pech
+    given: Roger P.
+  - family: Fryxell
+    given: John M.
   - family: McCann
-    given: Kevin S.
+    given: Kevin
+  - family: Byrom
+    given: Andrea E.
+  - family: Savory
+    given: C. John
+  - family: Brashares
+    given: Justin
+  - family: Arthur
+    given: Anthony D.
+  - family: Catling
+    given: Peter C.
+  - family: Triska
+    given: Maggie D.
+  - family: Craig
+    given: Michael D.
+  - family: Sinclair
+    given: Tim J. E.
+  - family: McLaren
+    given: Jennie R.
+  - family: Turkington
+    given: Roy
+  - family: Beyers
+    given: Rene L.
+  - family: Harrower
+    given: William L.
   issued:
-  - year: 2012
-    month: 2
-  title: 'Harvesting creates ecological traps: Consequences of invisible mortality
-    risks in predator-prey metacommunities'
-  title-short: Harvesting creates ecological traps
-  container: Ecology
+  - year: 2017
+    month: 7
+  title: Predicting and assessing progress in the restoration of ecosystems
+  container-title: Conservation Letters
   publisher: Wiley
-  page: '281-293'
-  volume: '93'
+  page: e12390
+  volume: '11'
   issue: '2'
-  URL: https://doi.org/10.1890%2F11-0011.1
-  DOI: 10.1890/11-0011.1
+  URL: https://doi.org/10.1111%2Fconl.12390
+  DOI: 10.1111/conl.12390
 
-
-- id: ID84869105137
-  type: article-journal
-  author:
-  - family: Murall
-    given: Carmen Lía
-  - family: McCann
-    given: Kevin S.
-  - family: Bauch
-    given: Chris T.
-  editor:
-  - family: Romanuk
-    given: Tamara Natasha
-  issued:
-  - year: 2012
-    month: 11
-  title: 'Food webs in the human body: Linking ecological theory to viral dynamics'
-  title-short: Food webs in the human body
-  container: PLoS ONE
-  publisher: Public Library of Science (PLoS)
-  page: 'e48812'
-  volume: '7'
-  issue: '11'
-  URL: https://doi.org/10.1371%2Fjournal.pone.0048812
-  DOI: 10.1371/journal.pone.0048812
-
-
-- id: ID84869458508
+- id: ID85044318519
   type: article-journal
   author:
   - family: Tunney
     given: Tyler D.
   - family: McCann
     given: Kevin S.
+  - family: Jarvis
+    given: Lauren
   - family: Lester
     given: Nigel P.
   - family: Shuter
     given: Brian J.
   issued:
-  - year: 2012
+  - year: 2018
     month: 1
-  title: Food web expansion and contraction in response to changing environmental
-    conditions
-  container: Nature Communications
-  publisher: Springer Nature
-  volume: '3'
-  issue: '1'
-  URL: https://doi.org/10.1038%2Fncomms2098
-  DOI: 10.1038/ncomms2098
+  title: Blinded by the light? Nearshore energy pathway coupling and relative predator
+    biomass increase with reduced water transparency across lakes
+  container-title: Oecologia
+  publisher: Springer Science; Business Media LLC
+  page: 1031-1041
+  volume: '186'
+  issue: '4'
+  URL: https://doi.org/10.1007%2Fs00442-017-4049-3
+  DOI: 10.1007/s00442-017-4049-3
 
-
-- id: ID84874713029
+- id: ID85043300135
   type: article-journal
   author:
   - family: MacDougall
-    given: A. S.
-  - family: McCann
-    given: K. S.
-  - family: Gellner
-    given: G.
-  - family: Turkington
-    given: R.
-  issued:
-  - year: 2013
-    month: 2
-  title: Diversity loss with persistent human disturbance increases vulnerability
-    to ecosystem collapse
-  container: Nature
-  publisher: Springer Nature
-  page: '86-89'
-  volume: '494'
-  issue: '7435'
-  URL: https://doi.org/10.1038%2Fnature11869
-  DOI: 10.1038/nature11869
-
-
-- id: ID84882886033
-  type: chapter
-  author:
-  - family: McCann
+    given: Andrew S.
+  - family: Harvey
+    given: Eric
+  - family: McCune
+    given: Jenny L.
+  - family: Nilsson
+    given: Karin A.
+  - family: Bennett
+    given: Joseph
+  - family: Firn
+    given: Jennifer
+  - family: Bartley
+    given: Timothy
+  - family: Grace
+    given: James B.
+  - family: Kelly
+    given: Jocelyn
+  - family: Tunney
+    given: Tyler D.
+  - family: McMeans
+    given: Bailey
+  - family: Matsuzaki
+    given: Shin-Ichiro S.
+  - family: Kadoya
+    given: Taku
+  - family: Esch
+    given: Ellen
+  - family: Cazelles
     given: Kevin
-  - family: Rasmussen
-    given: Joe
-  - family: Umbanhowar
-    given: James
-  - family: Humphries
-    given: Murray
-  issued:
-  - year: 2005
-  title: The role of space, time, and variability in food web dynamics
-  container: Dynamic food webs
-  publisher: Elsevier
-  page: '56-70'
-  URL: https://doi.org/10.1016%2Fb978-012088458-2%2F50008-4
-  DOI: 10.1016/b978-012088458-2/50008-4
-
-
-- id: ID84882893221
-  type: chapter
-  author:
-  - family: Sabo
-    given: John L.
-  - family: Beisner
-    given: Beatrix E.
-  - family: Berlow
-    given: Eric L.
-  - family: Cuddington
-    given: Kim
-  - family: Hastings
-    given: Alan
-  - family: Koen-Alonso
-    given: Mariano
-  - family: Kokkoris
-    given: Giorgos D.
-  - family: McCann
-    given: Kevin
-  - family: Melian
-    given: Carlos
-  - family: Moore
-    given: John C.
-  issued:
-  - year: 2005
-  title: Population dynamics and food web structure-predicting measurable food web
-    properties with minimal detail and resolution
-  container: Dynamic food webs
-  publisher: Elsevier
-  page: '437-450'
-  URL: https://doi.org/10.1016%2Fb978-012088458-2%2F50041-2
-  DOI: 10.1016/b978-012088458-2/50041-2
-
-
-- id: ID84887196557
-  type: article-journal
-  author:
-  - family: Ruokolainen
-    given: Lasse
-  - family: McCann
-    given: Kevin
-  issued:
-  - year: 2013
-    month: 12
-  title: Environmental weakening of trophic interactions drives stability in stochastic
-    food webs
-  container: Journal of Theoretical Biology
-  publisher: Elsevier BV
-  page: '36-46'
-  volume: '339'
-  URL: https://doi.org/10.1016%2Fj.jtbi.2013.08.021
-  DOI: 10.1016/j.jtbi.2013.08.021
-
-
-- id: ID84890760024
-  type: article-journal
-  author:
-  - family: Humphries
-    given: Murray M.
+  - family: Lester
+    given: Nigel
   - family: McCann
     given: Kevin S.
-  editor:
-  - family: Coulson
-    given: Tim
   issued:
-  - year: 2013
-    month: 9
-  title: Metabolic ecology
-  container: Journal of Animal Ecology
-  publisher: Wiley
-  page: '7-19'
-  volume: '83'
+  - year: 2018
+    month: 3
+  title: Context-dependent interactions and the regulation of species richness in
+    freshwater fish
+  container-title: Nature Communications
+  publisher: Springer Science; Business Media LLC
+  volume: '9'
   issue: '1'
-  URL: https://doi.org/10.1111%2F1365-2656.12124
-  DOI: 10.1111/1365-2656.12124
+  URL: https://doi.org/10.1038%2Fs41467-018-03419-1
+  DOI: 10.1038/s41467-018-03419-1
 
-
-- id: ID84890857644
+- id: ID85040168601
   type: article-journal
   author:
-  - family: Tomimatsu
-    given: Hiroshi
-  - family: Sasaki
-    given: Takehiro
-  - family: Kurokawa
-    given: Hiroko
-  - family: Bridle
-    given: Jon R.
-  - family: Fontaine
-    given: Colin
-  - family: Kitano
-    given: Jun
-  - family: Stouffer
-    given: Daniel B.
-  - family: Vellend
-    given: Mark
-  - family: Bezemer
-    given: T. Martijn
-  - family: Fukami
-    given: Tadashi
-  - family: Hadly
-    given: Elizabeth A.
-  - family: Heijden
-    given: Marcel G. A.
-    dropping-particle: van der
-  - family: Kawata
-    given: Masakado
-  - family: Kéfi
-    given: Sonia
-  - family: Kraft
-    given: Nathan J. B.
-  - family: McCann
-    given: Kevin S.
+  - family: McCauley
+    given: Douglas J.
+  - family: Gellner
+    given: Gabriel
+  - family: Martinez
+    given: Neo D.
+  - family: Williams
+    given: Richard J.
+  - family: Sandin
+    given: Stuart A.
+  - family: Micheli
+    given: Fiorenza
   - family: Mumby
     given: Peter J.
-  - family: Nakashizuka
-    given: Tohru
-  - family: Petchey
-    given: Owen L.
-  - family: Romanuk
-    given: Tamara N.
-  - family: Suding
-    given: Katharine N.
-  - family: Takimoto
-    given: Gaku
-  - family: Urabe
-    given: Jotaro
-  - family: Yachi
-    given: Shigeo
-  editor:
-  - family: Steffan-Dewenter
-    given: Ingolf
-  issued:
-  - year: 2013
-    month: 6
-  title: 'FORUM: Sustaining ecosystem functions in a changing world: A call for
-    an integrated approach'
-  title-short: FORUM
-  container: Journal of Applied Ecology
-  publisher: Wiley
-  page: n/a-n/a
-  volume: '50'
-  issue: '5'
-  URL: https://doi.org/10.1111%2F1365-2664.12116
-  DOI: 10.1111/1365-2664.12116
-
-
-- id: ID84893135631
-  type: article-journal
-  author:
-  - family: Vasseur
-    given: D. A.
-  - family: DeLong
-    given: J. P.
-  - family: Gilbert
-    given: B.
-  - family: Greig
-    given: H. S.
-  - family: Harley
-    given: C. D. G.
-  - family: McCann
-    given: K. S.
-  - family: Savage
-    given: V.
-  - family: Tunney
-    given: T. D.
-  - family: O\textquotesingleConnor
-    given: M. I.
-  issued:
-  - year: 2014
-    month: 1
-  title: Increased temperature variation poses a greater risk to species than climate
-    warming
-  container: 'Proceedings of the Royal Society B: Biological Sciences'
-  publisher: The Royal Society
-  page: '20132612-20132612'
-  volume: '281'
-  issue: '1779'
-  URL: https://doi.org/10.1098%2Frspb.2013.2612
-  DOI: 10.1098/rspb.2013.2612
-
-
-- id: ID84897963186
-  type: article-journal
-  author:
-  - family: Murall
-    given: Carmen Lía
   - family: McCann
     given: Kevin S.
-  - family: Bauch
-    given: Chris T.
+  editor:
+  - family: Brose
+    given: Ulrich
   issued:
-  - year: 2014
-    month: 6
-  title: Revising ecological assumptions about human papillomavirus interactions and
-    type replacement
-  container: Journal of Theoretical Biology
-  publisher: Elsevier BV
-  page: '98-109'
-  volume: '350'
-  URL: https://doi.org/10.1016%2Fj.jtbi.2013.12.028
-  DOI: 10.1016/j.jtbi.2013.12.028
+  - year: 2018
+    month: 1
+  title: On the prevalence and dynamics of inverted trophic pyramids and otherwise
+    top-heavy communities
+  container-title: Ecology Letters
+  publisher: Wiley
+  page: 439-454
+  volume: '21'
+  issue: '3'
+  URL: https://doi.org/10.1111%2Fele.12900
+  DOI: 10.1111/ele.12900
 
-
-
-- id: ID84900180091
-  type: chapter
-  author:
-  - family: Yodzis
-    given: Peter
-  - family: McCann
-    given: Kevin
-  issued:
-  - year: 2007
-  title: Dynamic signatures of real and model ecosystems
-  container: 'From energetics to ecosystems: The dynamics and structure of
-    ecological systems'
-  publisher: Springer Netherlands
-  page: '185-190'
-  URL: https://doi.org/10.1007%2F978-1-4020-5337-5_9
-  DOI: 10.1007/978-1-4020-5337-5_9
-
-
-- id: ID84901844205
+- id: ID85032910507
   type: article-journal
   author:
+  - family: Houk
+    given: P.
+  - family: Cuetos-Bueno
+    given: J.
+  - family: Kerr
+    given: A. M.
+  - family: McCann
+    given: K.
+  issued:
+  - year: 2017
+    month: 11
+  title: Linking fishing pressure with ecosystem thresholds and food web stability
+    on coral reefs
+  container-title: Ecological Monographs
+  publisher: Wiley
+  page: 109-119
+  volume: '88'
+  issue: '1'
+  URL: https://doi.org/10.1002%2Fecm.1278
+  DOI: 10.1002/ecm.1278
+
+- id: ID85054100840
+  type: article-journal
+  author:
+  - family: Ward
+    given: Colette L.
+  - family: McCann
+    given: Kevin S.
+  issued:
+  - year: 2017
+    month: 12
+  title: A mechanistic theory for aquatic food chain length
+  container-title: Nature Communications
+  publisher: Springer Science; Business Media LLC
+  volume: '8'
+  issue: '1'
+  URL: https://doi.org/10.1038%2Fs41467-017-02157-0
+  DOI: 10.1038/s41467-017-02157-0
+
+- id: ID85048698134
+  type: book
+  editor:
+  - family: Moore
+    given: John C.
+  - family: Ruiter
+    given: Peter C.
+    dropping-particle: de
+  - family: McCann
+    given: Kevin S.
+  - family: Wolters
+    given: Volkmar
+  issued:
+  - year: 2017
+    month: 12
+  title: 'Adaptive food webs: Stability and transitions of real and model ecosystems'
+  title-short: Adaptive food webs
+  container-title: 'Adaptive Food Webs: Stability and Transitions of Real and Model
+    Ecosystems'
+  publisher: Cambridge University Press
+  page: 1-416
+  URL: https://doi.org/10.1017%2F9781316871867
+  DOI: 10.1017/9781316871867
+
+- id: ID85048656468
+  type: chapter
+  author:
+  - family: Moore
+    given: John C.
+  - family: Ruiter
+    given: Peter C.
+    dropping-particle: de
+  - family: McCann
+    given: Kevin S.
+  - family: Wolters
+    given: Volkmar
+  issued:
+  - year: 2017
+  title: Introduction
+  container-title: Adaptive food webs
+  publisher: Cambridge University Press
+  page: 1-6
+  URL: https://doi.org/10.1017%2F9781316871867.002
+  DOI: 10.1017/9781316871867.002
+
+- id: ID85034038933
+  type: article-journal
+  author:
+  - family: KC
+    given: K. B.
+  - family: Bond
+    given: N.
+  - family: Fraser
+    given: E. D. G.
+  - family: Elliott
+    given: V.
+  - family: Farrell
+    given: T.
+  - family: McCann
+    given: K.
+  - family: Rooney
+    given: N.
+  - family: Bieg
+    given: C.
+  issued:
+  - year: 2017
+    month: 11
+  title: 'Exploring tropical fisheries through fishers’ perceptions: Fishing down
+    the food web in the tonlé sap, cambodia'
+  title-short: Exploring tropical fisheries through fishers’ perceptions
+  container-title: Fisheries Management and Ecology
+  publisher: Wiley
+  page: 452-459
+  volume: '24'
+  issue: '6'
+  URL: https://doi.org/10.1111%2Ffme.12246
+  DOI: 10.1111/fme.12246
+
+- id: ID85033661203
+  type: article-journal
+  author:
+  - family: Fryxell
+    given: John M.
+  - family: Hilborn
+    given: Ray
+  - family: Bieg
+    given: Carling
+  - family: Turgeon
+    given: Katrine
+  - family: Caskenette
+    given: Amanda
+  - family: McCann
+    given: Kevin S.
+  issued:
+  - year: 2017
+    month: 10
+  title: Supply and demand drive a critical transition to dysfunctional fisheries
+  container-title: Proceedings of the National Academy of Sciences
+  publisher: Proceedings of the National Academy of Sciences
+  page: 12333-12337
+  volume: '114'
+  issue: '46'
+  URL: https://doi.org/10.1073%2Fpnas.1705525114
+  DOI: 10.1073/pnas.1705525114
+
+- id: ID85026901795
+  type: article-journal
+  author:
+  - family: Pool
+    given: Thomas
+  - family: Holtgrieve
+    given: Gordon
+  - family: Elliott
+    given: Vittoria
+  - family: McCann
+    given: Kevin
+  - family: McMeans
+    given: Bailey
+  - family: Rooney
+    given: Neil
+  - family: Smits
+    given: Adrianne
+  - family: Phanara
+    given: Thach
+  - family: Cooperman
+    given: Michael
+  - family: Clark
+    given: Sydney
+  - family: Phen
+    given: Chheng
+  - family: Chhuoy
+    given: Samol
+  issued:
+  - year: 2017
+    month: 7
+  title: Seasonal increases in fish trophic niche plasticity within a flood-pulse
+    river ecosystem (tonle sap lake, cambodia)
+  container-title: Ecosphere
+  publisher: Wiley
+  page: e01881
+  volume: '8'
+  issue: '7'
+  URL: https://doi.org/10.1002%2Fecs2.1881
+  DOI: 10.1002/ecs2.1881
+
+- id: ID85017251492
+  type: article-journal
+  author:
+  - family: Betini
+    given: Gustavo S.
+  - family: Avgar
+    given: Tal
+  - family: McCann
+    given: Kevin S.
+  - family: Fryxell
+    given: John M.
+  issued:
+  - year: 2017
+    month: 4
+  title: Daphnia inhibits the emergence of spatial pattern in a simple consumer–resource
+    system
+  container-title: Ecology
+  publisher: Wiley
+  page: 1163-1170
+  volume: '98'
+  issue: '4'
+  URL: https://doi.org/10.1002%2Fecy.1752
+  DOI: 10.1002/ecy.1752
+
+- id: ID85015734020
+  type: article-journal
+  author:
+  - family: Bieg
+    given: Carling
+  - family: McCann
+    given: Kevin S.
+  - family: Fryxell
+    given: John M.
+  issued:
+  - year: 2017
+    month: 3
+  title: The dynamical implications of human behaviour on a social-ecological harvesting
+    model
+  container-title: Theoretical Ecology
+  publisher: Springer Science; Business Media LLC
+  page: 341-354
+  volume: '10'
+  issue: '3'
+  URL: https://doi.org/10.1007%2Fs12080-017-0334-3
+  DOI: 10.1007/s12080-017-0334-3
+
+- id: ID85010460513
+  type: article-journal
+  author:
+  - family: Caskenette
+    given: Amanda L.
+  - family: McCann
+    given: Kevin S.
+  editor:
+  - family: Belgrano
+    given: Andrea
+  issued:
+  - year: 2017
+    month: 1
+  title: Biomass reallocation between juveniles and adults mediates food web stability
+    by distributing energy away from strong interactions
+  container-title: PLOS ONE
+  publisher: Public Library of Science (PLoS)
+  page: e0170725
+  volume: '12'
+  issue: '1'
+  URL: https://doi.org/10.1371%2Fjournal.pone.0170725
+  DOI: 10.1371/journal.pone.0170725
+
+- id: ID85010366687
+  type: chapter
+  author:
+  - family: Murall
+    given: C. L.
+  - family: Abbate
+    given: J. L.
+  - family: Touzel
+    given: M. Puelma
+  - family: Allen-Vercoe
+    given: E.
+  - family: Alizon
+    given: S.
+  - family: Froissart
+    given: R.
+  - family: McCann
+    given: K.
+  issued:
+  - year: 2017
+  title: Invasions of host-associated microbiome networks
+  container-title: 'Networks of invasion: Empirical evidence and case studies'
+  publisher: Elsevier
+  page: 201-281
+  volume: '57'
+  URL: https://doi.org/10.1016%2Fbs.aecr.2016.11.002
+  DOI: 10.1016/bs.aecr.2016.11.002
+
+- id: ID84992358950
+  type: article-journal
+  author:
+  - family: Turetsky
+    given: Merritt R.
+  - family: Baltzer
+    given: Jennifer L.
+  - family: Johnstone
+    given: Jill F.
+  - family: Mack
+    given: Michelle C.
+  - family: McCann
+    given: Kevin
+  - family: Schuur
+    given: Edward A. G.
+  issued:
+  - year: 2016
+    month: 10
+  title: 'Losing legacies, ecological release, and transient responses: Key challenges
+    for the future of northern ecosystem science'
+  title-short: Losing legacies, ecological release, and transient responses
+  container-title: Ecosystems
+  publisher: Springer Science; Business Media LLC
+  page: 23-30
+  volume: '20'
+  issue: '1'
+  URL: https://doi.org/10.1007%2Fs10021-016-0055-2
+  DOI: 10.1007/s10021-016-0055-2
+
+- id: ID84940926893
+  type: article-journal
+  author:
+  - family: Milne
+    given: Jacquiline E
+  - family: Marvin
+    given: Christopher H
+  - family: Yerubandi
+    given: Ram
+  - family: McCann
+    given: Kevin
+  - family: Moccia
+    given: Richard D
+  issued:
+  - year: 2015
+    month: 9
+  title: Monitoring and modelling total phosphorus contributions to a freshwater lake
+    with cage-aquaculture
+  container-title: Aquaculture Research
+  publisher: Wiley
+  page: 283-297
+  volume: '48'
+  issue: '1'
+  URL: https://doi.org/10.1111%2Fare.12881
+  DOI: 10.1111/are.12881
+
+- id: ID84986309383
+  type: article-journal
+  author:
+  - family: Jarvis
+    given: Lauren
+  - family: McCann
+    given: Kevin
   - family: Tunney
-    given: T. D.
+    given: Tyler
+  - family: Gellner
+    given: Gabriel
+  - family: Fryxell
+    given: John M.
+  issued:
+  - year: 2016
+    month: 7
+  title: Early warning signals detect critical impacts of experimental warming
+  container-title: Ecology and Evolution
+  publisher: Wiley
+  page: 6097-6106
+  volume: '6'
+  issue: '17'
+  URL: https://doi.org/10.1002%2Fece3.2339
+  DOI: 10.1002/ece3.2339
+
+- id: ID84985982471
+  type: article-journal
+  author:
+  - family: Laberge
+    given: Frédéric
+  - family: Edmunds
+    given: Nicholas
+  - family: Yin-Liao
+    given: Irene
+  - family: McCann
+    given: Kevin S.
+  issued:
+  - year: 2016
+    month: 9
+  title: Relationship between ontogenetic changes in foraging ecology and muscle lactate
+    dehydrogenase activity in wild smallmouth bass (micropterus dolomieu)
+  container-title: Canadian Journal of Fisheries and Aquatic Sciences
+  publisher: Canadian Science Publishing
+  page: 1389-1394
+  volume: '73'
+  issue: '9'
+  URL: https://doi.org/10.1139%2Fcjfas-2015-0537
+  DOI: 10.1139/cjfas-2015-0537
+
+- id: ID84978159537
+  type: article-journal
+  author:
+  - family: Edmunds
+    given: Nicholas B.
+  - family: Laberge
+    given: Frédéric
+  - family: McCann
+    given: Kevin S.
+  editor:
+  - family: Brose
+    given: Ulrich
+  issued:
+  - year: 2016
+    month: 6
+  title: A role for brain size and cognition in food webs
+  container-title: Ecology Letters
+  publisher: Wiley
+  page: 948-955
+  volume: '19'
+  issue: '8'
+  URL: https://doi.org/10.1111%2Fele.12633
+  DOI: 10.1111/ele.12633
+
+- id: ID84975493834
+  type: article-journal
+  author:
+  - family: Edmunds
+    given: Nicholas B.
+  - family: McCann
+    given: Kevin S.
+  - family: Laberge
+    given: Frédéric
+  issued:
+  - year: 2016
+  title: Food web structure shapes the morphology of teleost fish brains
+  container-title: Brain, Behavior and Evolution
+  publisher: S. Karger AG
+  page: 128-138
+  volume: '87'
+  issue: '2'
+  URL: https://doi.org/10.1159%2F000445973
+  DOI: 10.1159/000445973
+
+- id: ID84970963180
+  type: article-journal
+  author:
+  - family: Gellner
+    given: Gabriel
+  - family: McCann
+    given: Kevin S.
+  - family: Hastings
+    given: Alan
+  issued:
+  - year: 2016
+    month: 5
+  title: 'The duality of stability: Towards a stochastic theory of species interactions'
+  title-short: The duality of stability
+  container-title: Theoretical Ecology
+  publisher: Springer Science; Business Media LLC
+  page: 477-485
+  volume: '9'
+  issue: '4'
+  URL: https://doi.org/10.1007%2Fs12080-016-0303-2
+  DOI: 10.1007/s12080-016-0303-2
+
+- id: ID84964370935
+  type: article-journal
+  author:
+  - family: Gellner
+    given: Gabriel
+  - family: McCann
+    given: Kevin S.
+  issued:
+  - year: 2016
+    month: 4
+  title: Consistent role of weak and strong interactions in high- and low-diversity
+    trophic food webs
+  container-title: Nature Communications
+  publisher: Springer Science; Business Media LLC
+  volume: '7'
+  issue: '1'
+  URL: https://doi.org/10.1038%2Fncomms11180
+  DOI: 10.1038/ncomms11180
+
+- id: ID84962385301
+  type: article-journal
+  author:
+  - family: McMeans
+    given: Bailey C.
+  - family: McCann
+    given: Kevin S.
+  - family: Humphries
+    given: Murray
+  - family: Rooney
+    given: Neil
+  - family: Fisk
+    given: Aaron T.
+  issued:
+  - year: 2016
+    month: 5
+  title: 'Correction to ’food web structure in temporally-forced ecosystems’ \[trends
+    in evolution &amp; ecology 30 (2015) 662-672\]DOI: 10.1016/j.tree.2015.09.001'
+  title-short: Correction to ’food web structure in temporally-forced ecosystems’
+    \[trends in evolution &amp; ecology 30 (2015) 662-672\]DOI
+  container-title: Trends in Ecology & Evolution
+  publisher: Elsevier BV
+  page: '408'
+  volume: '31'
+  issue: '5'
+  URL: https://doi.org/10.1016%2Fj.tree.2016.03.016
+  DOI: 10.1016/j.tree.2016.03.016
+
+- id: ID84962069636
+  type: article-journal
+  author:
+  - family: McCann
+    given: Kevin S.
+  - family: Gellner
+    given: Gabriel
+  - family: McMeans
+    given: Bailey C.
+  - family: Deenik
+    given: Tina
+  - family: Holtgrieve
+    given: Gordon
+  - family: Rooney
+    given: Neil
+  - family: Hannah
+    given: Lee
+  - family: Cooperman
+    given: Michael
+  - family: Nam
+    given: So
+  editor:
+  - family: Giacomini
+    given: Henrique
+  issued:
+  - year: 2016
+    month: 4
+  title: Food webs and the sustainability of indiscriminate fisheries
+  container-title: Canadian Journal of Fisheries and Aquatic Sciences
+  publisher: Canadian Science Publishing
+  page: 656-665
+  volume: '73'
+  issue: '4'
+  URL: https://doi.org/10.1139%2Fcjfas-2015-0044
+  DOI: 10.1139/cjfas-2015-0044
+
+- id: ID84960945010
+  type: article-journal
+  author:
+  - family: McMeans
+    given: Bailey C.
+  - family: McCann
+    given: Kevin S.
+  - family: Tunney
+    given: Tyler D.
+  - family: Fisk
+    given: Aaron T.
+  - family: Muir
+    given: Andrew M.
+  - family: Lester
+    given: Nigel
+  - family: Shuter
+    given: Brian
+  - family: Rooney
+    given: Neil
+  issued:
+  - year: 2016
+    month: 2
+  title: 'The adaptive capacity of lake food webs: From individuals to ecosystems'
+  title-short: The adaptive capacity of lake food webs
+  container-title: Ecological Monographs
+  publisher: Wiley
+  page: 4-19
+  volume: '86'
+  issue: '1'
+  URL: https://doi.org/10.1890%2F15-0288.1
+  DOI: 10.1890/15-0288.1
+
+- id: ID84958279566
+  type: article-journal
+  author:
+  - family: Tewfik
+    given: Alexander
+  - family: Bell
+    given: Susan S.
+  - family: McCann
+    given: Kevin S.
+  - family: Morrow
+    given: Kristina
+  editor:
+  - family: Armitage
+    given: Anna R.
+  issued:
+  - year: 2016
+    month: 1
+  title: Predator diet and trophic position modified with altered habitat morphology
+  container-title: PLOS ONE
+  publisher: Public Library of Science (PLoS)
+  page: e0147759
+  volume: '11'
+  issue: '1'
+  URL: https://doi.org/10.1371%2Fjournal.pone.0147759
+  DOI: 10.1371/journal.pone.0147759
+
+- id: ID84954481847
+  type: article-journal
+  author:
+  - family: Hastings
+    given: Alan
+  - family: McCann
+    given: Kevin S.
+  - family: Ruiter
+    given: Peter C.
+    dropping-particle: de
+  issued:
+  - year: 2016
+    month: 1
+  title: 'Introduction to the special issue: Theory of food webs'
+  title-short: Introduction to the special issue
+  container-title: Theoretical Ecology
+  publisher: Springer Science; Business Media LLC
+  page: 1-2
+  volume: '9'
+  issue: '1'
+  URL: https://doi.org/10.1007%2Fs12080-016-0292-1
+  DOI: 10.1007/s12080-016-0292-1
+
+- id: ID84947940391
+  type: article-journal
+  author:
+  - family: Nilsson
+    given: Karin A.
+  - family: McCann
+    given: Kevin S.
+  issued:
+  - year: 2015
+    month: 11
+  title: Interaction strength revisited—clarifying the role of energy flux for food
+    web stability
+  container-title: Theoretical Ecology
+  publisher: Springer Science; Business Media LLC
+  page: 59-71
+  volume: '9'
+  issue: '1'
+  URL: https://doi.org/10.1007%2Fs12080-015-0282-8
+  DOI: 10.1007/s12080-015-0282-8
+
+- id: ID84937792250
+  type: article-journal
+  author:
+  - family: Fründ
+    given: Jochen
+  - family: McCann
+    given: Kevin S.
+  - family: Williams
+    given: Neal M.
+  issued:
+  - year: 2015
+    month: 7
+  title: 'Sampling bias is a challenge for quantifying specialization and network
+    structure: Lessons from a quantitative niche model'
+  title-short: Sampling bias is a challenge for quantifying specialization and network
+    structure
+  container-title: Oikos
+  publisher: Wiley
+  page: 502-513
+  volume: '125'
+  issue: '4'
+  URL: https://doi.org/10.1111%2Foik.02256
+  DOI: 10.1111/oik.02256
+
+- id: ID84945893445
+  type: article-journal
+  author:
+  - family: McMeans
+    given: Bailey C.
+  - family: McCann
+    given: Kevin S.
+  - family: Humphries
+    given: Murray
+  - family: Rooney
+    given: Neil
+  - family: Fisk
+    given: Aaron T.
+  issued:
+  - year: 2015
+    month: 11
+  title: Food web structure in temporally-forced ecosystems
+  container-title: Trends in Ecology & Evolution
+  publisher: Elsevier BV
+  page: 662-672
+  volume: '30'
+  issue: '11'
+  URL: https://doi.org/10.1016%2Fj.tree.2015.09.001
+  DOI: 10.1016/j.tree.2015.09.001
+
+- id: ID84943660939
+  type: article-journal
+  author:
+  - family: Ward
+    given: Colette L.
+  - family: McCann
+    given: Kevin S.
+  - family: Rooney
+    given: Neil
+  editor:
+  - family: Chase
+    given: Jonathan
+  issued:
+  - year: 2015
+    month: 8
+  title: 'HSS revisited: Multi-channel processes mediate trophic control across a
+    productivity gradient'
+  title-short: HSS revisited
+  container-title: Ecology Letters
+  publisher: Wiley
+  page: 1190-1197
+  volume: '18'
+  issue: '11'
+  URL: https://doi.org/10.1111%2Fele.12498
+  DOI: 10.1111/ele.12498
+
+- id: ID84941343227
+  type: article-journal
+  author:
+  - family: Hatton
+    given: I. A.
   - family: McCann
     given: K. S.
-  - family: Lester
-    given: N. P.
-  - family: Shuter
-    given: B. J.
+  - family: Fryxell
+    given: J. M.
+  - family: Davies
+    given: T. J.
+  - family: Smerlak
+    given: M.
+  - family: Sinclair
+    given: A. R. E.
+  - family: Loreau
+    given: M.
   issued:
-  - year: 2014
-    month: 5
-  title: Effects of differential habitat warming on complex communities
-  container: Proceedings of the National Academy of Sciences
-  publisher: Proceedings of the National Academy of Sciences
-  page: '8077-8082'
-  volume: '111'
-  issue: '22'
-  URL: https://doi.org/10.1073%2Fpnas.1319618111
-  DOI: 10.1073/pnas.1319618111
+  - year: 2015
+    month: 9
+  title: 'The predator-prey power law: Biomass scaling across terrestrial and aquatic
+    biomes'
+  title-short: The predator-prey power law
+  container-title: Science
+  publisher: American Association for the Advancement of Science (AAAS)
+  page: aac6284-aac6284
+  volume: '349'
+  issue: '6252'
+  URL: https://doi.org/10.1126%2Fscience.aac6284
+  DOI: 10.1126/science.aac6284
 
+- id: ID84938281708
+  type: article-journal
+  author:
+  - family: Kadoya
+    given: Taku
+  - family: McCann
+    given: Kevin S.
+  issued:
+  - year: 2015
+    month: 7
+  title: Weak interactions and instability cascades
+  container-title: Scientific Reports
+  publisher: Springer Science; Business Media LLC
+  volume: '5'
+  issue: '1'
+  URL: https://doi.org/10.1038%2Fsrep12652
+  DOI: 10.1038/srep12652
+
+- id: ID84922757593
+  type: article-journal
+  author:
+  - family: DeLong
+    given: John P.
+  - family: Gilbert
+    given: Benjamin
+  - family: Shurin
+    given: Jonathan B.
+  - family: Savage
+    given: Van M.
+  - family: Barton
+    given: Brandon T.
+  - family: Clements
+    given: Christopher F.
+  - family: Dell
+    given: Anthony I.
+  - family: Greig
+    given: Hamish S.
+  - family: Harley
+    given: Christopher D. G.
+  - family: Kratina
+    given: Pavel
+  - family: McCann
+    given: Kevin S.
+  - family: Tunney
+    given: Tyler D.
+  - family: Vasseur
+    given: David A.
+  - family: O’Connor
+    given: Mary I.
+  issued:
+  - year: 2015
+    month: 3
+  title: The body size dependence of trophic cascades
+  container-title: The American Naturalist
+  publisher: University of Chicago Press
+  page: 354-366
+  volume: '185'
+  issue: '3'
+  URL: https://doi.org/10.1086%2F679735
+  DOI: 10.1086/679735
 
 - id: ID84903758612
   type: article-journal
@@ -1677,1151 +1612,1583 @@
   - year: 2014
     month: 6
   title: A bioenergetic framework for the temperature dependence of trophic interactions
-  container: Ecology Letters
+  container-title: Ecology Letters
   publisher: Wiley
-  page: '902-914'
+  page: 902-914
   volume: '17'
   issue: '8'
   URL: https://doi.org/10.1111%2Fele.12307
   DOI: 10.1111/ele.12307
 
-
-- id: ID84922757593
+- id: ID84901844205
   type: article-journal
   author:
+  - family: Tunney
+    given: T. D.
+  - family: McCann
+    given: K. S.
+  - family: Lester
+    given: N. P.
+  - family: Shuter
+    given: B. J.
+  issued:
+  - year: 2014
+    month: 5
+  title: Effects of differential habitat warming on complex communities
+  container-title: Proceedings of the National Academy of Sciences
+  publisher: Proceedings of the National Academy of Sciences
+  page: 8077-8082
+  volume: '111'
+  issue: '22'
+  URL: https://doi.org/10.1073%2Fpnas.1319618111
+  DOI: 10.1073/pnas.1319618111
+
+- id: ID84897963186
+  type: article-journal
+  author:
+  - family: Murall
+    given: Carmen Lı́a
+  - family: McCann
+    given: Kevin S.
+  - family: Bauch
+    given: Chris T.
+  issued:
+  - year: 2014
+    month: 6
+  title: Revising ecological assumptions about human papillomavirus interactions and
+    type replacement
+  container-title: Journal of Theoretical Biology
+  publisher: Elsevier BV
+  page: 98-109
+  volume: '350'
+  URL: https://doi.org/10.1016%2Fj.jtbi.2013.12.028
+  DOI: 10.1016/j.jtbi.2013.12.028
+
+- id: ID84893135631
+  type: article-journal
+  author:
+  - family: Vasseur
+    given: David A.
   - family: DeLong
     given: John P.
   - family: Gilbert
     given: Benjamin
-  - family: Shurin
-    given: Jonathan B.
-  - family: Savage
-    given: Van M.
-  - family: Barton
-    given: Brandon T.
-  - family: Clements
-    given: Christopher F.
-  - family: Dell
-    given: Anthony I.
   - family: Greig
     given: Hamish S.
   - family: Harley
     given: Christopher D. G.
-  - family: Kratina
-    given: Pavel
   - family: McCann
     given: Kevin S.
+  - family: Savage
+    given: Van
   - family: Tunney
     given: Tyler D.
-  - family: Vasseur
-    given: David A.
-  - family: O’Connor
+  - family: O\textquotesingleConnor
     given: Mary I.
   issued:
-  - year: 2015
+  - year: 2014
     month: 3
-  title: The body size dependence of trophic cascades
-  container: The American Naturalist
-  publisher: University of Chicago Press
-  page: '354-366'
-  volume: '185'
-  issue: '3'
-  URL: https://doi.org/10.1086%2F679735
-  DOI: 10.1086/679735
+  title: Increased temperature variation poses a greater risk to species than climate
+    warming
+  container-title: 'Proceedings of the Royal Society B: Biological Sciences'
+  publisher: The Royal Society
+  page: '20132612'
+  volume: '281'
+  issue: '1779'
+  URL: https://doi.org/10.1098%2Frspb.2013.2612
+  DOI: 10.1098/rspb.2013.2612
 
-
-- id: ID84937792250
+- id: ID84890760024
   type: article-journal
   author:
-  - family: Fründ
-    given: Jochen
+  - family: Humphries
+    given: Murray M.
   - family: McCann
     given: Kevin S.
-  - family: Williams
-    given: Neal M.
+  editor:
+  - family: Coulson
+    given: Tim
   issued:
-  - year: 2015
-    month: 7
-  title: 'Sampling bias is a challenge for quantifying specialization and network
-    structure: Lessons from a quantitative niche model'
-  title-short: Sampling bias is a challenge for quantifying specialization and network
-    structure
-  container: Oikos
+  - year: 2013
+    month: 9
+  title: Metabolic ecology
+  container-title: Journal of Animal Ecology
   publisher: Wiley
-  page: '502-513'
-  volume: '125'
-  issue: '4'
-  URL: https://doi.org/10.1111%2Foik.02256
-  DOI: 10.1111/oik.02256
+  page: 7-19
+  volume: '83'
+  issue: '1'
+  URL: https://doi.org/10.1111%2F1365-2656.12124
+  DOI: 10.1111/1365-2656.12124
 
-
-- id: ID84938281708
+- id: ID84890857644
   type: article-journal
   author:
-  - family: Kadoya
-    given: Taku
+  - family: Tomimatsu
+    given: Hiroshi
+  - family: Sasaki
+    given: Takehiro
+  - family: Kurokawa
+    given: Hiroko
+  - family: Bridle
+    given: Jon R.
+  - family: Fontaine
+    given: Colin
+  - family: Kitano
+    given: Jun
+  - family: Stouffer
+    given: Daniel B.
+  - family: Vellend
+    given: Mark
+  - family: Bezemer
+    given: T. Martijn
+  - family: Fukami
+    given: Tadashi
+  - family: Hadly
+    given: Elizabeth A.
+  - family: Heijden
+    given: Marcel G. A.
+  - family: Kawata
+    given: Masakado
+  - family: Kéfi
+    given: Sonia
+  - family: Kraft
+    given: Nathan J. B.
   - family: McCann
     given: Kevin S.
+  - family: Mumby
+    given: Peter J.
+  - family: Nakashizuka
+    given: Tohru
+  - family: Petchey
+    given: Owen L.
+  - family: Romanuk
+    given: Tamara N.
+  - family: Suding
+    given: Katharine N.
+  - family: Takimoto
+    given: Gaku
+  - family: Urabe
+    given: Jotaro
+  - family: Yachi
+    given: Shigeo
+  editor:
+  - family: Steffan-Dewenter
+    given: Ingolf
   issued:
-  - year: 2015
-    month: 7
-  title: Weak interactions and instability cascades
-  container: Scientific Reports
-  publisher: Springer Nature
-  volume: '5'
-  issue: '1'
-  URL: https://doi.org/10.1038%2Fsrep12652
-  DOI: 10.1038/srep12652
+  - year: 2013
+    month: 6
+  title: 'FORUM: Sustaining ecosystem functions in a changing world: A call for an
+    integrated approach'
+  title-short: FORUM
+  container-title: Journal of Applied Ecology
+  publisher: Wiley
+  page: 1124-1130
+  volume: '50'
+  issue: '5'
+  URL: https://doi.org/10.1111%2F1365-2664.12116
+  DOI: 10.1111/1365-2664.12116
 
-
-- id: ID84940926893
+- id: ID84887196557
   type: article-journal
   author:
-  - family: Milne
-    given: Jacquiline E
-  - family: Marvin
-    given: Christopher H
-  - family: Yerubandi
-    given: Ram
+  - family: Ruokolainen
+    given: Lasse
   - family: McCann
     given: Kevin
-  - family: Moccia
-    given: Richard D
   issued:
-  - year: 2015
-    month: 9
-  title: Monitoring and modelling total phosphorus contributions to a freshwater lake
-    with cage-aquaculture
-  container: Aquaculture Research
-  publisher: Wiley
-  page: '283-297'
-  volume: '48'
+  - year: 2013
+    month: 12
+  title: Environmental weakening of trophic interactions drives stability in stochastic
+    food webs
+  container-title: Journal of Theoretical Biology
+  publisher: Elsevier BV
+  page: 36-46
+  volume: '339'
+  URL: https://doi.org/10.1016%2Fj.jtbi.2013.08.021
+  DOI: 10.1016/j.jtbi.2013.08.021
+
+- id: ID84874713029
+  type: article-journal
+  author:
+  - family: MacDougall
+    given: A. S.
+  - family: McCann
+    given: K. S.
+  - family: Gellner
+    given: G.
+  - family: Turkington
+    given: R.
+  issued:
+  - year: 2013
+    month: 2
+  title: Diversity loss with persistent human disturbance increases vulnerability
+    to ecosystem collapse
+  container-title: Nature
+  publisher: Springer Science; Business Media LLC
+  page: 86-89
+  volume: '494'
+  issue: '7435'
+  URL: https://doi.org/10.1038%2Fnature11869
+  DOI: 10.1038/nature11869
+
+- id: ID84869458508
+  type: article-journal
+  author:
+  - family: Tunney
+    given: Tyler D.
+  - family: McCann
+    given: Kevin S.
+  - family: Lester
+    given: Nigel P.
+  - family: Shuter
+    given: Brian J.
+  issued:
+  - year: 2012
+    month: 1
+  title: Food web expansion and contraction in response to changing environmental
+    conditions
+  container-title: Nature Communications
+  publisher: Springer Science; Business Media LLC
+  volume: '3'
   issue: '1'
-  URL: https://doi.org/10.1111%2Fare.12881
-  DOI: 10.1111/are.12881
+  URL: https://doi.org/10.1038%2Fncomms2098
+  DOI: 10.1038/ncomms2098
 
+- id: ID84869105137
+  type: article-journal
+  author:
+  - family: Murall
+    given: Carmen Lı́a
+  - family: McCann
+    given: Kevin S.
+  - family: Bauch
+    given: Chris T.
+  editor:
+  - family: Romanuk
+    given: Tamara Natasha
+  issued:
+  - year: 2012
+    month: 11
+  title: 'Food webs in the human body: Linking ecological theory to viral dynamics'
+  title-short: Food webs in the human body
+  container-title: PLoS ONE
+  publisher: Public Library of Science (PLoS)
+  page: e48812
+  volume: '7'
+  issue: '11'
+  URL: https://doi.org/10.1371%2Fjournal.pone.0048812
+  DOI: 10.1371/journal.pone.0048812
 
-- id: ID84941343227
+- id: ID84860235811
+  type: article-journal
+  author:
+  - family: Abrams
+    given: Peter A.
+  - family: Ruokolainen
+    given: Lasse
+  - family: Shuter
+    given: Brian J.
+  - family: McCann
+    given: Kevin S.
+  issued:
+  - year: 2012
+    month: 2
+  title: 'Harvesting creates ecological traps: Consequences of invisible mortality
+    risks in predator-prey metacommunities'
+  title-short: Harvesting creates ecological traps
+  container-title: Ecology
+  publisher: Wiley
+  page: 281-293
+  volume: '93'
+  issue: '2'
+  URL: https://doi.org/10.1890%2F11-0011.1
+  DOI: 10.1890/11-0011.1
+
+- id: ID84455199711
+  type: article-journal
+  author:
+  - family: Rooney
+    given: Neil
+  - family: McCann
+    given: Kevin S.
+  issued:
+  - year: 2012
+    month: 1
+  title: Integrating food web diversity, structure and stability
+  container-title: Trends in Ecology & Evolution
+  publisher: Elsevier BV
+  page: 40-46
+  volume: '27'
+  issue: '1'
+  URL: https://doi.org/10.1016%2Fj.tree.2011.09.001
+  DOI: 10.1016/j.tree.2011.09.001
+
+- id: ID83655192569
+  type: article-journal
+  author:
+  - family: Gellner
+    given: Gabriel
+  - family: McCann
+    given: Kevin
+  issued:
+  - year: 2012
+    month: 1
+  title: Reconciling the omnivory-stability debate
+  container-title: The American Naturalist
+  publisher: University of Chicago Press
+  page: 22-37
+  volume: '179'
+  issue: '1'
+  URL: https://doi.org/10.1086%2F663191
+  DOI: 10.1086/663191
+
+- id: ID80053435687
+  type: article-journal
+  author:
+  - family: Ruokolainen
+    given: Lasse
+  - family: Abrams
+    given: Peter A.
+  - family: McCann
+    given: Kevin S.
+  - family: Shuter
+    given: Brian J.
+  issued:
+  - year: 2011
+    month: 12
+  title: The roles of spatial heterogeneity and adaptive movement in stabilizing (or
+    destabilizing) simple metacommunities
+  container-title: Journal of Theoretical Biology
+  publisher: Elsevier BV
+  page: 76-87
+  volume: '291'
+  issue: '1'
+  URL: https://doi.org/10.1016%2Fj.jtbi.2011.09.004
+  DOI: 10.1016/j.jtbi.2011.09.004
+
+- id: ID79960429077
+  type: article-journal
+  author:
+  - family: Rip
+    given: J. M. K.
+  - family: McCann
+    given: K. S.
+  issued:
+  - year: 2011
+    month: 6
+  title: Cross-ecosystem differences in stability and the principle of energy flux
+  container-title: Ecology Letters
+  publisher: Wiley
+  page: 733-740
+  volume: '14'
+  issue: '8'
+  URL: https://doi.org/10.1111%2Fj.1461-0248.2011.01636.x
+  DOI: 10.1111/j.1461-0248.2011.01636.x
+
+- id: ID79959966529
+  type: article-journal
+  author:
+  - family: Smith
+    given: M. Alex
+  - family: Eveleigh
+    given: Eldon S.
+  - family: McCann
+    given: Kevin S.
+  - family: Merilo
+    given: Mark T.
+  - family: McCarthy
+    given: Peter C.
+  - family: Rooyen
+    given: Kathleen I. Van
+  editor:
+  - family: Romanuk
+    given: Tamara Natasha
+  issued:
+  - year: 2011
+    month: 7
+  title: 'Barcoding a quantified food web: Crypsis, concepts, ecology and hypotheses'
+  title-short: Barcoding a quantified food web
+  container-title: PLoS ONE
+  publisher: Public Library of Science (PLoS)
+  page: e14424
+  volume: '6'
+  issue: '7'
+  URL: https://doi.org/10.1371%2Fjournal.pone.0014424
+  DOI: 10.1371/journal.pone.0014424
+
+- id: ID79957643493
+  type: article-journal
+  author:
+  - family: Sheehy
+    given: Justin
+  - family: Taylor
+    given: Caz M.
+  - family: McCann
+    given: Kevin S.
+  - family: Norris
+    given: D. Ryan
+  issued:
+  - year: 2010
+    month: 2
+  title: 'Optimal conservation planning for migratory animals: Integrating demographic
+    information across seasons'
+  title-short: Optimal conservation planning for migratory animals
+  container-title: Conservation Letters
+  publisher: Wiley
+  page: 192-202
+  volume: '3'
+  issue: '3'
+  URL: https://doi.org/10.1111%2Fj.1755-263x.2010.00100.x
+  DOI: 10.1111/j.1755-263x.2010.00100.x
+
+- id: ID77953507610
+  type: article-journal
+  author:
+  - family: Rip
+    given: Jason M. K.
+  - family: McCann
+    given: Kevin S.
+  - family: Lynn
+    given: Denis H.
+  - family: Fawcett
+    given: Sonia
+  issued:
+  - year: 2010
+    month: 2
+  title: An experimental test of a fundamental food web motif
+  container-title: 'Proceedings of the Royal Society B: Biological Sciences'
+  publisher: The Royal Society
+  page: 1743-1749
+  volume: '277'
+  issue: '1688'
+  URL: https://doi.org/10.1098%2Frspb.2009.2191
+  DOI: 10.1098/rspb.2009.2191
+
+- id: ID77952334513
+  type: article-journal
+  author:
+  - family: Fryxell
+    given: J. M.
+  - family: Packer
+    given: C.
+  - family: McCann
+    given: K.
+  - family: Solberg
+    given: E. J.
+  - family: Saether
+    given: B.-E.
+  issued:
+  - year: 2010
+    month: 5
+  title: Resource management cycles and the sustainability of harvested wildlife populations
+  container-title: Science
+  publisher: American Association for the Advancement of Science (AAAS)
+  page: 903-906
+  volume: '328'
+  issue: '5980'
+  URL: https://doi.org/10.1126%2Fscience.1185802
+  DOI: 10.1126/science.1185802
+
+- id: ID68149103019
+  type: article-journal
+  author:
+  - family: Dolson
+    given: Rebecca
+  - family: McCann
+    given: Kevin
+  - family: Rooney
+    given: Neil
+  - family: Ridgway
+    given: Mark
+  issued:
+  - year: 2009
+    month: 8
+  title: Lake morphometry predicts the degree of habitat coupling by a mobile predator
+  container-title: Oikos
+  publisher: Wiley
+  page: 1230-1238
+  volume: '118'
+  issue: '8'
+  URL: https://doi.org/10.1111%2Fj.1600-0706.2009.17351.x
+  DOI: 10.1111/j.1600-0706.2009.17351.x
+
+- id: ID67650245842
+  type: article-journal
+  author:
+  - family: McCann
+    given: Kevin Shear
+  - family: Rooney
+    given: Neil
+  issued:
+  - year: 2009
+    month: 6
+  title: The more food webs change, the more they stay the same
+  container-title: 'Philosophical Transactions of the Royal Society B: Biological
+    Sciences'
+  publisher: The Royal Society
+  page: 1789-1801
+  volume: '364'
+  issue: '1524'
+  URL: https://doi.org/10.1098%2Frstb.2008.0273
+  DOI: 10.1098/rstb.2008.0273
+
+- id: ID47349084547
+  type: article-journal
+  author:
+  - family: Rooney
+    given: Neil
+  - family: McCann
+    given: Kevin S.
+  - family: Moore
+    given: John C.
+  issued:
+  - year: 2008
+    month: 8
+  title: A landscape theory for food web architecture
+  container-title: Ecology Letters
+  publisher: Wiley
+  page: 867-881
+  volume: '11'
+  issue: '8'
+  URL: https://doi.org/10.1111%2Fj.1461-0248.2008.01193.x
+  DOI: 10.1111/j.1461-0248.2008.01193.x
+
+- id: ID40549111654
+  type: article-journal
+  author:
+  - family: Faria
+    given: Lucas Del Bianco
+  - family: Umbanhowar
+    given: James
+  - family: McCann
+    given: Kevin S.
+  issued:
+  - year: 2007
+    month: 8
+  title: The long-term and transient implications of multiple predators in biocontrol
+  container-title: Theoretical Ecology
+  publisher: Springer Science; Business Media LLC
+  page: 45-53
+  volume: '1'
+  issue: '1'
+  URL: https://doi.org/10.1007%2Fs12080-007-0003-z
+  DOI: 10.1007/s12080-007-0003-z
+
+- id: ID84900186641
+  type: book
+  editor:
+  - family: Rooney
+    given: Neil
+  - family: McCann
+    given: K. S.
+  - family: Noakes
+    given: D. L. G.
+  issued:
+  - year: 2006
+  title: Preface
+  container-title: 'From Energetics to Ecosystems: The Dynamics and Structure of Ecological
+    Systems'
+  publisher: Springer Netherlands
+  URL: https://doi.org/10.1007%2F978-1-4020-5337-5
+  DOI: 10.1007/978-1-4020-5337-5
+
+- id: ID84900180091
+  type: chapter
+  author:
+  - family: Yodzis
+    given: Peter
+  - family: McCann
+    given: Kevin
+  issued:
+  - year: 2007
+  title: Dynamic signatures of real and model ecosystems
+  container-title: 'From energetics to ecosystems: The dynamics and structure of ecological
+    systems'
+  publisher: Springer Netherlands
+  page: 185-190
+  URL: https://doi.org/10.1007%2F978-1-4020-5337-5_9
+  DOI: 10.1007/978-1-4020-5337-5_9
+
+- id: ID84900123271
+  type: book
+  editor:
+  - family: Rooney
+    given: Neil
+  - family: McCann
+    given: K. S.
+  - family: Noakes
+    given: D. L. G.
+  issued:
+  - year: 2006
+  title: 'From energetics to ecosystems: The dynamics and structure of ecological
+    systems'
+  title-short: From energetics to ecosystems
+  container-title: 'From Energetics to Ecosystems: The Dynamics and Structure of Ecological
+    Systems'
+  publisher: Springer Netherlands
+  page: 1-265
+  URL: https://doi.org/10.1007%2F978-1-4020-5337-5
+  DOI: 10.1007/978-1-4020-5337-5
+
+- id: ID78049277968
+  type: chapter
+  author:
+  - family: DeBruyn
+    given: Adrian M. H.
+  - family: McCann
+    given: Kevin S.
+  - family: Moore
+    given: John C.
+  - family: Strong
+    given: Donald R.
+  issued:
+  - year: 2007
+  title: An energetic framework for trophic control
+  container-title: 'From energetics to ecosystems: The dynamics and structure of ecological
+    systems'
+  publisher: Springer Netherlands
+  page: 65-85
+  URL: https://doi.org/10.1007%2F978-1-4020-5337-5_4
+  DOI: 10.1007/978-1-4020-5337-5_4
+
+- id: ID47249110541
+  type: chapter
+  author:
+  - family: Moore
+    given: John C.
+  - family: McCann
+    given: Kevin
+  - family: Ruiter
+    given: Peter C.
+    dropping-particle: de
+  issued:
+  - year: 2007
+  title: Soil rhizosphere food webs, their stability, and implications for soil processes
+    in ecosystems
+  container-title: The rhizosphere
+  publisher: Elsevier
+  page: 101-125
+  URL: https://doi.org/10.1016%2Fb978-012088775-0%2F50007-0
+  DOI: 10.1016/b978-012088775-0/50007-0
+
+- id: ID36749040834
+  type: article-journal
+  author:
+  - family: Eveleigh
+    given: E. S.
+  - family: McCann
+    given: K. S.
+  - family: McCarthy
+    given: P. C.
+  - family: Pollock
+    given: S. J.
+  - family: Lucarotti
+    given: C. J.
+  - family: Morin
+    given: B.
+  - family: McDougall
+    given: G. A.
+  - family: Strongman
+    given: D. B.
+  - family: Huber
+    given: J. T.
+  - family: Umbanhowar
+    given: J.
+  - family: Faria
+    given: L. D. B.
+  issued:
+  - year: 2007
+    month: 10
+  title: Fluctuations in density of an outbreak species drive diversity cascades in
+    food webs
+  container-title: Proceedings of the National Academy of Sciences
+  publisher: Proceedings of the National Academy of Sciences
+  page: 16976-16981
+  volume: '104'
+  issue: '43'
+  URL: https://doi.org/10.1073%2Fpnas.0704301104
+  DOI: 10.1073/pnas.0704301104
+
+- id: ID35348993253
+  type: article-journal
+  author:
+  - family: Tewfik
+    given: Alexander
+  - family: Rasmussen
+    given: Joseph B
+  - family: McCann
+    given: Kevin S
+  issued:
+  - year: 2007
+    month: 7
+  title: Simplification of seagrass food webs across a gradient of nutrient enrichment
+  container-title: Canadian Journal of Fisheries and Aquatic Sciences
+  publisher: Canadian Science Publishing
+  page: 956-967
+  volume: '64'
+  issue: '7'
+  URL: https://doi.org/10.1139%2Ff07-071
+  DOI: 10.1139/f07-071
+
+- id: ID34249799628
+  type: article-journal
+  author:
+  - family: Maser
+    given: Gabriel L.
+  - family: Guichard
+    given: Frédéric
+  - family: McCann
+    given: Kevin S.
+  issued:
+  - year: 2007
+    month: 7
+  title: Weak trophic interactions and the balance of enriched metacommunities
+  container-title: Journal of Theoretical Biology
+  publisher: Elsevier BV
+  page: 337-345
+  volume: '247'
+  issue: '2'
+  URL: https://doi.org/10.1016%2Fj.jtbi.2007.03.003
+  DOI: 10.1016/j.jtbi.2007.03.003
+
+- id: ID34249020529
+  type: article-journal
+  author:
+  - family: Tewfik
+    given: A
+  - family: Guichard
+    given: F
+  - family: McCann
+    given: KS
+  issued:
+  - year: 2007
+    month: 4
+  title: Influence of acute and chronic disturbance on macrophyte landscape zonation
+  container-title: Marine Ecology Progress Series
+  publisher: Inter-Research Science Center
+  page: 111-121
+  volume: '335'
+  URL: https://doi.org/10.3354%2Fmeps335111
+  DOI: 10.3354/meps335111
+
+- id: ID33947535361
+  type: article-journal
+  author:
+  - family: Hovius
+    given: Jonathan T.
+  - family: Beisner
+    given: Beatrix E.
+  - family: McCann
+    given: Kevin S.
+  - family: Yan
+    given: Norman D.
+  issued:
+  - year: 2006
+    month: 10
+  title: 'Indirect food web effects of bythotrephes invasion: Responses by the rotifer
+    conochilus in harp lake, canada'
+  title-short: Indirect food web effects of bythotrephes invasion
+  container-title: Biological Invasions
+  publisher: Springer Science; Business Media LLC
+  page: 233-243
+  volume: '9'
+  issue: '3'
+  URL: https://doi.org/10.1007%2Fs10530-006-9028-2
+  DOI: 10.1007/s10530-006-9028-2
+
+- id: ID33847364116
+  type: article-journal
+  author:
+  - family: McCann
+    given: Kevin
+  issued:
+  - year: 2007
+    month: 2
+  title: Protecting biostructure
+  container-title: Nature
+  publisher: Springer Science; Business Media LLC
+  page: 29-29
+  volume: '446'
+  issue: '7131'
+  URL: https://doi.org/10.1038%2F446029a
+  DOI: 10.1038/446029a
+
+- id: ID33746374366
+  type: article-journal
+  author:
+  - family: Rooney
+    given: Neil
+  - family: McCann
+    given: Kevin
+  - family: Gellner
+    given: Gabriel
+  - family: Moore
+    given: John C.
+  issued:
+  - year: 2006
+    month: 7
+  title: Structural asymmetry and the stability of diverse food webs
+  container-title: Nature
+  publisher: Springer Science; Business Media LLC
+  page: 265-269
+  volume: '442'
+  issue: '7100'
+  URL: https://doi.org/10.1038%2Fnature04887
+  DOI: 10.1038/nature04887
+
+- id: ID33745990787
   type: article-journal
   author:
   - family: Hatton
     given: I. A.
   - family: McCann
     given: K. S.
-  - family: Fryxell
-    given: J. M.
-  - family: Davies
-    given: T. J.
-  - family: Smerlak
-    given: M.
-  - family: Sinclair
-    given: A. R. E.
-  - family: Loreau
-    given: M.
+  - family: Umbanhowar
+    given: J.
+  - family: Rasmussen
+    given: J. B.
   issued:
-  - year: 2015
-    month: 9
-  title: 'The predator-prey power law: Biomass scaling across terrestrial and aquatic
-    biomes'
-  title-short: The predator-prey power law
-  container: Science
-  publisher: American Association for the Advancement of Science (AAAS)
-  page: aac6284-aac6284
-  volume: '349'
-  issue: '6252'
-  URL: https://doi.org/10.1126%2Fscience.aac6284
-  DOI: 10.1126/science.aac6284
-
-
-- id: ID84943660939
-  type: article-journal
-  author:
-  - family: Ward
-    given: Colette L.
-  - family: McCann
-    given: Kevin S.
-  - family: Rooney
-    given: Neil
-  editor:
-  - family: Chase
-    given: Jonathan
-  issued:
-  - year: 2015
-    month: 8
-  title: 'HSS revisited: Multi-channel processes mediate trophic control across
-    a productivity gradient'
-  title-short: HSS revisited
-  container: Ecology Letters
+  - year: 2006
+    month: 6
+  title: A dynamical approach to evaluate risk in resource management
+  container-title: Ecological Applications
   publisher: Wiley
-  page: '1190-1197'
-  volume: '18'
-  issue: '11'
-  URL: https://doi.org/10.1111%2Fele.12498
-  DOI: 10.1111/ele.12498
+  page: 1238-1248
+  volume: '16'
+  issue: '3'
+  URL: https://doi.org/10.1890%2F1051-0761%282006%29016%5B1238%3Aadater%5D2.0.co%3B2
+  DOI: 10.1890/1051-0761(2006)016[1238:adater]2.0.co;2
 
-
-- id: ID84945893445
+- id: ID33645083980
   type: article-journal
   author:
-  - family: McMeans
-    given: Bailey C.
-  - family: McCann
-    given: Kevin S.
-  - family: Humphries
-    given: Murray
-  - family: Rooney
-    given: Neil
-  - family: Fisk
-    given: Aaron T.
-  issued:
-  - year: 2015
-    month: 11
-  title: Food web structure in temporally-forced ecosystems
-  container: Trends in Ecology & Evolution
-  publisher: Elsevier BV
-  page: '662-672'
-  volume: '30'
-  issue: '11'
-  URL: https://doi.org/10.1016%2Fj.tree.2015.09.001
-  DOI: 10.1016/j.tree.2015.09.001
-
-
-- id: ID84947940391
-  type: article-journal
-  author:
-  - family: Nilsson
-    given: Karin A.
+  - family: Hovius
+    given: Jonathan T.
+  - family: Beisner
+    given: Beatrix E.
   - family: McCann
     given: Kevin S.
   issued:
-  - year: 2015
-    month: 11
-  title: Interaction strength revisited—clarifying the role of energy flux for food
-    web stability
-  container: Theoretical Ecology
-  publisher: Springer Nature
-  page: '59-71'
-  volume: '9'
-  issue: '1'
-  URL: https://doi.org/10.1007%2Fs12080-015-0282-8
-  DOI: 10.1007/s12080-015-0282-8
+  - year: 2006
+    month: 3
+  title: Epilimnetic rotifer community responses to bythotrephes longimanus invasion
+    in canadian shield lakes
+  container-title: Limnology and Oceanography
+  publisher: Wiley
+  page: 1004-1012
+  volume: '51'
+  issue: '2'
+  URL: https://doi.org/10.4319%2Flo.2006.51.2.1004
+  DOI: 10.4319/lo.2006.51.2.1004
 
-
-- id: ID84954481847
-  type: article-journal
+- id: ID84882893221
+  type: chapter
   author:
+  - family: Sabo
+    given: John L.
+  - family: Beisner
+    given: Beatrix E.
+  - family: Berlow
+    given: Eric L.
+  - family: Cuddington
+    given: Kim
   - family: Hastings
     given: Alan
+  - family: Koen-Alonso
+    given: Mariano
+  - family: Kokkoris
+    given: Giorgos D.
+  - family: McCann
+    given: Kevin
+  - family: Melian
+    given: Carlos
+  - family: Moore
+    given: John C.
+  issued:
+  - year: 2005
+  title: Population dynamics and food web structure-predicting measurable food web
+    properties with minimal detail and resolution
+  container-title: Dynamic food webs
+  publisher: Elsevier
+  page: 437-450
+  URL: https://doi.org/10.1016%2Fb978-012088458-2%2F50041-2
+  DOI: 10.1016/b978-012088458-2/50041-2
+
+- id: ID84882886033
+  type: chapter
+  author:
+  - family: McCann
+    given: Kevin
+  - family: Rasmussen
+    given: Joe
+  - family: Umbanhowar
+    given: James
+  - family: Humphries
+    given: Murray
+  issued:
+  - year: 2005
+  title: The role of space, time, and variability in food web dynamics
+  container-title: Dynamic food webs
+  publisher: Elsevier
+  page: 56-70
+  URL: https://doi.org/10.1016%2Fb978-012088458-2%2F50008-4
+  DOI: 10.1016/b978-012088458-2/50008-4
+
+- id: ID73249127044
+  type: chapter
+  author:
   - family: McCann
     given: Kevin S.
+  issued:
+  - year: 2005
+  title: Perspectives on diversity, structure, and stability
+  container-title: Ecological paradigms lost
+  publisher: Elsevier
+  page: 183-200
+  URL: https://doi.org/10.1016%2Fb978-012088459-9%2F50011-x
+  DOI: 10.1016/b978-012088459-9/50011-x
+
+- id: ID30644467654
+  type: article-journal
+  issued:
+  - year: 2005
+    month: 12
+  title: 'Erratum: Anthropogenic enrichment alters a marine benthic food web (ecology
+    (2005) 86:10 (2726-2736))'
+  title-short: Erratum
+  container-title: Ecology
+  publisher: Wiley
+  page: 3429-3429
+  volume: '86'
+  issue: '12'
+  URL: https://doi.org/10.1890%2F0012-9658%282005%2986%5B3428%3Ae%5D2.0.co%3B2
+  DOI: 10.1890/0012-9658(2005)86[3428:e]2.0.co;2
+
+- id: ID27744607941
+  type: article-journal
+  author:
+  - family: Moore
+    given: John C.
+  - family: McCann
+    given: Kevin
   - family: Ruiter
     given: Peter C.
     dropping-particle: de
   issued:
-  - year: 2016
-    month: 1
-  title: 'Introduction to the special issue: Theory of food webs'
-  title-short: Introduction to the special issue
-  container: Theoretical Ecology
-  publisher: Springer Nature
-  page: '1-2'
-  volume: '9'
-  issue: '1'
-  URL: https://doi.org/10.1007%2Fs12080-016-0292-1
-  DOI: 10.1007/s12080-016-0292-1
+  - year: 2005
+    month: 11
+  title: Modeling trophic pathways, nutrient cycling, and dynamic stability in soils
+  container-title: Pedobiologia
+  publisher: Elsevier BV
+  page: 499-510
+  volume: '49'
+  issue: '6'
+  URL: https://doi.org/10.1016%2Fj.pedobi.2005.05.008
+  DOI: 10.1016/j.pedobi.2005.05.008
 
+- id: ID26444601287
+  type: article-journal
+  author:
+  - family: Vadeboncoeur
+    given: Yvonne
+  - family: McCann
+    given: Kevin S.
+  - family: Zanden
+    given: M. Jake Vander
+  - family: Rasmussen
+    given: Joseph B.
+  issued:
+  - year: 2005
+    month: 9
+  title: Effects of multi-chain omnivory on the strength of trophic control in lakes
+  container-title: Ecosystems
+  publisher: Springer Science; Business Media LLC
+  page: 682-693
+  volume: '8'
+  issue: '6'
+  URL: https://doi.org/10.1007%2Fs10021-003-0149-5
+  DOI: 10.1007/s10021-003-0149-5
 
-- id: ID84958279566
+- id: ID26044471410
   type: article-journal
   author:
   - family: Tewfik
     given: Alexander
-  - family: Bell
-    given: Susan S.
+  - family: Rasmussen
+    given: JosephB.
   - family: McCann
     given: Kevin S.
-  - family: Morrow
-    given: Kristina
-  editor:
-  - family: Armitage
-    given: Anna R.
   issued:
-  - year: 2016
-    month: 1
-  title: Predator diet and trophic position modified with altered habitat morphology
-  container: PLOS ONE
-  publisher: Public Library of Science (PLoS)
-  page: 'e0147759'
-  volume: '11'
-  issue: '1'
-  URL: https://doi.org/10.1371%2Fjournal.pone.0147759
-  DOI: 10.1371/journal.pone.0147759
-
-
-- id: ID84960945010
-  type: article-journal
-  author:
-  - family: McMeans
-    given: Bailey C.
-  - family: McCann
-    given: Kevin S.
-  - family: Tunney
-    given: Tyler D.
-  - family: Fisk
-    given: Aaron T.
-  - family: Muir
-    given: Andrew M.
-  - family: Lester
-    given: Nigel
-  - family: Shuter
-    given: Brian
-  - family: Rooney
-    given: Neil
-  issued:
-  - year: 2016
-    month: 2
-  title: 'The adaptive capacity of lake food webs: From individuals to ecosystems'
-  title-short: The adaptive capacity of lake food webs
-  container: Ecological Monographs
+  - year: 2005
+    month: 10
+  title: Anthropogenic enrichment alters a marine benthic food web
+  container-title: Ecology
   publisher: Wiley
-  page: '4-19'
+  page: 2726-2736
   volume: '86'
-  issue: '1'
-  URL: https://doi.org/10.1890%2F15-0288.1
-  DOI: 10.1890/15-0288.1
+  issue: '10'
+  URL: https://doi.org/10.1890%2F04-1537
+  DOI: 10.1890/04-1537
 
+- id: ID24744456327
+  type: article-journal
+  author:
+  - family: Vasseur
+    given: David A.
+  - family: Gaedke
+    given: Ursula
+  - family: McCann
+    given: Kevin S.
+  issued:
+  - year: 2005
+    month: 9
+  title: A seasonal alternation of coherent and compensatory dynamics occurs in phytoplankton
+  container-title: Oikos
+  publisher: Wiley
+  page: 507-514
+  volume: '110'
+  issue: '3'
+  URL: https://doi.org/10.1111%2Fj.0030-1299.2005.14006.x
+  DOI: 10.1111/j.0030-1299.2005.14006.x
 
-- id: ID84962069636
+- id: ID23044440232
+  type: article-journal
+  author:
+  - family: Vasseur
+    given: David A.
+  - family: McCann
+    given: Kevin S.
+  issued:
+  - year: 2005
+    month: 8
+  title: A mechanistic approach for modeling temperature-dependent consumer-resource
+    dynamics
+  container-title: The American Naturalist
+  publisher: University of Chicago Press
+  page: 184-198
+  volume: '166'
+  issue: '2'
+  URL: https://doi.org/10.1086%2F431285
+  DOI: 10.1086/431285
+
+- id: ID18444369989
   type: article-journal
   author:
   - family: McCann
-    given: Kevin S.
-  - family: Gellner
-    given: Gabriel
-  - family: McMeans
-    given: Bailey C.
-  - family: Deenik
-    given: Tina
-  - family: Holtgrieve
-    given: Gordon
-  - family: Rooney
-    given: Neil
-  - family: Hannah
-    given: Lee
-  - family: Cooperman
-    given: Michael
-  - family: Nam
-    given: So
-  editor:
-  - family: Giacomini
-    given: Henrique
+    given: K. S.
+  - family: Rasmussen
+    given: J. B.
+  - family: Umbanhowar
+    given: J.
   issued:
-  - year: 2016
+  - year: 2005
+    month: 3
+  title: The dynamics of spatially coupled food webs
+  container-title: Ecology Letters
+  publisher: Wiley
+  page: 513-523
+  volume: '8'
+  issue: '5'
+  URL: https://doi.org/10.1111%2Fj.1461-0248.2005.00742.x
+  DOI: 10.1111/j.1461-0248.2005.00742.x
+
+- id: ID15444369647
+  type: article-journal
+  author:
+  - family: Umbanhowar
+    given: James
+  - family: McCann
+    given: Kevin
+  issued:
+  - year: 2005
+    month: 1
+  title: Simple rules for the coexistence and competitive dominance of plants mediated
+    by mycorrhizal fungi
+  container-title: Ecology Letters
+  publisher: Wiley
+  page: 247-252
+  volume: '8'
+  issue: '3'
+  URL: https://doi.org/10.1111%2Fj.1461-0248.2004.00714.x
+  DOI: 10.1111/j.1461-0248.2004.00714.x
+
+- id: ID4243131419
+  type: article-journal
+  author:
+  - family: Humphries
+    given: M. M.
+  issued:
+  - year: 2004
     month: 4
-  title: Food webs and the sustainability of indiscriminate fisheries
-  container: Canadian Journal of Fisheries and Aquatic Sciences
-  publisher: Canadian Science Publishing
-  page: '656-665'
+  title: Bioenergetic prediction of climate change impacts on northern mammals
+  container-title: Integrative and Comparative Biology
+  publisher: Oxford University Press (OUP)
+  page: 152-162
+  volume: '44'
+  issue: '2'
+  URL: https://doi.org/10.1093%2Ficb%2F44.2.152
+  DOI: 10.1093/icb/44.2.152
+
+- id: ID3342961682
+  type: article-journal
+  author:
+  - family: Teng
+    given: Jack
+  - family: McCann
+    given: Kevin S.
+  issued:
+  - year: 2004
+    month: 7
+  title: Dynamics of compartmented and reticulate food webs in relation to energetic
+    flows
+  container-title: The American Naturalist
+  publisher: University of Chicago Press
+  page: 85-100
+  volume: '164'
+  issue: '1'
+  URL: https://doi.org/10.1086%2F421723
+  DOI: 10.1086/421723
+
+- id: ID3142746304
+  type: article-journal
+  author:
+  - family: DeBruyn
+    given: Adrian M. H.
+  - family: McCann
+    given: Kevin S.
+  - family: Rasmussen
+    given: Joseph B.
+  issued:
+  - year: 2004
+    month: 7
+  title: Migration supports uneven consumer control in a sewage-enriched river food
+    web
+  container-title: Journal of Animal Ecology
+  publisher: Wiley
+  page: 737-746
   volume: '73'
   issue: '4'
-  URL: https://doi.org/10.1139%2Fcjfas-2015-0044
-  DOI: 10.1139/cjfas-2015-0044
+  URL: https://doi.org/10.1111%2Fj.0021-8790.2004.00845.x
+  DOI: 10.1111/j.0021-8790.2004.00845.x
 
-
-- id: ID84962385301
+- id: ID3042698659
   type: article-journal
   author:
-  - family: McMeans
-    given: Bailey C.
+  - family: Moore
+    given: John C.
+  - family: Berlow
+    given: Eric L.
+  - family: Coleman
+    given: David C.
+  - family: Ruiter
+    given: Peter C.
+  - family: Dong
+    given: Quan
+  - family: Hastings
+    given: Alan
+  - family: Johnson
+    given: Nancy Collins
   - family: McCann
     given: Kevin S.
-  - family: Humphries
-    given: Murray
-  - family: Rooney
-    given: Neil
-  - family: Fisk
-    given: Aaron T.
+  - family: Melville
+    given: Kim
+  - family: Morin
+    given: Peter J.
+  - family: Nadelhoffer
+    given: Knute
+  - family: Rosemond
+    given: Amy D.
+  - family: Post
+    given: David M.
+  - family: Sabo
+    given: John L.
+  - family: Scow
+    given: Kate M.
+  - family: Vanni
+    given: Michael J.
+  - family: Wall
+    given: Diana H.
   issued:
-  - year: 2016
-    month: 5
-  title: 'Correction to ’food web structure in temporally-forced ecosystems’ \[trends
-    in evolution &amp; ecology 30 (2015) 662-672\]DOI: 10.1016/j.tree.2015.09.001'
-  title-short: Correction to ’food web structure in temporally-forced ecosystems’
-    \[trends in evolution &amp; ecology 30 (2015) 662-672\]DOI
-  container: Trends in Ecology & Evolution
-  publisher: Elsevier BV
-  page: '408'
-  volume: '31'
-  issue: '5'
-  URL: https://doi.org/10.1016%2Fj.tree.2016.03.016
-  DOI: 10.1016/j.tree.2016.03.016
-
-
-- id: ID84964370935
-  type: article-journal
-  author:
-  - family: Gellner
-    given: Gabriel
-  - family: McCann
-    given: Kevin S.
-  issued:
-  - year: 2016
-    month: 4
-  title: Consistent role of weak and strong interactions in high- and low-diversity
-    trophic food webs
-  container: Nature Communications
-  publisher: Springer Nature
-  page: '11180'
+  - year: 2004
+    month: 6
+  title: Detritus, trophic dynamics and biodiversity
+  container-title: Ecology Letters
+  publisher: Wiley
+  page: 584-600
   volume: '7'
-  URL: https://doi.org/10.1038%2Fncomms11180
-  DOI: 10.1038/ncomms11180
+  issue: '7'
+  URL: https://doi.org/10.1111%2Fj.1461-0248.2004.00606.x
+  DOI: 10.1111/j.1461-0248.2004.00606.x
 
-
-- id: ID84970963180
+- id: ID0344496632
   type: article-journal
   author:
-  - family: Gellner
-    given: Gabriel
+  - family: McCann
+    given: Kevin S
+  - family: Botsford
+    given: Louis W
+  - family: Hasting
+    given: Alan
+  issued:
+  - year: 2003
+    month: 8
+  title: Differential response of marine populations to climate forcing
+  container-title: Canadian Journal of Fisheries and Aquatic Sciences
+  publisher: Canadian Science Publishing
+  page: 971-985
+  volume: '60'
+  issue: '8'
+  URL: https://doi.org/10.1139%2Ff03-078
+  DOI: 10.1139/f03-078
+
+- id: ID0043094329
+  type: article-journal
+  author:
+  - family: Moore
+    given: John C.
+  - family: McCann
+    given: Kevin
+  - family: Setälä
+    given: Heikki
+  - family: Ruiter
+    given: Peter C. De
+  issued:
+  - year: 2003
+    month: 4
+  title: 'Top-down is bottom-up: Does predation in the rhizosphere regulate aboveground
+    dynamics?'
+  title-short: Top-down is bottom-up
+  container-title: Ecology
+  publisher: Wiley
+  page: 846-857
+  volume: '84'
+  issue: '4'
+  URL: https://doi.org/10.1890%2F0012-9658%282003%29084%5B0846%3Atibdpi%5D2.0.co%3B2
+  DOI: 10.1890/0012-9658(2003)084[0846:tibdpi]2.0.co;2
+
+- id: ID0043179037
+  type: article-journal
+  author:
+  - family: Huxel
+    given: Gary R.
+  - family: McCann
+    given: Kevin
+  - family: Polis
+    given: Gary A.
+  issued:
+  - year: 2002
+    month: 6
+  title: Effects of partitioning allochthonous and autochthonous resources on food
+    web stability
+  container-title: Ecological Research
+  publisher: Wiley
+  page: 419-432
+  volume: '17'
+  issue: '4'
+  URL: https://doi.org/10.1046%2Fj.1440-1703.2002.00501.x
+  DOI: 10.1046/j.1440-1703.2002.00501.x
+
+- id: ID0034636310
+  type: article-journal
+  author:
+  - family: McCann
+    given: Kevin Shear
+  issued:
+  - year: 2000
+    month: 5
+  title: The diversity-stability
+  container-title: Nature
+  publisher: Springer Science; Business Media LLC
+  page: 228-233
+  volume: '405'
+  issue: '6783'
+  URL: https://doi.org/10.1038%2F35012234
+  DOI: 10.1038/35012234
+
+- id: ID0034001141
+  type: article-journal
+  author:
+  - family: McCann
+    given: Kevin
+  - family: Hastings
+    given: Alan
+  - family: Harrison
+    given: Susan
+  - family: Wilson
+    given: Will
+  issued:
+  - year: 2000
+    month: 3
+  title: Population outbreaks in a discrete world
+  container-title: Theoretical Population Biology
+  publisher: Elsevier BV
+  page: 97-108
+  volume: '57'
+  issue: '2'
+  URL: https://doi.org/10.1006%2Ftpbi.1999.1444
+  DOI: 10.1006/tpbi.1999.1444
+
+- id: ID0032915009
+  type: article-journal
+  author:
+  - family: Crawford
+    given: Stephen S.
+  - family: Balon
+    given: Eugene K.
+  - family: McCann
+    given: Kevin S.
+  issued:
+  - year: 1999
+  title: 'A mathematical technique for estimating blastodisc: Yolk volume ratios instead
+    of egg sizes'
+  title-short: A mathematical technique for estimating blastodisc
+  container-title: Environmental Biology of Fishes
+  publisher: Springer Science; Business Media LLC
+  page: 229-234
+  volume: '54'
+  issue: '2'
+  URL: https://doi.org/10.1023%2Fa%3A1007586127053
+  DOI: 10.1023/a:1007586127053
+
+- id: ID0032898627
+  type: article-journal
+  author:
+  - family: Wilson
+    given: William G.
+  - family: Harrison
+    given: Susan P.
+  - family: Hastings
+    given: Alan
+  - family: Mccann
+    given: Kevin
+  issued:
+  - year: 1999
+    month: 1
+  title: Exploring stable pattern formation in models of tussock moth populations
+  container-title: Journal of Animal Ecology
+  publisher: Wiley
+  page: 94-107
+  volume: '68'
+  issue: '1'
+  URL: https://doi.org/10.1046%2Fj.1365-2656.1999.00265.x
+  DOI: 10.1046/j.1365-2656.1999.00265.x
+
+- id: ID0032558786
+  type: article-journal
+  author:
+  - family: McCann
+    given: Kevin
+  - family: Hastings
+    given: Alan
+  - family: Huxel
+    given: Gary R.
+  issued:
+  - year: 1998
+    month: 10
+  title: Weak trophic interactions and the balance of nature
+  container-title: Nature
+  publisher: Springer Science; Business Media LLC
+  page: 794-798
+  volume: '395'
+  issue: '6704'
+  URL: https://doi.org/10.1038%2F27427
+  DOI: 10.1038/27427
+
+- id: ID0032492131
+  type: article-journal
+  author:
   - family: McCann
     given: Kevin S.
   - family: Hastings
     given: Alan
+  - family: Strong
+    given: Donald R.
   issued:
-  - year: 2016
-    month: 5
-  title: 'The duality of stability: Towards a stochastic theory of species interactions'
-  title-short: The duality of stability
-  container: Theoretical Ecology
-  publisher: Springer Nature
-  page: '477-485'
-  volume: '9'
-  issue: '4'
-  URL: https://doi.org/10.1007%2Fs12080-016-0303-2
-  DOI: 10.1007/s12080-016-0303-2
+  - year: 1998
+    month: 2
+  title: Trophic cascades and trophic trickles in pelagic food webs
+  container-title: 'Proceedings of the Royal Society of London. Series B: Biological
+    Sciences'
+  publisher: The Royal Society
+  page: 205-209
+  volume: '265'
+  issue: '1392'
+  URL: https://doi.org/10.1098%2Frspb.1998.0283
+  DOI: 10.1098/rspb.1998.0283
 
-
-- id: ID84975493834
+- id: ID0032435285
   type: article-journal
   author:
-  - family: Edmunds
-    given: Nicholas B.
-  - family: McCann
-    given: Kevin S.
-  - family: Laberge
-    given: Frédéric
-  issued:
-  - year: 2016
-  title: Food web structure shapes the morphology of teleost fish brains
-  container: Brain, Behavior and Evolution
-  publisher: S. Karger AG
-  page: '128-138'
-  volume: '87'
-  issue: '2'
-  URL: https://doi.org/10.1159%2F000445973
-  DOI: 10.1159/000445973
-
-
-- id: ID84978159537
-  type: article-journal
-  author:
-  - family: Edmunds
-    given: Nicholas B.
-  - family: Laberge
-    given: Frédéric
-  - family: McCann
-    given: Kevin S.
-  editor:
-  - family: Brose
-    given: Ulrich
-  issued:
-  - year: 2016
-    month: 6
-  title: A role for brain size and cognition in food webs
-  container: Ecology Letters
-  publisher: Wiley
-  page: '948-955'
-  volume: '19'
-  issue: '8'
-  URL: https://doi.org/10.1111%2Fele.12633
-  DOI: 10.1111/ele.12633
-
-
-- id: ID84985982471
-  type: article-journal
-  author:
-  - family: Laberge
-    given: Frédéric
-  - family: Edmunds
-    given: Nicholas
-  - family: Yin-Liao
-    given: Irene
-  - family: McCann
-    given: Kevin S.
-  issued:
-  - year: 2016
-    month: 9
-  title: Relationship between ontogenetic changes in foraging ecology and muscle lactate
-    dehydrogenase activity in wild smallmouth bass (micropterus dolomieu)
-  container: Canadian Journal of Fisheries and Aquatic Sciences
-  publisher: Canadian Science Publishing
-  page: '1389-1394'
-  volume: '73'
-  issue: '9'
-  URL: https://doi.org/10.1139%2Fcjfas-2015-0537
-  DOI: 10.1139/cjfas-2015-0537
-
-
-- id: ID84986309383
-  type: article-journal
-  author:
-  - family: Jarvis
-    given: Lauren
   - family: McCann
     given: Kevin
-  - family: Tunney
-    given: Tyler
-  - family: Gellner
-    given: Gabriel
-  - family: Fryxell
-    given: John M.
+  - family: Yodzis
+    given: Peter
   issued:
-  - year: 2016
-    month: 7
-  title: Early warning signals detect critical impacts of experimental warming
-  container: Ecology and Evolution
-  publisher: Wiley
-  page: '6097-6106'
-  volume: '6'
-  issue: '17'
-  URL: https://doi.org/10.1002%2Fece3.2339
-  DOI: 10.1002/ece3.2339
-
-
-- id: ID84992358950
-  type: article-journal
-  author:
-  - family: Turetsky
-    given: Merritt R.
-  - family: Baltzer
-    given: Jennifer L.
-  - family: Johnstone
-    given: Jill F.
-  - family: Mack
-    given: Michelle C.
-  - family: McCann
-    given: Kevin
-  - family: Schuur
-    given: Edward A. G.
-  issued:
-  - year: 2016
-    month: 10
-  title: 'Losing legacies, ecological release, and transient responses: Key challenges
-    for the future of northern ecosystem science'
-  title-short: Losing legacies, ecological release, and transient responses
-  container: Ecosystems
-  publisher: Springer Nature
-  page: '23-30'
-  volume: '20'
-  issue: '1'
-  URL: https://doi.org/10.1007%2Fs10021-016-0055-2
-  DOI: 10.1007/s10021-016-0055-2
-
-
-- id: ID85010366687
-  type: chapter
-  author:
-  - family: Murall
-    given: C. L.
-  - family: Abbate
-    given: J. L.
-  - family: Touzel
-    given: M. Puelma
-  - family: Allen-Vercoe
-    given: E.
-  - family: Alizon
-    given: S.
-  - family: Froissart
-    given: R.
-  - family: McCann
-    given: K.
-  issued:
-  - year: 2017
-  title: Invasions of host-associated microbiome networks
-  container: 'Networks of invasion: Empirical evidence and case studies'
-  publisher: Elsevier
-  page: '201-281'
-  volume: '57'
-  URL: https://doi.org/10.1016%2Fbs.aecr.2016.11.002
-  DOI: 10.1016/bs.aecr.2016.11.002
-
-
-- id: ID85010460513
-  type: article-journal
-  author:
-  - family: Caskenette
-    given: Amanda L.
-  - family: McCann
-    given: Kevin S.
-  editor:
-  - family: Belgrano
-    given: Andrea
-  issued:
-  - year: 2017
-    month: 1
-  title: Biomass reallocation between juveniles and adults mediates food web stability
-    by distributing energy away from strong interactions
-  container: PLOS ONE
-  publisher: Public Library of Science (PLoS)
-  page: 'e0170725'
-  volume: '12'
-  issue: '1'
-  URL: https://doi.org/10.1371%2Fjournal.pone.0170725
-  DOI: 10.1371/journal.pone.0170725
-
-
-- id: ID85015734020
-  type: article-journal
-  author:
-  - family: Bieg
-    given: Carling
-  - family: McCann
-    given: Kevin S.
-  - family: Fryxell
-    given: John M.
-  issued:
-  - year: 2017
-    month: 3
-  title: The dynamical implications of human behaviour on a social-ecological harvesting
-    model
-  container: Theoretical Ecology
-  publisher: Springer Nature
-  page: '341-354'
-  volume: '10'
-  issue: '3'
-  URL: https://doi.org/10.1007%2Fs12080-017-0334-3
-  DOI: 10.1007/s12080-017-0334-3
-
-
-- id: ID85017251492
-  type: article-journal
-  author:
-  - family: Betini
-    given: Gustavo S.
-  - family: Avgar
-    given: Tal
-  - family: McCann
-    given: Kevin S.
-  - family: Fryxell
-    given: John M.
-  issued:
-  - year: 2017
-    month: 4
-  title: Daphnia inhibits the emergence of spatial pattern in a simple consumer–resource
-    system
-  container: Ecology
-  publisher: Wiley
-  page: '1163-1170'
-  volume: '98'
-  issue: '4'
-  URL: https://doi.org/10.1002%2Fecy.1752
-  DOI: 10.1002/ecy.1752
-
-
-- id: ID85026901795
-  type: article-journal
-  author:
-  - family: Pool
-    given: Thomas
-  - family: Holtgrieve
-    given: Gordon
-  - family: Elliott
-    given: Vittoria
-  - family: McCann
-    given: Kevin
-  - family: McMeans
-    given: Bailey
-  - family: Rooney
-    given: Neil
-  - family: Smits
-    given: Adrianne
-  - family: Phanara
-    given: Thach
-  - family: Cooperman
-    given: Michael
-  - family: Clark
-    given: Sydney
-  - family: Phen
-    given: Chheng
-  - family: Chhuoy
-    given: Samol
-  issued:
-  - year: 2017
-    month: 7
-  title: Seasonal increases in fish trophic niche plasticity within a flood-pulse
-    river ecosystem (tonle sap lake, cambodia)
-  container: Ecosphere
-  publisher: Wiley
-  page: 'e01881'
-  volume: '8'
-  issue: '7'
-  URL: https://doi.org/10.1002%2Fecs2.1881
-  DOI: 10.1002/ecs2.1881
-
-
-- id: ID85032910507
-  type: article-journal
-  author:
-  - family: Houk
-    given: P.
-  - family: Cuetos-Bueno
-    given: J.
-  - family: Kerr
-    given: A. M.
-  - family: McCann
-    given: K.
-  issued:
-  - year: 2017
-    month: 11
-  title: Linking fishing pressure with ecosystem thresholds and food web stability
-    on coral reefs
-  container: Ecological Monographs
-  publisher: Wiley
-  page: '109-119'
-  volume: '88'
-  issue: '1'
-  URL: https://doi.org/10.1002%2Fecm.1278
-  DOI: 10.1002/ecm.1278
-
-
-- id: ID85033661203
-  type: article-journal
-  author:
-  - family: Fryxell
-    given: John M.
-  - family: Hilborn
-    given: Ray
-  - family: Bieg
-    given: Carling
-  - family: Turgeon
-    given: Katrine
-  - family: Caskenette
-    given: Amanda
-  - family: McCann
-    given: Kevin S.
-  issued:
-  - year: 2017
-    month: 10
-  title: Supply and demand drive a critical transition to dysfunctional fisheries
-  container: Proceedings of the National Academy of Sciences
-  publisher: Proceedings of the National Academy of Sciences
-  page: '12333-12337'
-  volume: '114'
-  issue: '46'
-  URL: https://doi.org/10.1073%2Fpnas.1705525114
-  DOI: 10.1073/pnas.1705525114
-
-
-- id: ID85034038933
-  type: article-journal
-  author:
-  - family: KC
-    given: K. B.
-  - family: Bond
-    given: N.
-  - family: Fraser
-    given: E. D. G.
-  - family: Elliott
-    given: V.
-  - family: Farrell
-    given: T.
-  - family: McCann
-    given: K.
-  - family: Rooney
-    given: N.
-  - family: Bieg
-    given: C.
-  issued:
-  - year: 2017
-    month: 11
-  title: 'Exploring tropical fisheries through fishers’ perceptions: Fishing down
-    the food web in the tonlé sap, cambodia'
-  title-short: Exploring tropical fisheries through fishers’ perceptions
-  container: Fisheries Management and Ecology
-  publisher: Wiley
-  page: '452-459'
-  volume: '24'
-  issue: '6'
-  URL: https://doi.org/10.1111%2Ffme.12246
-  DOI: 10.1111/fme.12246
-
-
-- id: ID85040168601
-  type: article-journal
-  author:
-  - family: McCauley
-    given: Douglas J.
-  - family: Gellner
-    given: Gabriel
-  - family: Martinez
-    given: Neo D.
-  - family: Williams
-    given: Richard J.
-  - family: Sandin
-    given: Stuart A.
-  - family: Micheli
-    given: Fiorenza
-  - family: Mumby
-    given: Peter J.
-  - family: McCann
-    given: Kevin S.
-  editor:
-  - family: Brose
-    given: Ulrich
-  issued:
-  - year: 2018
-    month: 1
-  title: On the prevalence and dynamics of inverted trophic pyramids and otherwise
-    top-heavy communities
-  container: Ecology Letters
-  publisher: Wiley
-  page: '439-454'
-  volume: '21'
-  issue: '3'
-  URL: https://doi.org/10.1111%2Fele.12900
-  DOI: 10.1111/ele.12900
-
-
-- id: ID85043300135
-  type: article-journal
-  author:
-  - family: MacDougall
-    given: Andrew S.
-  - family: Harvey
-    given: Eric
-  - family: McCune
-    given: Jenny L.
-  - family: Nilsson
-    given: Karin A.
-  - family: Bennett
-    given: Joseph
-  - family: Firn
-    given: Jennifer
-  - family: Bartley
-    given: Timothy
-  - family: Grace
-    given: James B.
-  - family: Kelly
-    given: Jocelyn
-  - family: Tunney
-    given: Tyler D.
-  - family: McMeans
-    given: Bailey
-  - family: Matsuzaki
-    given: Shin-Ichiro S.
-  - family: Kadoya
-    given: Taku
-  - family: Esch
-    given: Ellen
-  - family: Cazelles
-    given: Kevin
-  - family: Lester
-    given: Nigel
-  - family: McCann
-    given: Kevin S.
-  issued:
-  - year: 2018
-    month: 3
-  title: Context-dependent interactions and the regulation of species richness in
-    freshwater fish
-  container: Nature Communications
-  publisher: Springer Nature
-  volume: '9'
-  issue: '1'
-  URL: https://doi.org/10.1038%2Fs41467-018-03419-1
-  DOI: 10.1038/s41467-018-03419-1
-
-
-- id: ID85044318519
-  type: article-journal
-  author:
-  - family: Tunney
-    given: Tyler D.
-  - family: McCann
-    given: Kevin S.
-  - family: Jarvis
-    given: Lauren
-  - family: Lester
-    given: Nigel P.
-  - family: Shuter
-    given: Brian J.
-  issued:
-  - year: 2018
-    month: 1
-  title: Blinded by the light? Nearshore energy pathway coupling and relative predator
-    biomass increase with reduced water transparency across lakes
-  container: Oecologia
-  publisher: Springer Nature
-  page: '1031-1041'
-  volume: '186'
-  issue: '4'
-  URL: https://doi.org/10.1007%2Fs00442-017-4049-3
-  DOI: 10.1007/s00442-017-4049-3
-
-
-- id: ID85045435739
-  type: article-journal
-  author:
-  - family: Sinclair
-    given: A. R. E.
-  - family: Pech
-    given: Roger P.
-  - family: Fryxell
-    given: John M.
-  - family: McCann
-    given: Kevin
-  - family: Byrom
-    given: Andrea E.
-  - family: Savory
-    given: C. John
-  - family: Brashares
-    given: Justin
-  - family: Arthur
-    given: Anthony D.
-  - family: Catling
-    given: Peter C.
-  - family: Triska
-    given: Maggie D.
-  - family: Craig
-    given: Michael D.
-  - family: Sinclair
-    given: Tim J. E.
-  - family: McLaren
-    given: Jennie R.
-  - family: Turkington
-    given: Roy
-  - family: Beyers
-    given: Rene L.
-  - family: Harrower
-    given: William L.
-  issued:
-  - year: 2017
-    month: 7
-  title: Predicting and assessing progress in the restoration of ecosystems
-  container: Conservation Letters
-  publisher: Wiley
-  page: 'e12390'
-  volume: '11'
-  issue: '2'
-  URL: https://doi.org/10.1111%2Fconl.12390
-  DOI: 10.1111/conl.12390
-
-
-- id: ID85046601603
-  type: article-journal
-  author:
-  - family: Johnson
-    given: Laura E.
-  - family: McMeans
-    given: Bailey
-  - family: Rooney
-    given: Neil
-  - family: Gutgesell
-    given: Marie
-  - family: Moccia
-    given: Richard
-  - family: McCann
-    given: Kevin S.
-  issued:
-  - year: 2018
-    month: 6
-  title: Asymmetric assimilation of an anthropogenic resource subsidy in a freshwater
-    food web
-  container: Food Webs
-  publisher: Elsevier BV
-  page: 'e00084'
-  volume: '15'
-  URL: https://doi.org/10.1016%2Fj.fooweb.2018.e00084
-  DOI: 10.1016/j.fooweb.2018.e00084
-
-
-- id: ID85047664479
-  type: article-journal
-  author:
-  - family: Nilsson
-    given: Karin A.
-  - family: McCann
-    given: Kevin S.
-  - family: Caskenette
-    given: Amanda L.
-  issued:
-  - year: 2018
-    month: 5
-  title: Interaction strength and stability in stage-structured food web modules
-  container: Oikos
-  publisher: Wiley
-  page: '1494-1505'
-  volume: '127'
-  issue: '10'
-  URL: https://doi.org/10.1111%2Foik.05029
-  DOI: 10.1111/oik.05029
-
-
-
-- id: ID85048741153
-  type: article-journal
-  author:
-  - family: Ngor
-    given: Peng Bun
-  - family: McCann
-    given: Kevin S.
-  - family: Grenouillet
-    given: Gaël
-  - family: So
-    given: Nam
-  - family: McMeans
-    given: Bailey C.
-  - family: Fraser
-    given: Evan
-  - family: Lek
-    given: Sovan
-  issued:
-  - year: 2018
-    month: 6
-  title: Evidence of indiscriminate fishing effects in one of the world’s largest
-    inland fisheries
-  container: Scientific Reports
-  publisher: Springer Nature
-  volume: '8'
-  issue: '1'
-  URL: https://doi.org/10.1038%2Fs41598-018-27340-1
-  DOI: 10.1038/s41598-018-27340-1
-
-
-- id: ID85051220531
-  type: article-journal
-  author:
-  - family: Kadoya
-    given: Taku
-  - family: Gellner
-    given: Gabriel
-  - family: McCann
-    given: Kevin S.
-  editor:
-  - family: Gravel
-    given: Dominique
-  issued:
-  - year: 2018
-    month: 6
-  title: Potential oscillators and keystone modules in food webs
-  container: Ecology Letters
-  publisher: Wiley
-  page: '1330-1340'
-  volume: '21'
-  issue: '9'
-  URL: https://doi.org/10.1111%2Fele.13099
-  DOI: 10.1111/ele.13099
-
-
-- id: ID85052391486
-  type: article-journal
-  author:
-  - family: Kennedy
-    given: P. J.
-  - family: Bartley
-    given: T. J.
-  - family: Gillis
-    given: D. M.
-  - family: McCann
-    given: K. S.
-  - family: Rennie
-    given: M. D.
-  issued:
-  - year: 2018
-    month: 8
-  title: Offshore prey densities facilitate similar life history and behavioral patterns
-    in two distinct aquatic apex predators, northern pike and lake trout
-  container: Transactions of the American Fisheries Society
-  publisher: Wiley
-  page: '972-995'
-  volume: '147'
-  issue: '5'
-  URL: https://doi.org/10.1002%2Ftafs.10090
-  DOI: 10.1002/tafs.10090
-
-
-- id: ID85052525019
-  type: article-journal
-  author:
-  - family: Bieg
-    given: Carling
-  - family: McCann
-    given: Kevin S
-  - family: McMeans
-    given: Bailey C
-  - family: Rooney
-    given: Neil
-  - family: Holtgrieve
-    given: Gordon W
-  - family: Lek
-    given: Sovan
-  - family: Bun
-    given: Ngor Peng
-  - family: KC
-    given: Krishna B
-  - family: Fraser
-    given: Evan
-  issued:
-  - year: 2018
-    month: 8
-  title: 'Linking humans to food webs: A framework for the classification of global
-    fisheries'
-  title-short: Linking humans to food webs
-  container: Frontiers in Ecology and the Environment
-  publisher: Wiley
-  page: '412-420'
-  volume: '16'
-  issue: '7'
-  URL: https://doi.org/10.1002%2Ffee.1933
-  DOI: 10.1002/fee.1933
-
-
-- id: ID85052541206
-  type: article-journal
-  author:
-  - family: Edmunds
-    given: Nicholas B.
-  - family: McCann
-    given: Kevin S.
-  - family: Laberge
-    given: Frédéric
-  issued:
-  - year: 2018
-    month: 9
-  title: Relative heart size and fish foraging ecology in a lake food web
-  container: Canadian Journal of Fisheries and Aquatic Sciences
-  publisher: Canadian Science Publishing
-  page: '1477-1484'
-  volume: '75'
-  issue: '9'
-  URL: https://doi.org/10.1139%2Fcjfas-2017-0412
-  DOI: 10.1139/cjfas-2017-0412
-
-
-- id: ID85054100840
-  type: article-journal
-  author:
-  - family: Ward
-    given: Colette L.
-  - family: McCann
-    given: Kevin S.
-  issued:
-  - year: 2017
+  - year: 1998
     month: 12
-  title: A mechanistic theory for aquatic food chain length
-  container: Nature Communications
-  publisher: Springer Nature
-  page: '2028'
-  volume: '8'
-  issue: '1'
-  URL: https://doi.org/10.1038%2Fs41467-017-02157-0
-  DOI: 10.1038/s41467-017-02157-0
+  title: On the stabilizing role of stage structure in piscene consumer-resource interactions
+  container-title: Theoretical Population Biology
+  publisher: Elsevier BV
+  page: 227-242
+  volume: '54'
+  issue: '3'
+  URL: https://doi.org/10.1006%2Ftpbi.1997.1369
+  DOI: 10.1006/tpbi.1997.1369
+
+- id: ID0032420712
+  type: article-journal
+  author:
+  - family: McCann
+    given: Kevin
+  issued:
+  - year: 1998
+    month: 12
+  title: Density-dependent coexistence in fish communities
+  container-title: Ecology
+  publisher: Wiley
+  page: 2957-2967
+  volume: '79'
+  issue: '8'
+  URL: https://doi.org/10.1890%2F0012-9658%281998%29079%5B2957%3Addcifc%5D2.0.co%3B2
+  DOI: 10.1890/0012-9658(1998)079[2957:ddcifc]2.0.co;2
+
+- id: ID0031685141
+  type: article-journal
+  author:
+  - family: Huxel
+    given: Gary R.
+  - family: McCann
+    given: Kevin
+  issued:
+  - year: 1998
+    month: 9
+  title: 'Food web stability: The influence of trophic flows across habitats'
+  title-short: Food web stability
+  container-title: The American Naturalist
+  publisher: University of Chicago Press
+  page: 460-469
+  volume: '152'
+  issue: '3'
+  URL: https://doi.org/10.1086%2F286182
+  DOI: 10.1086/286182
+
+- id: ID0031583945
+  type: article-journal
+  author:
+  - family: Hastings
+    given: Alan
+  - family: Harrison
+    given: Susan
+  - family: McCann
+    given: Kevin
+  issued:
+  - year: 1997
+    month: 12
+  title: Unexpected spatial patterns in an insect outbreak match a predator diffusion
+    model
+  container-title: 'Proceedings of the Royal Society of London. Series B: Biological
+    Sciences'
+  publisher: The Royal Society
+  page: 1837-1840
+  volume: '264'
+  issue: '1389'
+  URL: https://doi.org/10.1098%2Frspb.1997.0253
+  DOI: 10.1098/rspb.1997.0253
+
+- id: ID0030870999
+  type: article-journal
+  author:
+  - family: McCann
+    given: Kevin
+  - family: Shuter
+    given: Brian
+  issued:
+  - year: 1997
+    month: 6
+  title: Bioenergetics of life history strategies and the comparative allometry of
+    reproduction
+  container-title: Canadian Journal of Fisheries and Aquatic Sciences
+  publisher: Canadian Science Publishing
+  page: 1289-1298
+  volume: '54'
+  issue: '6'
+  URL: https://doi.org/10.1139%2Ff97-026
+  DOI: 10.1139/f97-026
+
+- id: ID0030865359
+  type: article-journal
+  author:
+  - family: McCann
+    given: Kevin
+  - family: Hastings
+    given: Alan
+  issued:
+  - year: 1997
+    month: 8
+  title: Re-evaluating the omnivory-stability relationship in food webs
+  container-title: 'Proceedings of the Royal Society of London. Series B: Biological
+    Sciences'
+  publisher: The Royal Society
+  page: 1249-1254
+  volume: '264'
+  issue: '1385'
+  URL: https://doi.org/10.1098%2Frspb.1997.0172
+  DOI: 10.1098/rspb.1997.0172
+
+- id: ID0029479690
+  type: article-journal
+  author:
+  - family: Mccann
+    given: K.
+  - family: Yodzis
+    given: P.
+  issued:
+  - year: 1995
+    month: 10
+  title: Bifurcation structure of a three-species food-chain model
+  container-title: Theoretical Population Biology
+  publisher: Elsevier BV
+  page: 93-125
+  volume: '48'
+  issue: '2'
+  URL: https://doi.org/10.1006%2Ftpbi.1995.1023
+  DOI: 10.1006/tpbi.1995.1023
+
+- id: ID0028254194
+  type: article-journal
+  author:
+  - family: McCann
+    given: Kevin
+  - family: Yodzis
+    given: Peter
+  issued:
+  - year: 1994
+    month: 11
+  title: Nonlinear dynamics and population disappearances
+  container-title: The American Naturalist
+  publisher: University of Chicago Press
+  page: 873-879
+  volume: '144'
+  issue: '5'
+  URL: https://doi.org/10.1086%2F285714
+  DOI: 10.1086/285714
+
+- id: ID0028035790
+  type: article-journal
+  author:
+  - family: McCann
+    given: Kevin
+  - family: Yodzis
+    given: Peter
+  issued:
+  - year: 1994
+    month: 3
+  title: Biological conditions for chaos in a three-species food chain
+  container-title: Ecology
+  publisher: Wiley
+  page: 561-564
+  volume: '75'
+  issue: '2'
+  URL: https://doi.org/10.2307%2F1939558
+  DOI: 10.2307/1939558
+...
