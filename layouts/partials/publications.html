@@ -40,7 +40,7 @@
 
   <ol>
 
-  {{ range $index := (seq 2020 2010) }}
+  {{ range $index := (seq now.Year 2010) }}
 
     <h3> {{ $index }} </h3>
 
