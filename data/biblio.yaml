@@ -2548,21 +2548,6 @@ references:
   URL: https://doi.org/10.1016%2Fb978-012088459-9%2F50011-x
   DOI: 10.1016/b978-012088459-9/50011-x
 
-- id: ID30644467654
-  type: article-journal
-  issued:
-  - year: 2005
-    month: 12
-  title: 'Erratum: Anthropogenic enrichment alters a marine benthic food web (ecology
-    (2005) 86:10 (2726-2736))'
-  title-short: Erratum
-  container-title: Ecology
-  publisher: Wiley
-  page: 3429-3429
-  volume: '86'
-  issue: '12'
-  URL: https://doi.org/10.1890%2F0012-9658%282005%2986%5B3428%3Ae%5D2.0.co%3B2
-  DOI: 10.1890/0012-9658(2005)86[3428:e]2.0.co;2
 
 - id: ID27744607941
   type: article-journal
