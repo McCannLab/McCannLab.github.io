@@ -1,3 +1,22 @@
+- id:
+  type: article-journal
+  author:
+  - family: Bieg
+    given: Carling
+  - family: McCann
+    given: Kevin
+  issued:
+  - year: 2020
+    month: 08
+  title: "Fisheries restoration potential: Optimizing fisheries profits while maintaining food web structure"
+  container: Food Webs
+  publisher: Elsevier
+  page: 'e00168'
+  volume:
+  issue:
+  URL: https://doi.org/10.1016/j.fooweb.2020.e00168
+  DOI: 10.1016/j.fooweb.2020.e00168
+
 - id: ID0028035790
   type: article-journal
   author:
