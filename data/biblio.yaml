@@ -1,5 +1,3 @@
----
-references:
 - id: ID85086803894
   type: article-journal
   author:
@@ -806,50 +804,7 @@ references:
   URL: https://doi.org/10.1038%2Fs41467-017-02157-0
   DOI: 10.1038/s41467-017-02157-0
 
-- id: ID85048698134
-  type: book
-  editor:
-  - family: Moore
-    given: John C.
-  - family: Ruiter
-    given: Peter C.
-    dropping-particle: de
-  - family: McCann
-    given: Kevin S.
-  - family: Wolters
-    given: Volkmar
-  issued:
-  - year: 2017
-    month: 12
-  title: 'Adaptive food webs: Stability and transitions of real and model ecosystems'
-  title-short: Adaptive food webs
-  container-title: 'Adaptive Food Webs: Stability and Transitions of Real and Model
-    Ecosystems'
-  publisher: Cambridge University Press
-  page: 1-416
-  URL: https://doi.org/10.1017%2F9781316871867
-  DOI: 10.1017/9781316871867
 
-- id: ID85048656468
-  type: chapter
-  author:
-  - family: Moore
-    given: John C.
-  - family: Ruiter
-    given: Peter C.
-    dropping-particle: de
-  - family: McCann
-    given: Kevin S.
-  - family: Wolters
-    given: Volkmar
-  issued:
-  - year: 2017
-  title: Introduction
-  container-title: Adaptive food webs
-  publisher: Cambridge University Press
-  page: 1-6
-  URL: https://doi.org/10.1017%2F9781316871867.002
-  DOI: 10.1017/9781316871867.002
 
 - id: ID85034038933
   type: article-journal
@@ -2174,23 +2129,6 @@ references:
   URL: https://doi.org/10.1007%2Fs12080-007-0003-z
   DOI: 10.1007/s12080-007-0003-z
 
-- id: ID84900186641
-  type: book
-  editor:
-  - family: Rooney
-    given: Neil
-  - family: McCann
-    given: K. S.
-  - family: Noakes
-    given: D. L. G.
-  issued:
-  - year: 2006
-  title: Preface
-  container-title: 'From Energetics to Ecosystems: The Dynamics and Structure of Ecological
-    Systems'
-  publisher: Springer Netherlands
-  URL: https://doi.org/10.1007%2F978-1-4020-5337-5
-  DOI: 10.1007/978-1-4020-5337-5
 
 - id: ID84900180091
   type: chapter
@@ -2209,26 +2147,6 @@ references:
   URL: https://doi.org/10.1007%2F978-1-4020-5337-5_9
   DOI: 10.1007/978-1-4020-5337-5_9
 
-- id: ID84900123271
-  type: book
-  editor:
-  - family: Rooney
-    given: Neil
-  - family: McCann
-    given: K. S.
-  - family: Noakes
-    given: D. L. G.
-  issued:
-  - year: 2006
-  title: 'From energetics to ecosystems: The dynamics and structure of ecological
-    systems'
-  title-short: From energetics to ecosystems
-  container-title: 'From Energetics to Ecosystems: The Dynamics and Structure of Ecological
-    Systems'
-  publisher: Springer Netherlands
-  page: 1-265
-  URL: https://doi.org/10.1007%2F978-1-4020-5337-5
-  DOI: 10.1007/978-1-4020-5337-5
 
 - id: ID78049277968
   type: chapter
@@ -3176,4 +3094,3 @@ references:
   issue: '2'
   URL: https://doi.org/10.2307%2F1939558
   DOI: 10.2307/1939558
-...
