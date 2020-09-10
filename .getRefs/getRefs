@@ -1,6 +1,16 @@
 #!/bin/bash
+# This script automates converting the refs.bib file into the biblio.yaml file required in the McCannLab.ca website.
+# This script runs the getRefs.R script then uses pandoc to convert the file, then removes the first two and the last line (these yaml lines break the publications page). Several specific references are removed as well (references without authors)
+# This script then pulls the mccannlab website repository, git adds and commits the new biblio.yaml, then pushes the repo back to github.
 
-cd /home/chrisgg/Documents/Guelph/McCannLab/getRefs
+# Note this script runs on UNIX (linux and mac) computers - you will need to convert this script for Windows computers.
+# Requires pandoc and pandoc-citeproc
+
+cd McCannLab.github.io #change absolute path
+
+git pull origin devel
+
+cd McCannLab/getRefs #change absolute path
 
 Rscript getRefs.R
 
@@ -12,15 +22,13 @@ sed '1d;2d;/ID85048698134/,+22 d;/ID85048656468/,+19 d;/ID84900186641/,+16 d;/ID
 
 sed -i 's/container-title/container/g' biblio.yaml
 
-cp biblio.yaml /home/chrisgg/Documents/Guelph/McCannLab/McCannLab.github.io/data/biblio.yaml
+cp biblio.yaml McCannLab.github.io/data/biblio.yaml #change absolute path
 
 cd ..
 
 rm yamlfiles/*
 
-cd /home/chrisgg/Documents/Guelph/McCannLab/McCannLab.github.io
-
-git pull origin devel
+cd McCannLab.github.io #change absolute path
 
 git add data/biblio.yaml
 
