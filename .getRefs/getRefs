@@ -1,0 +1,27 @@
+#!/bin/bash
+
+cd /home/chrisgg/Documents/Guelph/McCannLab/getRefs
+
+Rscript getRefs.R
+
+cd yamlfiles
+
+pandoc-citeproc --bib2yaml refs.bib > refs.yaml
+
+sed '1d;2d;/ID85048698134/,+22 d;/ID85048656468/,+19 d;/ID84900186641/,+16 d;/ID84900123271/,+19 d;/ID30644467654/,+14 d;$d' refs.yaml  > biblio.yaml #removes erratum without author
+
+cp biblio.yaml /home/chrisgg/Documents/Guelph/McCannLab/McCannLab.github.io/data/biblio.yaml
+
+cd ..
+
+rm yamlfiles/*
+
+cd /home/chrisgg/Documents/Guelph/McCannLab/McCannLab.github.io
+
+git pull origin devel
+
+git add data/biblio.yaml
+
+git commit -m "updated publications"
+
+git push origin devel
