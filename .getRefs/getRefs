@@ -10,6 +10,8 @@ pandoc-citeproc --bib2yaml refs.bib > refs.yaml
 
 sed '1d;2d;/ID85048698134/,+22 d;/ID85048656468/,+19 d;/ID84900186641/,+16 d;/ID84900123271/,+19 d;/ID30644467654/,+14 d;$d' refs.yaml  > biblio.yaml #removes erratum without author
 
+sed -i 's/container-title/container/g' biblio.yaml
+
 cp biblio.yaml /home/chrisgg/Documents/Guelph/McCannLab/McCannLab.github.io/data/biblio.yaml
 
 cd ..
