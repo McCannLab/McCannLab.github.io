@@ -54,7 +54,8 @@
   {{ range $.Site.Data.alumni }}
 
   <h3> {{ .title }} {{ .given }} {{ .family }} {{ if .website }} <a href="{{ .website }}"> <i class="fa fa-globe" aria-hidden="true"></i></a> {{ end }} {{ if .twitter }} <a href="{{ .twitter  }}"> <i class="fa fa-twitter" aria-hidden="true"></i></a>
-    {{ end }}
+    {{ end }}{{ if .linkedin }} <a href="{{ .linkedin  }}"> <i class="fa fa-linkedin" aria-hidden="true"></i></a>
+      {{ end }}
   </h3>
   {{ .indate}} {{ .infor }} <br>
 
