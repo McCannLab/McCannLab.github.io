@@ -11,10 +11,14 @@ h5 {
   padding-top: 1rem;
 }
 
+.myflex {
+  display: flex;
+  align-items: center;
+}
 
 .navbar-nav a:hover {
-    color: #337ab7 !important;
-    font-weight:bold;
+  color: #337ab7 !important;
+  font-weight:bold;
 }
 
 video {
