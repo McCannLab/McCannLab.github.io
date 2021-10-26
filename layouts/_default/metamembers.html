@@ -4,16 +4,17 @@
 
 <div class="container">
 
-  <h1>{{ .Title }}</h1>
-
+  <h1><i class="fa fa-users" aria-hidden></i> {{ .Title }}</h1>
+  
   <div class="text-justify">{{ .Content }}</div>
+
 
   {{ range .Site.Data.members }}
   <div class="col-sm-6 text-left" style="padding:10px;marging:10px;">
     <div class="panel panel-default">
       <div class="panel-body">
         <div class="col-sm-4 text-right">
-          <img src="https://github.com/{{ .github }}.png" width="100%" class="img-rounded" alt="">
+          <img src="https://github.com/{{ .github }}.png" width="100%" class="img-rounded" alt="{{ .given_name }} {{ .family_name }}'s avatar">
         </div>
         <div class="col-sm-8">
           <h4 style="font-weight:bold;"> {{ .given_name }} {{ .family_name }} </h4>
@@ -46,21 +47,26 @@
 </div>
 
 
+<br>
+
+
 <div class="container">
 
   <br>
-  <h1 style = "position: relative;"><span id = "alumni" style= "position: absolute; top: -64px;"></span>Alumni</h1>
+  <h1 style = "position: relative;"><span id = "alumni" style= "position: absolute; top: -64px;"></span><i class="fa fa-users" aria-hidden></i> Alumni</h1>
 
   {{ range $.Site.Data.alumni }}
-
-  <h3> {{ .title }} {{ .given }} {{ .family }} {{ if .website }} <a href="{{ .website }}"> <i class="fa fa-globe" aria-hidden="true"></i></a> {{ end }} {{ if .twitter }} <a href="{{ .twitter  }}"> <i class="fa fa-twitter" aria-hidden="true"></i></a>
-    {{ end }}{{ if .linkedin }} <a href="{{ .linkedin  }}"> <i class="fa fa-linkedin" aria-hidden="true"></i></a>
-      {{ end }}
-  </h3>
-  {{ .indate}} {{ .infor }} <br>
-
+    <div class="col-sm-6 text-left" style="padding:10px;marging:10px;">
+      <div class="panel panel-default">
+        <div class="panel-body">
+        <!-- <div class="alumni_members"> -->
+          <h3> {{ .title }} {{ .given }} {{ .family }} {{ if .website }}<a href="{{ .website }}"> <i class="fa fa-globe" aria-hidden="true"></i></a>{{ end }} {{ if .twitter }} <a href="{{ .twitter  }}"> <i class="fa fa-twitter" aria-hidden="true"></i></a> {{ end }} {{ if .linkedin }} <a href="{{ .linkedin  }}"><i class="fa fa-linkedin" aria-hidden="true"></i></a>{{ end }} {{ if .github}} <a href="https://github.com/{{ .github }}"><i class="fa fa-github" aria-hidden></i></a> {{ end }} {{ if .researchgate}}<a href="https://www.researchgate.net/profile/{{ .researchgate }}"><i class="ai ai-researchgate"></i></a>{{ end }}
+          </h3>
+          {{ .indate}} {{ .infor }} <br>
+        </div>
+      </div>
+    </div>
   {{ end }}
-
 
 
 </div>

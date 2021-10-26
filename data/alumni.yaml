@@ -3,6 +3,23 @@
   family: Guzzo
   infor: "Post-doctoral fellow"
   indate: 2018-2020
+  researchgate: Matthew-Guzzo
+
+- title: Dr.
+  given: Gellner
+  family: Gabriel
+  infor: "Post-doctoral fellow"
+  indate: 2018-2020
+  researchgate: Gabriel-Gellner
+  github: gabrielgellner
+  
+  
+- given: Emily
+  family: Champagne
+  github: ejchampagne
+  info: emily_champagne
+  infor: "M.Sc"
+  indate: 2017-2020
 
 - title: Mr.
   given: Zachariah
@@ -10,18 +27,35 @@
   infor: "M.Sc"
   indate: 2019-2020
 
+- title: Dr. 
+  family: Bartley
+  given: Timothy J.
+  researchgate: Timothy_Bartley
+  twitter: TimothyJBartley
+  gscholar: 2hh7C1YAAAAJ&hl
+  github: bartleyt
+  infor: "Ph.D."
+  indate: 2012-2017
+
 - title: Dr.
   given: Torbjörn
   family: Säterberg
   infor: "Post-doctoral fellow"
   indate: 2018-2020
+  researchgate: Torbjoern-Saeterberg-2
 
 - title: Mr.
   given: Evan
   family: Versteeg
   infor: "Undergraduate Student"
   indate: 2018-2019
-
+  
+- title: Ms
+  given: Emelia 
+  family: Myles-Gonzales
+  infor: "Ms.Sc."
+  indate: 2016-2018
+  
 - title: Ms.
   given: Laura
   family: Johnson
@@ -36,6 +70,7 @@
   indate: July 2013-2017
   website: https://www.baileymcmeans.com/
   twitter: bailey_mcmeans
+  researchgate: bailey-Mcmeans
 
 - title: Dr.
   given: Karin
@@ -43,6 +78,7 @@
   infor: "Ph.D."
   indate: September 2012 - September 2014
   website: https://www.umu.se/en/staff/karin-nilsson01/?expandaccordion=p
+  researchgate: Karin-Nilsson-3
 
 - title: Dr.
   given: Jochen
@@ -50,6 +86,7 @@
   infor: "Post-doctoral fellow"
   indate: 2013-2016
   website: https://jochenfruend.wordpress.com/
+  researchgate: Jochen-Fruend
 
 - title: Dr.
   given: Taku
@@ -57,6 +94,7 @@
   infor: "Post-doctoral fellow"
   indate: 2013-2015
   website: http://tombo.sub.jp/index_e.html
+  researchgate: Taku-Kadoya
 
 - title: Mr
   given: Nicholas
@@ -83,6 +121,7 @@
   infor: "Ph.D."
   indate: Sept. 2007-2013
   website: https://tylertunney.weebly.com/
+  researchgate: Tyler-Tunney
 
 - title: Dr.
   given: Carmen Lía
@@ -90,6 +129,7 @@
   infor: "Ph.D."
   indate: 2009-2013
   twitter: cl_murall
+  researchgate: Carmen-Lia-Murall-2
 
 - title: Dr.
   given: Neil
@@ -97,13 +137,15 @@
   infor: "Post-doctoral fellow"
   indate: "April 2002-2007"
   website: https://experts.uoguelph.ca/neil-rooney
+  researchgate: Neil-Rooney
 
 - title: Dr.
-  given: James Umbanhower
+  given: James
   family: Umbanhower
   infor: "Post-doctoral fellow"
   indate: "Jan. 2001-2005"
   website: https://bio.unc.edu/faculty-profile/umbanhowar/
+  researchgate: James-Umbanhowar
 
 - title: Dr.
   given: David
@@ -111,6 +153,7 @@
   infor: "Post-doctoral fellow"
   indate: "Jan. 2002-2006"
   website: https://vasseurlab.yale.edu/
+  researchgate: David-Vasseur
 
 - title: Dr.
   given: Murray
