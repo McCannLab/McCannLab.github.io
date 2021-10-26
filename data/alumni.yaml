@@ -13,7 +13,6 @@
   researchgate: Gabriel-Gellner
   github: gabrielgellner
   
-  
 - given: Emily
   family: Champagne
   github: ejchampagne
@@ -40,24 +39,29 @@
 - title: Dr.
   given: Torbjörn
   family: Säterberg
+  researchgate: Torbjoern-Saeterberg-2
   infor: "Post-doctoral fellow"
   indate: 2018-2020
-  researchgate: Torbjoern-Saeterberg-2
 
-- title: Mr.
-  given: Evan
+- given: Brandon
+  family: Graham
+  role: Master Student
+  github: BraGrah
+  twitter: bragrah
+  infor: "M.Sc."
+  indate: 2017-2019
+
+- given: Evan
   family: Versteeg
   infor: "Undergraduate Student"
   indate: 2018-2019
   
-- title: Ms
-  given: Emelia 
+- given: Emelia 
   family: Myles-Gonzales
   infor: "Ms.Sc."
   indate: 2016-2018
   
-- title: Ms.
-  given: Laura
+- given: Laura
   family: Johnson
   infor: "M.Sc."
   indate: 2014-2017
@@ -96,8 +100,7 @@
   website: http://tombo.sub.jp/index_e.html
   researchgate: Taku-Kadoya
 
-- title: Mr
-  given: Nicholas
+- given: Nicholas
   family: Edmunds
   infor: "M.Sc."
   indate: 2013-2015
