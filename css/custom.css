@@ -65,6 +65,11 @@ video {
   padding-bottom: 10px;
 }
 
+iframe {
+  padding-top: 5px;
+  padding-bottom: 10px;
+}
+
 .tags {
   font-weight: 600;
   color: #444;
