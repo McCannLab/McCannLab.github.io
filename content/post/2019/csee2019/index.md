@@ -6,9 +6,9 @@ tags: [conference, talks, csee]
 
 <br>
 
-### They've made it :fireworks:!
+### They made it :fireworks:!
 
-{{< tweet 1163098801818808320 >}}
+{{< tweet user="carlingbieg" id="1163098801818808320" >}}
 
 
 ### Six relentless lab members traveled from Guelph to Fredericton by :car:, to attend the [CSEE, ESC, & AES 2019 Joint Meeting](http://csee-esc2019.ca/), what a trip!
